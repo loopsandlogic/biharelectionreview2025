@@ -1,0 +1,2860 @@
+constituency_no,constituency,serial_num,candidate_name,party,evmvotes,postalvotes,totalvotes,vote_percent
+1,Valmiki Nagar,1,Dhirendra Pratap Singh Alias Rinku Singh,Janata Dal (United),105771,284,106055,45.39
+1,Valmiki Nagar,2,Rameshwar Yadav,Bahujan Samaj Party,5294,18,5312,2.27
+1,Valmiki Nagar,3,Surendra Prasad,Indian National Congress,107374,356,107730,46.11
+1,Valmiki Nagar,4,Rajesh Sharma,Lok Samaj Party,2301,2,2303,0.99
+1,Valmiki Nagar,5,Azharuddin Ansari,Independent,1553,1,1554,0.67
+1,Valmiki Nagar,6,Mahmad Jalil,Independent,2426,0,2426,1.04
+1,Valmiki Nagar,7,Surendra Ram,Independent,1850,2,1852,0.79
+1,Valmiki Nagar,8,Nota,None of the Above,6391,9,6400,2.74
+2,Ramnagar,1,Aaditya Kumar,Bahujan Samaj Party,2649,14,2663,1.25
+2,Ramnagar,2,Nand Kishor Ram,Bharatiya Janata Party,114958,256,115214,54.13
+2,Ramnagar,3,Subodh Kumar,Rashtriya Janata Dal,79216,318,79534,37.36
+2,Ramnagar,4,Pappu Kumar Ranjan,Jan Suraaj Party,6933,59,6992,3.28
+2,Ramnagar,5,Lalan Paswan,Nationalist Congress Party,613,5,618,0.29
+2,Ramnagar,6,Vashishtha Paswan,Suheldev Bharatiya Samaj Party,1515,2,1517,0.71
+2,Ramnagar,7,Angad Ram,Independent,1842,0,1842,0.87
+2,Ramnagar,8,Santosh Ram,Independent,2294,1,2295,1.08
+2,Ramnagar,9,Nota,None of the Above,2178,6,2184,1.03
+3,Narkatiaganj,1,Deepak Yadav,Rashtriya Janata Dal,73355,231,73586,37.41
+3,Narkatiaganj,2,Md Motiur Rahman,Bahujan Samaj Party,941,10,951,0.48
+3,Narkatiaganj,3,Shashwat Kedar,Indian National Congress,5259,129,5388,2.74
+3,Narkatiaganj,4,Sanjay Kumar Pandey,Bharatiya Janata Party,99815,229,100044,50.86
+3,Narkatiaganj,5,Dilshad Ahmad,Fauji Janta Party,1236,2,1238,0.63
+3,Narkatiaganj,6,Mohammad Rashid Azim,Nationalist Congress Party,289,2,291,0.15
+3,Narkatiaganj,7,Md. Wasiullah,Jan Suraaj Party,4202,36,4238,2.15
+3,Narkatiaganj,8,Ishteyak Ahamad,Independent,3823,8,3831,1.95
+3,Narkatiaganj,9,Dhrup Ram,Independent,676,0,676,0.34
+3,Narkatiaganj,10,Maya Devi,Independent,2314,23,2337,1.19
+3,Narkatiaganj,11,Rajendra Prasad Yadav,Independent,1205,0,1205,0.61
+3,Narkatiaganj,12,Sameer Sunu,Independent,703,0,703,0.36
+3,Narkatiaganj,13,Nota,None of the Above,2201,2,2203,1.12
+4,Bagaha,1,Jayesh Mangalam Singh,Indian National Congress,100165,397,100562,44.59
+4,Bagaha,2,Ram Singh,Bharatiya Janata Party,106638,237,106875,47.39
+4,Bagaha,3,Nandesh Pandey Urf Chunnu Pandey,Jan Suraaj Party,5758,41,5799,2.57
+4,Bagaha,4,Mahfooz Alam,Aazad Samaj Party (Kanshi Ram),2648,11,2659,1.18
+4,Bagaha,5,Rahul Tiwari,Right to Recall Party,1110,1,1111,0.49
+4,Bagaha,6,Shailesh Kumar Chaudhary,Bharat Jan Jagran Dal,1028,0,1028,0.46
+4,Bagaha,7,Dinesh Agrawal,Independent,4231,8,4239,1.88
+4,Bagaha,8,Nota,None of the Above,3253,6,3259,1.45
+5,Lauriya,1,Mohammad Haroon,Bahujan Samaj Party,3426,16,3442,1.8
+5,Lauriya,2,Vinay Bihari,Bharatiya Janata Party,96225,285,96510,50.36
+5,Lauriya,3,Pappu Kumar Thakur,The Plurals Party,4030,5,4035,2.11
+5,Lauriya,4,Ran Kaushal Pratap Singh,Vikassheel Insaan Party,69214,330,69544,36.29
+5,Lauriya,5,Sunil Kumar,Jan Suraaj Party,15609,113,15722,8.2
+5,Lauriya,6,Nota,None of the Above,2385,9,2394,1.25
+6,Nautan,1,Amit Kumar,Indian National Congress,79525,355,79880,38.43
+6,Nautan,2,Narayan Prasad,Bharatiya Janata Party,101725,227,101952,49.05
+6,Nautan,3,Virendra Rao,Bahujan Samaj Party,2700,14,2714,1.31
+6,Nautan,4,Ajeet Kumar Sah,Janshakti Janta Dal,779,3,782,0.38
+6,Nautan,5,Jai Prakash,Nationalist Congress Party,268,2,270,0.13
+6,Nautan,6,Sanjay Prasad Alias Sanjay Kumar Singh,Apni Janta Party,816,6,822,0.4
+6,Nautan,7,Santosh Chaudhari,Jan Suraaj Party,12028,54,12082,5.81
+6,Nautan,8,Chitranjan Kumar Patel,Independent,1530,3,1533,0.74
+6,Nautan,9,Mohammad Ali,Independent,643,2,645,0.31
+6,Nautan,10,Bipin Bihari Pandey,Independent,1990,0,1990,0.96
+6,Nautan,11,Sikandar Ram,Independent,1943,0,1943,0.93
+6,Nautan,12,Nota,None of the Above,3215,5,3220,1.55
+7,Chanpatia,1,Abhishek Ranjan,Indian National Congress,87132,406,87538,40.07
+7,Chanpatia,2,Umakant Singh,Bharatiya Janata Party,86714,222,86936,39.8
+7,Chanpatia,3,Tripurari Kumar Tiwari Alias Manish Kashyap,Jan Suraaj Party,37057,115,37172,17.02
+7,Chanpatia,4,Bipin Tiwari Alias Bipin Nath Tiwari,Loktantrik Jan Swaraj Party,2106,2,2108,0.96
+7,Chanpatia,5,Mohammad Soaib,Independent,2091,1,2092,0.96
+7,Chanpatia,6,Nota,None of the Above,2606,3,2609,1.19
+8,Bettiah,1,Renu Devi,Bharatiya Janata Party,91621,286,91907,46.78
+8,Bettiah,2,Washi Ahmad,Indian National Congress,69258,276,69534,35.39
+8,Bettiah,3,Anil Kumar Singh,Jan Suraaj Party,6245,52,6297,3.21
+8,Bettiah,4,Chhathu Sharma,Jagrook Janta Party,780,0,780,0.4
+8,Bettiah,5,Satish Kumar,Sudharwadi Party,1300,0,1300,0.66
+8,Bettiah,6,Rohit Kumar Sikaria,Independent,24478,187,24665,12.55
+8,Bettiah,7,Nota,None of the Above,1977,4,1981,1.01
+9,Sikta,1,Aurangjeb,Aam Aadmi Party,2510,2,2512,1.19
+9,Sikta,2,Birendra Prasad Gupta,Communist Party of India (Marxist-Leninist) (Liberation),37252,179,37431,17.76
+9,Sikta,3,Santosh Ram,Bahujan Samaj Party,1959,5,1964,0.93
+9,Sikta,4,Sammridh Varma,Janata Dal (United),96911,262,97173,46.11
+9,Sikta,5,Utkarsh Srivastava,Jan Suraaj Party,8143,38,8181,3.88
+9,Sikta,6,Punam Sharma,Jagrook Janta Party,737,0,737,0.35
+9,Sikta,7,Md. Fakhruddin,Rashtriya Jansambhavna Party,2225,0,2225,1.06
+9,Sikta,8,Md Aslam,Independent,1720,2,1722,0.82
+9,Sikta,9,Khurshid Firoz Ahmad,Independent,49795,234,50029,23.74
+9,Sikta,10,Pramod Sah,Independent,1793,0,1793,0.85
+9,Sikta,11,Lalgurad Miyan,Independent,2426,1,2427,1.15
+9,Sikta,12,Nota,None of the Above,4566,2,4568,2.17
+10,Raxaul,1,Pramod Kumar Sinha,Bharatiya Janata Party,106498,267,106765,49.55
+10,Raxaul,2,Shyam Bihari Prasad,Indian National Congress,88382,505,88887,41.26
+10,Raxaul,3,Kapil Dev Prasad,Jan Suraaj Party,14585,71,14656,6.8
+10,Raxaul,4,Md Kalim,Independent,1169,1,1170,0.54
+10,Raxaul,5,Dhurendra Kumar,Independent,1460,0,1460,0.68
+10,Raxaul,6,Nota,None of the Above,2505,5,2510,1.17
+11,Sugauli,1,Zulfiquar Aftab,Bahujan Samaj Party,24750,286,25036,12.59
+11,Sugauli,2,Rajesh Kumar Alias Bablu Gupta,Lok Janshakti Party (Ram Vilas),98595,280,98875,49.74
+11,Sugauli,3,Ajay Kumar Jha,Jan Suraaj Party,24546,172,24718,12.43
+11,Sugauli,4,Jitendra Tiwari,Kisan Suraj Dal,4241,9,4250,2.14
+11,Sugauli,5,Shyam Kishor Chaudhary,Janshakti Janta Dal,40542,142,40684,20.47
+11,Sugauli,6,Nota,None of the Above,5214,13,5227,2.63
+12,Narkatia,1,Vishal Kumar,Janata Dal (United),104104,346,104450,46.7
+12,Narkatia,2,Shamim Ahmad,Rashtriya Janata Dal,102429,578,103007,46.06
+12,Narkatia,3,Lal Babu Prasad,Jan Suraaj Party,6949,53,7002,3.13
+12,Narkatia,4,Umar Farooque,Independent,815,1,816,0.36
+12,Narkatia,5,Washishth Prasad,Independent,1004,2,1006,0.45
+12,Narkatia,6,Md Harun Rashid,Independent,1937,0,1937,0.87
+12,Narkatia,7,Nota,None of the Above,5419,6,5425,2.43
+13,Harsidhi,1,Krishnanandan Paswan,Bharatiya Janata Party,96590,274,96864,47.74
+13,Harsidhi,2,Rajendra Kumar,Rashtriya Janata Dal,89216,553,89769,44.24
+13,Harsidhi,3,Awadhesh Kumar,Jan Suraaj Party,9487,81,9568,4.72
+13,Harsidhi,4,Ravi Kant Ravi,Kisan Suraj Dal,651,1,652,0.32
+13,Harsidhi,5,Jagdish Ram,Independent,798,2,800,0.39
+13,Harsidhi,6,Rajendra Paswan,Independent,2098,2,2100,1.03
+13,Harsidhi,7,Nota,None of the Above,3142,4,3146,1.55
+14,Govindganj,1,Ajeet Kumar Ram,Bahujan Samaj Party,1805,10,1815,0.99
+14,Govindganj,2,Ashok Kumar Singh,Aam Aadmi Party,929,0,929,0.51
+14,Govindganj,3,Raju Tiwari,Lok Janshakti Party (Ram Vilas),95684,350,96034,52.55
+14,Govindganj,4,Shashi Bhushan Rai Alias Gappu Rai,Indian National Congress,62965,386,63351,34.67
+14,Govindganj,5,Ashutosh Kumar,Janshakti Janta Dal,3465,6,3471,1.9
+14,Govindganj,6,Krishna Kant Mishra,Jan Suraaj Party,9767,63,9830,5.38
+14,Govindganj,7,Nitesh Kumar Shrivastava,The Plurals Party,3768,2,3770,2.06
+14,Govindganj,8,Rahul Kumar Priyadarshy,Akhand Bhartiya Yuva Party,629,1,630,0.34
+14,Govindganj,9,Nota,None of the Above,2906,5,2911,1.59
+15,Kesaria,1,Ram Adhar Rai,Aam Aadmi Party,2658,5,2663,1.51
+15,Kesaria,2,Shalini Mishra,Janata Dal (United),77879,313,78192,44.26
+15,Kesaria,3,Chutun Kumar,Rashtriya Jansambhavna Party,2249,4,2253,1.28
+15,Kesaria,4,Naj Ahamad Khan,Jan Suraaj Party,11132,74,11206,6.34
+15,Kesaria,5,Varun Vijay,Vikassheel Insaan Party,61591,261,61852,35.01
+15,Kesaria,6,Vinod Kumar,Janshakti Janta Dal,3303,10,3313,1.88
+15,Kesaria,7,Chandreshwar Mishra,Independent,4342,0,4342,2.46
+15,Kesaria,8,Punam Devi,Independent,2117,14,2131,1.21
+15,Kesaria,9,Ram Sharan Prasad Yadav,Independent,2767,15,2782,1.57
+15,Kesaria,10,Sunil Kumar,Independent,4562,5,4567,2.58
+15,Kesaria,11,Nota,None of the Above,3378,4,3382,1.91
+16,Kalyanpur,1,Manoj Kumar Yadav,Rashtriya Janata Dal,73030,459,73489,39.46
+16,Kalyanpur,2,Md Badiuzzaman,Bahujan Samaj Party,4439,51,4490,2.41
+16,Kalyanpur,3,Rambabu Das,Aam Aadmi Party,577,2,579,0.31
+16,Kalyanpur,4,Sachindra Prasad Singh,Bharatiya Janata Party,88759,298,89057,47.82
+16,Kalyanpur,5,Arvind Kumar Pandey,Lohiya Janta Dal,2249,1,2250,1.21
+16,Kalyanpur,6,Mantosh Kumar Sahni,Jan Suraaj Party,5158,48,5206,2.8
+16,Kalyanpur,7,Mohit Kumar,Jagrook Janta Party,624,0,624,0.34
+16,Kalyanpur,8,Ashok Kumar Yadav,Independent,2586,19,2605,1.4
+16,Kalyanpur,9,Nitesh Kumar Singh,Independent,1626,0,1626,0.87
+16,Kalyanpur,10,Rakesh Kumar Pandit,Independent,517,0,517,0.28
+16,Kalyanpur,11,Subodh Kumar,Independent,2504,8,2512,1.35
+16,Kalyanpur,12,Nota,None of the Above,3256,4,3260,1.75
+17,Pipra,1,Bipul Kumar,Bahujan Samaj Party,4684,11,4695,1.92
+17,Pipra,2,Rajmangal Prasad,Communist Party of India (Marxist),99129,548,99677,40.74
+17,Pipra,3,Shyam Babu Prasad Yadav,Bharatiya Janata Party,110119,303,110422,45.13
+17,Pipra,4,Amit Kumar Kushwaha,Nationalist Congress Party,2031,10,2041,0.83
+17,Pipra,5,Kundan Kumar,Bharat Jan Jagran Dal,1430,9,1439,0.59
+17,Pipra,6,Jagdish Prasad,Bajjikanchal Vikas Party,851,0,851,0.35
+17,Pipra,7,Shyam Kumar,Kisan Suraj Dal,857,2,859,0.35
+17,Pipra,8,Subodh Kumar,Jan Suraaj Party,9431,56,9487,3.88
+17,Pipra,9,Md Mumtaz Alam,Independent,2045,9,2054,0.84
+17,Pipra,10,Raviranjan Kumar,Independent,4409,1,4410,1.8
+17,Pipra,11,Rajmangal Prasad,Independent,4867,5,4872,1.99
+17,Pipra,12,Nota,None of the Above,3843,7,3850,1.57
+18,Madhuban,1,Kunal Bhushan Alias Bittu,Aam Aadmi Party,2592,10,2602,1.42
+18,Madhuban,2,Rana Randhir,Bharatiya Janata Party,85683,319,86002,46.78
+18,Madhuban,3,Sandhya Rani,Rashtriya Janata Dal,80025,485,80510,43.8
+18,Madhuban,4,Harishchandra Kumar Prasad,Bahujan Samaj Party,1503,5,1508,0.82
+18,Madhuban,5,Vijay Kumar Kushwaha,Jan Suraaj Party,5361,22,5383,2.93
+18,Madhuban,6,Shivshankar Ray,Janshakti Janta Dal,1099,2,1101,0.6
+18,Madhuban,7,Shashi Ranjan Kumar Alias Sonu Singh,Independent,2647,0,2647,1.44
+18,Madhuban,8,Syed Mohammad Imam,Independent,2005,2,2007,1.09
+18,Madhuban,9,Nota,None of the Above,2063,1,2064,1.12
+19,Motihari,1,Dewa Gupta,Rashtriya Janata Dal,91875,642,92517,43.17
+19,Motihari,2,Pramod Kumar,Bharatiya Janata Party,105645,435,106080,49.5
+19,Motihari,3,Fakhre Alam,Bahujan Samaj Party,1146,8,1154,0.54
+19,Motihari,4,Atul Kumar,Jan Suraaj Party,6521,71,6592,3.08
+19,Motihari,5,Sikandar Chaudhary,Rashtriya Jansambhavna Party,510,2,512,0.24
+19,Motihari,6,Sushil Kumar,The Plurals Party,323,0,323,0.15
+19,Motihari,7,Divyanshu Bhardwaj,Independent,2059,23,2082,0.97
+19,Motihari,8,Dukhit Ray,Independent,603,0,603,0.28
+19,Motihari,9,Brajbihari Yadav,Independent,1647,0,1647,0.77
+19,Motihari,10,Nota,None of the Above,2779,22,2801,1.31
+20,Chiraia,1,Lakshmi Narayan Prasad Yadav,Rashtriya Janata Dal,50854,358,51212,25.81
+20,Chiraia,2,Lal Babu Prasad Gupta,Bharatiya Janata Party,90308,264,90572,45.65
+20,Chiraia,3,Mukesh Kumar,Janshakti Janta Dal,2917,3,2920,1.47
+20,Chiraia,4,Mohammad Mahtab Alam,Samaj Shakti Party,773,3,776,0.39
+20,Chiraia,5,Sanjay Kumar,Jan Suraaj Party,15499,91,15590,7.86
+20,Chiraia,6,Achchhelal Prasad,Independent,34656,218,34874,17.58
+20,Chiraia,7,Nota,None of the Above,2474,0,2474,1.25
+21,Dhaka,1,Pawan Kumar Jaiswal,Bharatiya Janata Party,112198,351,112549,45.64
+21,Dhaka,2,Faisal Rahman,Rashtriya Janata Dal,112079,648,112727,45.72
+21,Dhaka,3,Madhusudan Kumar,Aam Aadmi Party,908,4,912,0.37
+21,Dhaka,4,Sikandar Bharti,Bahujan Samaj Party,393,3,396,0.16
+21,Dhaka,5,Kedar Ram,Nayak Yuva Kranti Party,215,0,215,0.09
+21,Dhaka,6,Doctor L. B. Prasad,Jan Suraaj Party,8263,84,8347,3.39
+21,Dhaka,7,Nagina Paswan,Rashtriya Jansambhavna Party,477,0,477,0.19
+21,Dhaka,8,Rana Ranjit,All India Majlis-E-Ittehadul Muslimeen,5704,26,5730,2.32
+21,Dhaka,9,Md Salim,Independent,495,0,495,0.2
+21,Dhaka,10,Subodh Kumar,Independent,1684,1,1685,0.68
+21,Dhaka,11,Nota,None of the Above,3042,5,3047,1.24
+22,Sheohar,1,Navneet Kumar,Rashtriya Janata Dal,65646,225,65871,31.35
+22,Sheohar,2,Md Sharfuddin,Bahujan Samaj Party,16357,112,16469,7.84
+22,Sheohar,3,Shweta Gupta,Janata Dal (United),97081,188,97269,46.29
+22,Sheohar,4,Amrendra Kumar,Bajjikanchal Vikas Party,1464,0,1464,0.7
+22,Sheohar,5,Niraj Singh,Jan Suraaj Party,13880,72,13952,6.64
+22,Sheohar,6,Purushottam Kumar,GaribJanta Party Loktantrik,1023,1,1024,0.49
+22,Sheohar,7,Mamta Kumari,Rashtriya Jansambhavna Party,802,0,802,0.38
+22,Sheohar,8,Anish Kumar,Independent,1100,0,1100,0.52
+22,Sheohar,9,Prakash Kumar,Independent,1363,0,1363,0.65
+22,Sheohar,10,Vijaychandra Jha,Independent,4466,0,4466,2.13
+22,Sheohar,11,Sanjay Sangharsh Singh,Independent,1488,1,1489,0.71
+22,Sheohar,12,Nota,None of the Above,4839,3,4842,2.3
+23,Riga,1,Amit Kumar,Indian National Congress,83975,293,84268,38.84
+23,Riga,2,Baidyanath Prasad,Bharatiya Janata Party,117252,141,117393,54.11
+23,Riga,3,Upendra Sahani,Rashtriya Jansambhavna Party,2255,1,2256,1.04
+23,Riga,4,Krishna Mohan Singh,Jan Suraaj Party,3055,23,3078,1.42
+23,Riga,5,Nagendra Kumar Paswan,Peoples Party of India (Democratic),351,5,356,0.16
+23,Riga,6,Dhiraj Kumar,Independent,423,0,423,0.19
+23,Riga,7,Dr. Pradeep Kumar Jayaswal,Independent,809,1,810,0.37
+23,Riga,8,Motilal Raut,Independent,849,0,849,0.39
+23,Riga,9,Ramnath Mahto,Independent,669,0,669,0.31
+23,Riga,10,Ramashish Ray,Independent,4039,2,4041,1.86
+23,Riga,11,Nota,None of the Above,2796,3,2799,1.29
+24,Bathnaha,1,Anil Kumar,Bharatiya Janata Party,123473,225,123698,57.47
+24,Bathnaha,2,Amrita Soni,Rashtriya Lok Janshakti Party,1873,4,1877,0.87
+24,Bathnaha,3,Navin Kumar,Indian National Congress,71619,310,71929,33.42
+24,Bathnaha,4,Sahdeo Ram,Bahujan Samaj Party,1750,4,1754,0.81
+24,Bathnaha,5,Deepak Raj,Janshakti Vikas Party (Democratic),825,0,825,0.38
+24,Bathnaha,6,Nawal Kishor Choudhary,Jan Suraaj Party,5245,37,5282,2.45
+24,Bathnaha,7,Manoj Sada,Lok Dal,661,1,662,0.31
+24,Bathnaha,8,Sunil Ram,"Proutist Bloc, India",583,0,583,0.27
+24,Bathnaha,9,Archana Kumari,Independent,1664,9,1673,0.78
+24,Bathnaha,10,Pramod Baitha,Independent,1972,0,1972,0.92
+24,Bathnaha,11,Brajesh Paswan,Independent,1191,3,1194,0.55
+24,Bathnaha,12,Nota,None of the Above,3800,7,3807,1.77
+25,Parihar,1,Akhilesh Narayan Thakur,Aam Aadmi Party,2010,3,2013,0.96
+25,Parihar,2,Gayetri Devi,Bharatiya Janata Party,82559,85,82644,39.36
+25,Parihar,3,Smita Gupta,Rashtriya Janata Dal,48374,160,48534,23.11
+25,Parihar,4,Awadhesh Prasad,Jan Suraaj Party,3201,16,3217,1.53
+25,Parihar,5,Chandrabhushan Kumar,Independent,1361,1,1362,0.65
+25,Parihar,6,Mahendra Singh Yadav,Independent,1614,1,1615,0.77
+25,Parihar,7,Mohd Muksaid Alam,Independent,794,0,794,0.38
+25,Parihar,8,Ram Vinod Nayak,Independent,1964,0,1964,0.94
+25,Parihar,9,Ritu Jaiswal,Independent,65271,184,65455,31.17
+25,Parihar,10,Nota,None of the Above,2379,0,2379,1.13
+26,Sursand,1,Anil Kumar,Bahujan Samaj Party,1216,2,1218,0.59
+26,Sursand,2,Rishi Kumar Agrawal,Aam Aadmi Party,1534,7,1541,0.74
+26,Sursand,3,Prof. Nagendra Raut,Janata Dal (United),103962,195,104157,50.04
+26,Sursand,4,Syed Abu Dojana,Rashtriya Janata Dal,80245,245,80490,38.67
+26,Sursand,5,Usha Kiran,Jan Suraaj Party,5951,42,5993,2.88
+26,Sursand,6,Satish Kumar Mishra,Vikas Vanchit Insan Party,924,0,924,0.44
+26,Sursand,7,Kameshwar Thakur,Independent,1768,1,1769,0.85
+26,Sursand,8,Prabhat Kumar,Independent,2303,7,2310,1.11
+26,Sursand,9,Manoj Kumar,Independent,1938,0,1938,0.93
+26,Sursand,10,Rajeev Nand,Independent,3625,0,3625,1.74
+26,Sursand,11,Vinay Kumar,Independent,1044,1,1045,0.5
+26,Sursand,12,Nota,None of the Above,3131,3,3134,1.51
+27,Bajpatti,1,Deonandan Ram,Bahujan Samaj Party,2180,6,2186,0.99
+27,Bajpatti,2,Mukesh Kumar Yadav,Rashtriya Janata Dal,95488,261,95749,43.47
+27,Bajpatti,3,Randhir Kumar,Aam Aadmi Party,1387,2,1389,0.63
+27,Bajpatti,4,Abdul Hasib,Peace Party,795,1,796,0.36
+27,Bajpatti,5,Aajam Khan,Jan Suraaj Party,6138,36,6174,2.8
+27,Bajpatti,6,Mohammad Aftab,Apna Adhikar Party,918,2,920,0.42
+27,Bajpatti,7,Rakesh Kumar,The Plurals Party,3079,1,3080,1.4
+27,Bajpatti,8,Rameshwar Kumar Mehto,Rashtriya Lok Morcha,99034,110,99144,45.02
+27,Bajpatti,9,Sushil Raj,Bhartiya Sarthak Party,1282,1,1283,0.58
+27,Bajpatti,10,Ajeet Kumar Jha,Independent,835,3,838,0.38
+27,Bajpatti,11,Asha Choudhary,Independent,793,1,794,0.36
+27,Bajpatti,12,Mohd. Zeyaur Rahman,Independent,2479,1,2480,1.13
+27,Bajpatti,13,Md. Munna Mansuri,Independent,3102,3,3105,1.41
+27,Bajpatti,14,Nota,None of the Above,2298,5,2303,1.05
+28,Sitamarhi,1,Raj Narayan Sah,Bahujan Samaj Party,1331,3,1334,0.62
+28,Sitamarhi,2,Sunil Kumar,Rashtriya Janata Dal,98243,421,98664,45.54
+28,Sitamarhi,3,Sunil Kumar Pintu,Bharatiya Janata Party,103952,274,104226,48.11
+28,Sitamarhi,4,Upendra Sahani,Rashtriya Jansambhavna Party,2417,2,2419,1.12
+28,Sitamarhi,5,Krishna Kumar Jha,"Proutist Bloc, India",337,1,338,0.16
+28,Sitamarhi,6,Pooja Arya,Lok Dal,168,1,169,0.08
+28,Sitamarhi,7,Chandrika Prasad,Independent,260,1,261,0.12
+28,Sitamarhi,8,Chandeshwar Prasad,Independent,993,2,995,0.46
+28,Sitamarhi,9,Thakur Chandan Kumar Singh,Independent,223,1,224,0.1
+28,Sitamarhi,10,Mahesh Nandan Singh,Independent,454,1,455,0.21
+28,Sitamarhi,11,Raghvendra Kumar,Independent,592,0,592,0.27
+28,Sitamarhi,12,Ram Kishor Ray,Independent,2867,0,2867,1.32
+28,Sitamarhi,13,Vinod Sah,Independent,1825,0,1825,0.84
+28,Sitamarhi,14,Nota,None of the Above,2279,5,2284,1.05
+29,Runnisaidpur,1,Chandan Kumar,Rashtriya Janata Dal,73843,92,73935,38.28
+29,Runnisaidpur,2,Jitendra Ram,Bahujan Samaj Party,2091,1,2092,1.08
+29,Runnisaidpur,3,Pankaj Kumar,Janata Dal (United),93580,92,93672,48.5
+29,Runnisaidpur,4,Imtiyaz Alam Nasir Ahmed,Desh Janhit Party,3489,1,3490,1.81
+29,Runnisaidpur,5,Pramod Kumar,Janshakti Janta Dal,1229,2,1231,0.64
+29,Runnisaidpur,6,Vijay Kumar Sah,Jan Suraaj Party,7645,26,7671,3.97
+29,Runnisaidpur,7,Shravan Sahni,Rashtriya Jansambhavna Party,1713,1,1714,0.89
+29,Runnisaidpur,8,Sanjay Kumar,Independent,3737,0,3737,1.93
+29,Runnisaidpur,9,Sujay Kumar Yadav,Independent,1287,0,1287,0.67
+29,Runnisaidpur,10,Nota,None of the Above,4312,3,4315,2.23
+30,Belsand,1,Amit Kumar,Lok Janshakti Party (Ram Vilas),81975,101,82076,44.83
+30,Belsand,2,Rana Randhir Singh Chouhan,Bahujan Samaj Party,7567,33,7600,4.15
+30,Belsand,3,Shamim Alam,Rashtriya Lok Janshakti Party,1703,3,1706,0.93
+30,Belsand,4,Sanjay Kumar Gupta,Rashtriya Janata Dal,59198,193,59391,32.44
+30,Belsand,5,Ambika Sah,Rashtriya Jansambhavna Party,2557,2,2559,1.4
+30,Belsand,6,Arpna Singh,Jan Suraaj Party,18969,56,19025,10.39
+30,Belsand,7,Vikash Kumar,Janshakti Janta Dal,2283,1,2284,1.25
+30,Belsand,8,Rudal Sah,Independent,879,0,879,0.48
+30,Belsand,9,Shyam Babu Singh,Independent,1441,1,1442,0.79
+30,Belsand,10,Nota,None of the Above,6108,2,6110,3.34
+31,Harlakhi,1,Sudhanshu Shekhar,Janata Dal (United),85239,247,85486,46.6
+31,Harlakhi,2,Jitender Yadav,Janshakti Janta Dal,1905,2,1907,1.04
+31,Harlakhi,3,Ratneshwar Thakur,Jan Suraaj Party,7915,67,7982,4.35
+31,Harlakhi,4,Rakesh Kumar Pandey,Communist Party of India,49006,244,49250,26.85
+31,Harlakhi,5,Vivek Kumar Jha,Rashtrawadi Janlok Party (Satya),1250,2,1252,0.68
+31,Harlakhi,6,Shivlal Paswan,Rashtriya Samaj Paksha,1044,2,1046,0.57
+31,Harlakhi,7,Satish Sharma,Jagrook Janta Party,1091,0,1091,0.59
+31,Harlakhi,8,Anil Jha,Independent,3239,1,3240,1.77
+31,Harlakhi,9,Md. Shabbir,Independent,21963,78,22041,12.02
+31,Harlakhi,10,Sanjeet Kumar Badal Gupta,Independent,3155,9,3164,1.72
+31,Harlakhi,11,Nota,None of the Above,6970,8,6978,3.8
+32,Benipatti,1,Ghata Dewangan,Bahujan Samaj Party,1363,5,1368,0.78
+32,Benipatti,2,Nalini Ranjan Jha Alias Rupan Jha,Indian National Congress,62934,287,63221,36.08
+32,Benipatti,3,Vinod Narayan Jha,Bharatiya Janata Party,86932,221,87153,49.74
+32,Benipatti,4,Shubhada Yadav,Aam Aadmi Party,1533,3,1536,0.88
+32,Benipatti,5,Ankit Kumar Jha,Aam Janta Pragati Party,434,1,435,0.25
+32,Benipatti,6,Abadh Kishor Jha,Janshakti Janta Dal,810,1,811,0.46
+32,Benipatti,7,Parvez Alam,Jan Suraaj Party,4190,30,4220,2.41
+32,Benipatti,8,Bechan Ram,All India Forward Bloc,480,2,482,0.28
+32,Benipatti,9,Lalita Devi,Peoples Party of India (Democratic),1273,1,1274,0.73
+32,Benipatti,10,Dr. B Jha Mrinal,Independent,10576,67,10643,6.07
+32,Benipatti,11,Pankaj Kumar Ram,Independent,1963,1,1964,1.12
+32,Benipatti,12,Nota,None of the Above,2108,5,2113,1.21
+33,Khajauli,1,Arun Shankar Prasad,Bharatiya Janata Party,100866,285,101151,49.36
+33,Khajauli,2,Braj Kishor Yadav,Rashtriya Janata Dal,87484,541,88025,42.95
+33,Khajauli,3,Md Sabir,Bahujan Samaj Party,1033,0,1033,0.5
+33,Khajauli,4,Ratneshwar Jha,Aadarsh Mithila Party,528,4,532,0.26
+33,Khajauli,5,Rupam Kumari,Jan Suraaj Party,4584,53,4637,2.26
+33,Khajauli,6,Rakesh Kumar Raushan,Independent,2651,19,2670,1.3
+33,Khajauli,7,Rajdev Das,Independent,865,1,866,0.42
+33,Khajauli,8,Ram Babu Yadav,Independent,2507,1,2508,1.22
+33,Khajauli,9,Nota,None of the Above,3517,5,3522,1.72
+34,Babubarhi,1,Arun Kumar Singh,Rashtriya Janata Dal,79974,679,80653,39.09
+34,Babubarhi,2,Mina Kumari,Janata Dal (United),97947,274,98221,47.61
+34,Babubarhi,3,Alok Kumar Yadav,Jan Suraaj Party,7688,52,7740,3.75
+34,Babubarhi,4,Kamlesh Kumar Jha,The Plurals Party,552,0,552,0.27
+34,Babubarhi,5,Jitendra Kumar Singh,Janshakti Vikas Party (Democratic),562,1,563,0.27
+34,Babubarhi,6,Dayanand Kumar,Right to Recall Party,460,1,461,0.22
+34,Babubarhi,7,Navin Kumar Thakur,Jagrook Janta Party,893,2,895,0.43
+34,Babubarhi,8,Mahavir Mandal,Samata Party,1557,2,1559,0.76
+34,Babubarhi,9,Shanti Devi,Janshakti Janta Dal,2551,5,2556,1.24
+34,Babubarhi,10,Amir Kumar Mahto,Independent,2327,0,2327,1.13
+34,Babubarhi,11,Umesh Kumar Yadav,Independent,5546,1,5547,2.69
+34,Babubarhi,12,Nota,None of the Above,5245,3,5248,2.54
+35,Bisfi,1,Arvind Kumar Mishra,Aam Aadmi Party,1329,2,1331,0.64
+35,Bisfi,2,Asif Ahmad,Rashtriya Janata Dal,100417,354,100771,48.62
+35,Bisfi,3,Haribhushan Thakur,Bharatiya Janata Party,92446,218,92664,44.71
+35,Bisfi,4,Brijmohan Thakur,Jagrook Janta Party,1144,2,1146,0.55
+35,Bisfi,5,Sanjay Kumar Mishra,Jan Suraaj Party,3101,23,3124,1.51
+35,Bisfi,6,Sonu Kumar,Janshakti Janta Dal,697,0,697,0.34
+35,Bisfi,7,Md Mohiuddin,Independent,3772,0,3772,1.82
+35,Bisfi,8,Sogarath Choupal,Independent,2149,0,2149,1.04
+35,Bisfi,9,Nota,None of the Above,1593,3,1596,0.77
+36,Madhubani,1,Samir Kumar Mahaseth,Rashtriya Janata Dal,76975,429,77404,36.65
+36,Madhubani,2,Anil Kumar Mishra,Jan Suraaj Party,8379,74,8453,4
+36,Madhubani,3,Ganesh Purbey,Rashtriya Jansambhavna Party,1849,3,1852,0.88
+36,Madhubani,4,Madhaw Anand,Rashtriya Lok Morcha,97743,213,97956,46.38
+36,Madhubani,5,Rashid Khalil,All India Majlis-E-Ittehadul Muslimeen,12938,33,12971,6.14
+36,Madhubani,6,Rajiv Kumar Jha,Right to Recall Party,1506,1,1507,0.71
+36,Madhubani,7,Ram Sagar Sharma,Jagrook Janta Party,4758,2,4760,2.25
+36,Madhubani,8,Sunendra Kant Kari,Samata Party,1362,1,1363,0.65
+36,Madhubani,9,Mihir Kumar Jha Alias Mahadeo Jha,Independent,1405,9,1414,0.67
+36,Madhubani,10,Nota,None of the Above,3527,1,3528,1.67
+37,Rajnagar,1,Bishnu Deo Mochi,Rashtriya Janata Dal,65778,399,66177,34.68
+37,Rajnagar,2,Siyaram Saday,Bahujan Samaj Party,1392,2,1394,0.73
+37,Rajnagar,3,Sujeet Kumar,Bharatiya Janata Party,107983,379,108362,56.79
+37,Rajnagar,4,Maheshwar Paswan,Bhartiya Chetna Party,1838,0,1838,0.96
+37,Rajnagar,5,Rakesh Kumar,Apni Janta Party,902,1,903,0.47
+37,Rajnagar,6,Rampari Devi,Aam Janta Pragati Party,3568,0,3568,1.87
+37,Rajnagar,7,Surendra Kumar Das,Jan Suraaj Party,5604,65,5669,2.97
+37,Rajnagar,8,Nota,None of the Above,2886,3,2889,1.51
+38,Jhanjharpur,1,Deo Kant Jha,Aam Aadmi Party,2345,2,2347,1.22
+38,Jhanjharpur,2,Nitish Mishra,Bharatiya Janata Party,107671,287,107958,55.89
+38,Jhanjharpur,3,Birendra Kumar Singh,Bahujan Samaj Party,1604,11,1615,0.84
+38,Jhanjharpur,4,Keshavchandra Bhandari,Jan Suraaj Party,11493,70,11563,5.99
+38,Jhanjharpur,5,Nutan Dave,Aam Janta Pragati Party,559,1,560,0.29
+38,Jhanjharpur,6,Ram Narayan Yadav,Communist Party of India,52914,195,53109,27.5
+38,Jhanjharpur,7,Ramnarayan Sahu,Vanchit Adhikar Party,1262,3,1265,0.65
+38,Jhanjharpur,8,Vijay Kumar Mandal,Socialist Unity Centre Of India (COMMUNIST),748,0,748,0.39
+38,Jhanjharpur,9,Abdul Irfan,Independent,1992,0,1992,1.03
+38,Jhanjharpur,10,Umar Aftab Afsar,Independent,1025,4,1029,0.53
+38,Jhanjharpur,11,Om Prakash Poddar,Independent,1670,0,1670,0.86
+38,Jhanjharpur,12,Krishna Narayan Jha,Independent,1674,1,1675,0.87
+38,Jhanjharpur,13,Krishna Kumar Sahu,Independent,4513,0,4513,2.34
+38,Jhanjharpur,14,Nota,None of the Above,3110,2,3112,1.61
+39,Phulparas,1,Gauri Shankar Yadav,Aam Aadmi Party,3630,5,3635,1.77
+39,Phulparas,2,Vijay Kumar,Bahujan Samaj Party,1882,14,1896,0.92
+39,Phulparas,3,Sheela Kumari,Janata Dal (United),93376,301,93677,45.65
+39,Phulparas,4,Subodh Mandal,Indian National Congress,79049,529,79578,38.78
+39,Phulparas,5,Krishna Mohan,Ekta Dal United,2422,1,2423,1.18
+39,Phulparas,6,Jalendra Mishra,Jan Suraaj Party,6213,61,6274,3.06
+39,Phulparas,7,Swami Sureshanand,Rashtriya Jansambhavna Party,1379,2,1381,0.67
+39,Phulparas,8,Baiju Safi,Independent,2871,1,2872,1.4
+39,Phulparas,9,Ram Kumar Yadav,Independent,5551,2,5553,2.71
+39,Phulparas,10,Vijay Kumar Chaudhari,Independent,3718,10,3728,1.82
+39,Phulparas,11,Nota,None of the Above,4198,8,4206,2.05
+40,Laukaha,1,Badri Mukhiya,Bahujan Samaj Party,2094,3,2097,0.91
+40,Laukaha,2,Bharat Bhushan Mandal,Rashtriya Janata Dal,85586,664,86250,37.37
+40,Laukaha,3,Satish Kumar Sah,Janata Dal (United),111415,346,111761,48.43
+40,Laukaha,4,Kapileshwar Yadav,Peoples Party of India (Democratic),1287,1,1288,0.56
+40,Laukaha,5,Gurudeo Singh,Janshakti Vikas Party (Democratic),822,0,822,0.36
+40,Laukaha,6,Raslal Mandal,Samata Party,1142,1,1143,0.5
+40,Laukaha,7,Renu Yadav,Jan Suraaj Party,4541,38,4579,1.98
+40,Laukaha,8,Shashi Kumar Bharti,Suheldev Bharatiya Samaj Party,1880,2,1882,0.82
+40,Laukaha,9,Arun Kumar Singh,Independent,789,0,789,0.34
+40,Laukaha,10,Indradev Jee,Independent,1112,0,1112,0.48
+40,Laukaha,11,Nirmal Kumar Jha,Independent,1896,3,1899,0.82
+40,Laukaha,12,Ram Lakhan Yadav,Independent,7623,29,7652,3.32
+40,Laukaha,13,Soman Pandit,Independent,3751,3,3754,1.63
+40,Laukaha,14,Nota,None of the Above,5751,4,5755,2.49
+41,Nirmali,1,Aniruddha Prasad Yadav,Janata Dal (United),118513,391,118904,53.28
+41,Nirmali,2,Chandan Kumar,Aam Aadmi Party,2505,5,2510,1.12
+41,Nirmali,3,Prabhu Ram,Bahujan Samaj Party,1339,5,1344,0.6
+41,Nirmali,4,Baidyanath Mehta,Rashtriya Janata Dal,81001,593,81594,36.56
+41,Nirmali,5,Gunsagar Sahu,"Proutist Bloc, India",1675,6,1681,0.75
+41,Nirmali,6,Ram Pravesh Kumar Yadav,Jan Suraaj Party,6796,81,6877,3.08
+41,Nirmali,7,Ramdev Sutihar,Jagrook Janta Party,1027,0,1027,0.46
+41,Nirmali,8,Siya Ram Mandal,Independent,2983,9,2992,1.34
+41,Nirmali,9,Nota,None of the Above,6235,5,6240,2.8
+42,Pipra,1,Anil Kumar,Communist Party of India (Marxist-Leninist) (Liberation),68790,475,69265,31.06
+42,Pipra,2,Kalim,Bahujan Samaj Party,2035,13,2048,0.92
+42,Pipra,3,Rambilash Kamat,Janata Dal (United),106641,400,107041,48
+42,Pipra,4,Anju Kumari,Rashtriya Jansambhavna Party,2224,5,2229,1
+42,Pipra,5,Amarendra Kumar Bhaskar,"Proutist Bloc, India",1925,2,1927,0.86
+42,Pipra,6,Indradev Sah,Jan Suraaj Party,5429,90,5519,2.47
+42,Pipra,7,Chandra Kishor Yadav,Jai Hind Party,1589,0,1589,0.71
+42,Pipra,8,Tribhuwan Kumar,Samata Party,1245,1,1246,0.56
+42,Pipra,9,Dukhi Lal Yadav,Socialist Party (India),1252,0,1252,0.56
+42,Pipra,10,Ramdev Yadav,Socialist Unity Centre Of India (COMMUNIST),2455,5,2460,1.1
+42,Pipra,11,Nandan Kumar,Independent,1965,1,1966,0.88
+42,Pipra,12,Laxmi Kant Bharti,Independent,11920,94,12014,5.39
+42,Pipra,13,Hema Bharti,Independent,3761,11,3772,1.69
+42,Pipra,14,Nota,None of the Above,10685,6,10691,4.79
+43,Supaul,1,Bijendra Prasad Yadav,Janata Dal (United),108562,523,109085,52.16
+43,Supaul,2,Braj Bhushan Navin,Aam Aadmi Party,1971,4,1975,0.94
+43,Supaul,3,Minnatullah Rahmani,Indian National Congress,77747,535,78282,37.43
+43,Supaul,4,Sushil Kumar,Bahujan Samaj Party,1685,8,1693,0.81
+43,Supaul,5,Anil Kumar Singh,Jan Suraaj Party,5029,110,5139,2.46
+43,Supaul,6,Gunja Kumari,"Proutist Bloc, India",1152,2,1154,0.55
+43,Supaul,7,Vindeshwari Prasad,Proutist Sarva Samaj,1402,2,1404,0.67
+43,Supaul,8,Satyanarayan Sharma,Jagrook Janta Party,2320,1,2321,1.11
+43,Supaul,9,Shambhu Babu,Independent,2856,17,2873,1.37
+43,Supaul,10,Nota,None of the Above,5214,7,5221,2.5
+44,Triveniganj,1,Sanjay Ram,Bahujan Samaj Party,3957,8,3965,1.79
+44,Triveniganj,2,Santosh Kumar,Rashtriya Janata Dal,98975,604,99579,44.92
+44,Triveniganj,3,Sonam Rani,Janata Dal (United),104912,350,105262,47.48
+44,Triveniganj,4,Jitendra Ram,Rashtriya Jansambhavna Party,4244,2,4246,1.92
+44,Triveniganj,5,Pradeep Ram,Jan Suraaj Party,4455,35,4490,2.03
+44,Triveniganj,6,Nota,None of the Above,4145,8,4153,1.87
+45,Chhatapur,1,Niraj Kumar Singh,Bharatiya Janata Party,122145,346,122491,49.18
+45,Chhatapur,2,Vinod Kumar,Aam Aadmi Party,1903,5,1908,0.77
+45,Chhatapur,3,Dr. Vipin Kumar Singh,Rashtriya Janata Dal,105732,581,106313,42.69
+45,Chhatapur,4,Sikandra Kumar Mandal,Bahujan Samaj Party,1239,8,1247,0.5
+45,Chhatapur,5,Abhay Kumar Singh,Jan Suraaj Party,2216,20,2236,0.9
+45,Chhatapur,6,Kalim Miyan,Janta Dal Rashtravadi,567,1,568,0.23
+45,Chhatapur,7,Dayanand Mishra,Country Citizen Party,381,0,381,0.15
+45,Chhatapur,8,Md. Faran,Apna Adhikar Party,290,1,291,0.12
+45,Chhatapur,9,Bipin Kumar Yadav,"Proutist Bloc, India",639,5,644,0.26
+45,Chhatapur,10,Deepak Kumar,Independent,3967,26,3993,1.6
+45,Chhatapur,11,Manoj Kumar Paswan,Independent,892,1,893,0.36
+45,Chhatapur,12,Ramesh Kumar Mehta,Independent,2210,2,2212,0.89
+45,Chhatapur,13,Sadanand Sada,Independent,1115,0,1115,0.45
+45,Chhatapur,14,Nota,None of the Above,4763,4,4767,1.91
+46,Narpatganj,1,Devanti Yadav,Bharatiya Janata Party,120366,191,120557,49.89
+46,Narpatganj,2,Manish Yadav,Rashtriya Janata Dal,94992,212,95204,39.4
+46,Narpatganj,3,Aanant Kumar Roy,Rashtriya Jansambhavna Party,1694,2,1696,0.7
+46,Narpatganj,4,Chandresh Kumar,Bhartiya Lok Chetna Party,290,0,290,0.12
+46,Narpatganj,5,Janardan Yadav,Jan Suraaj Party,1665,23,1688,0.7
+46,Narpatganj,6,Pappu Kumar Singh,Rashtrawadi Janlok Party (Satya),281,0,281,0.12
+46,Narpatganj,7,Mohammad Aslam Beg,Apna Adhikar Party,235,2,237,0.1
+46,Narpatganj,8,Lalit Kumar Sah,Prism,244,0,244,0.1
+46,Narpatganj,9,Shoab Alam,The National Road Map Party of India,278,0,278,0.12
+46,Narpatganj,10,Akhilesh Kumar,Independent,1191,5,1196,0.49
+46,Narpatganj,11,Anil Kumar Yadav,Independent,10585,84,10669,4.42
+46,Narpatganj,12,Alok Kumar,Independent,628,2,630,0.26
+46,Narpatganj,13,Jitendra Yadav,Independent,949,1,950,0.39
+46,Narpatganj,14,Bechan Ram,Independent,1170,0,1170,0.48
+46,Narpatganj,15,Shravan Kumar Das,Independent,3757,4,3761,1.56
+46,Narpatganj,16,Nota,None of the Above,2796,0,2796,1.16
+47,Raniganj,1,Achmit Rishidev,Janata Dal (United),102923,137,103060,44.74
+47,Raniganj,2,Avinash Manglam,Rashtriya Janata Dal,111308,282,111590,48.44
+47,Raniganj,3,Krityanand Ram,Jan Suraaj Party,3173,10,3183,1.38
+47,Raniganj,4,Bidyanand Ram,Aapki Apni Adhikar Party,1005,0,1005,0.44
+47,Raniganj,5,Aman Raj,Independent,3105,21,3126,1.36
+47,Raniganj,6,Shekha Devi,Independent,1117,3,1120,0.49
+47,Raniganj,7,Hiranand Paswan,Independent,2145,1,2146,0.93
+47,Raniganj,8,Nota,None of the Above,5115,3,5118,2.22
+48,Forbesganj,1,Manoj Bishwas,Indian National Congress,119798,316,120114,47.77
+48,Forbesganj,2,Vidya Sagar Keshari,Bharatiya Janata Party,119618,275,119893,47.68
+48,Forbesganj,3,Fatma Khatun,Rashtriya Jansambhavna Party,2149,2,2151,0.86
+48,Forbesganj,4,Mohammad Ekramul Haque,Jan Suraaj Party,970,7,977,0.39
+48,Forbesganj,5,Abha Rani,Independent,385,1,386,0.15
+48,Forbesganj,6,Giranand Kumar,Independent,211,0,211,0.08
+48,Forbesganj,7,Najia Ikbal,Independent,191,0,191,0.08
+48,Forbesganj,8,Pradeep Priy Mehta,Independent,181,0,181,0.07
+48,Forbesganj,9,Manoj Sada,Independent,231,0,231,0.09
+48,Forbesganj,10,Raja Raman Bhaskar,Independent,1743,16,1759,0.7
+48,Forbesganj,11,Rajesh Kumar Gupta,Independent,279,0,279,0.11
+48,Forbesganj,12,Subhan Ansari,Independent,627,0,627,0.25
+48,Forbesganj,13,Subhash Chandra Agrawal,Independent,1325,0,1325,0.53
+48,Forbesganj,14,Nota,None of the Above,3111,3,3114,1.24
+49,Araria,1,Abidur Rahman,Indian National Congress,91194,335,91529,37.81
+49,Araria,2,Chandra Bhushan,Aam Aadmi Party,2220,4,2224,0.92
+49,Araria,3,Shagufta Azim,Janata Dal (United),78484,304,78788,32.55
+49,Araria,4,Md. Asif Alam,Rashtriya Jansambhavna Party,1161,2,1163,0.48
+49,Araria,5,Farhat Ara Begum,Jan Suraaj Party,2417,17,2434,1.01
+49,Araria,6,Md. Manzoor Alam,All India Majlis-E-Ittehadul Muslimeen,53379,42,53421,22.07
+49,Araria,7,Md. Rashid Anwer,Rashtriya Ulama Council,2344,7,2351,0.97
+49,Araria,8,A. Gafoor,Independent,804,0,804,0.33
+49,Araria,9,Vishal Kumar Roy,Independent,1675,1,1676,0.69
+49,Araria,10,Shivdeep W Lande,Independent,4002,83,4085,1.69
+49,Araria,11,Nota,None of the Above,3604,6,3610,1.49
+50,Jokihat,1,Manzar Alam,Janata Dal (United),54810,124,54934,25.27
+50,Jokihat,2,Rozi Bano,Bahujan Samaj Party,1450,0,1450,0.67
+50,Jokihat,3,Shahnawaz,Rashtriya Janata Dal,29514,145,29659,13.64
+50,Jokihat,4,Md Ismail,Bharatiya Momin Front,4137,0,4137,1.9
+50,Jokihat,5,Musarrat,Rashtriya Jansambhavna Party,2609,0,2609,1.2
+50,Jokihat,6,Mohammad Murshid Alam,All India Majlis-E-Ittehadul Muslimeen,83634,103,83737,38.52
+50,Jokihat,7,Sarafaraj Alam,Jan Suraaj Party,35099,255,35354,16.26
+50,Jokihat,8,Sanjay Kumar Thakur,Independent,1500,2,1502,0.69
+50,Jokihat,9,Nota,None of the Above,4003,0,4003,1.84
+51,Sikti,1,Dinesh Kumar Arya,Aam Aadmi Party,2208,2,2210,1
+51,Sikti,2,Bhola Prasad Singh,Bahujan Samaj Party,3350,7,3357,1.52
+51,Sikti,3,Vijay Kumar Mandal,Bharatiya Janata Party,111182,160,111342,50.56
+51,Sikti,4,Jaynarayan Sada,Prism,2201,3,2204,1
+51,Sikti,5,Md Raghib,Jan Suraaj Party,3772,17,3789,1.72
+51,Sikti,6,Md Sabir Alam,Peace Party,2211,0,2211,1
+51,Sikti,7,Hari Narayan Pramanik,Vikassheel Insaan Party,91808,212,92020,41.78
+51,Sikti,8,Shamsul,Independent,1078,0,1078,0.49
+51,Sikti,9,Nota,None of the Above,2017,1,2018,0.92
+52,Bahadurganj,1,Md Masoom Raza,Aam Aadmi Party,1240,0,1240,0.57
+52,Bahadurganj,2,Mohammad Kalimuddin,Lok Janshakti Party (Ram Vilas),57087,108,57195,26.34
+52,Bahadurganj,3,Mohammed Masawar Alam,Indian National Congress,58072,517,58589,26.98
+52,Bahadurganj,4,Ahmad Hussian,The Plurals Party,1743,1,1744,0.8
+52,Bahadurganj,5,Md Tauseef Alam,All India Majlis-E-Ittehadul Muslimeen,87136,179,87315,40.21
+52,Bahadurganj,6,Barun Kumar Singh,Jan Suraaj Party,3171,22,3193,1.47
+52,Bahadurganj,7,Tariqul Amin,Independent,1130,0,1130,0.52
+52,Bahadurganj,8,Mohammad Kausar Perwez,Independent,1195,0,1195,0.55
+52,Bahadurganj,9,Rohit Kumar Jha,Independent,1666,1,1667,0.77
+52,Bahadurganj,10,Nota,None of the Above,3881,6,3887,1.79
+53,Thakurganj,1,Karan Lal Ganesh,Bahujan Samaj Party,1696,10,1706,0.69
+53,Thakurganj,2,Gopal Kumar Agarwal,Janata Dal (United),84958,285,85243,34.71
+53,Thakurganj,3,Saud Alam,Rashtriya Janata Dal,59734,302,60036,24.45
+53,Thakurganj,4,Md Ekramul Haque,Jan Suraaj Party,6781,25,6806,2.77
+53,Thakurganj,5,Ghulam Hasnain,All India Majlis-E-Ittehadul Muslimeen,76319,102,76421,31.12
+53,Thakurganj,6,Md Faizan Ahmad,Independent,1722,1,1723,0.7
+53,Thakurganj,7,Basudev Singh,Independent,3804,10,3814,1.55
+53,Thakurganj,8,Mushtaque,Independent,1419,0,1419,0.58
+53,Thakurganj,9,Mohammad Muktar,Independent,2246,0,2246,0.91
+53,Thakurganj,10,Sujeet Kumar Purvey,Independent,2543,1,2544,1.04
+53,Thakurganj,11,Nota,None of the Above,3604,5,3609,1.47
+54,Kishanganj,1,Asraf Alam,Aam Aadmi Party,1108,3,1111,0.49
+54,Kishanganj,2,Md. Qamrul Hoda,Indian National Congress,89325,344,89669,39.49
+54,Kishanganj,3,Pradeep Ravidas,Bahujan Samaj Party,1365,4,1369,0.6
+54,Kishanganj,4,Sweety Singh,Bharatiya Janata Party,76667,208,76875,33.86
+54,Kishanganj,5,Md. Ishaque Alam,Jan Suraaj Party,1900,4,1904,0.84
+54,Kishanganj,6,Md Tariq Anwar,Janshakti Janta Dal,749,0,749,0.33
+54,Kishanganj,7,Shams Aghaz,All India Majlis-E-Ittehadul Muslimeen,51301,69,51370,22.63
+54,Kishanganj,8,Abdur Rahman,Independent,925,1,926,0.41
+54,Kishanganj,9,Perwez Alam,Independent,665,0,665,0.29
+54,Kishanganj,10,Md Wasim,Independent,906,0,906,0.4
+54,Kishanganj,11,Nota,None of the Above,1493,5,1498,0.66
+55,Kochadhaman,1,Bina Devi,Bharatiya Janata Party,44765,93,44858,23.2
+55,Kochadhaman,2,Mujahid Alam,Rashtriya Janata Dal,58431,408,58839,30.44
+55,Kochadhaman,3,Rajesh Kumar Baitha,Bahujan Samaj Party,1565,0,1565,0.81
+55,Kochadhaman,4,Abu Affan Farooquee,Jan Suraaj Party,1969,7,1976,1.02
+55,Kochadhaman,5,Md. Sarwar Alam,All India Majlis-E-Ittehadul Muslimeen,81678,182,81860,42.34
+55,Kochadhaman,6,Md. Shamsul Haque,Independent,2187,1,2188,1.13
+55,Kochadhaman,7,Nota,None of the Above,2039,0,2039,1.05
+56,Amour,1,Abdul Jalil Mastan,Indian National Congress,52685,106,52791,22.77
+56,Amour,2,Md Muntazir Alam,Aam Aadmi Party,2310,0,2310,1
+56,Amour,3,Lakshmi Kumari,Bahujan Samaj Party,791,0,791,0.34
+56,Amour,4,Saba Zafar,Janata Dal (United),61813,95,61908,26.71
+56,Amour,5,Akhtarul Iman,All India Majlis-E-Ittehadul Muslimeen,100756,80,100836,43.5
+56,Amour,6,Afaroj,Jan Suraaj Party,3797,5,3802,1.64
+56,Amour,7,Mohd Parvej Alam,Independent,4585,0,4585,1.98
+56,Amour,8,Mahfooz Alam,Independent,783,0,783,0.34
+56,Amour,9,Logen Lal Das,Independent,815,0,815,0.35
+56,Amour,10,Nota,None of the Above,3187,0,3187,1.37
+57,Baisi,1,Abdus Subahan,Rashtriya Janata Dal,55863,137,56000,24.97
+57,Baisi,2,Rabindra Kumar Singh,Bahujan Samaj Party,1025,0,1025,0.46
+57,Baisi,3,Vinod Kumar,Bharatiya Janata Party,65458,57,65515,29.22
+57,Baisi,4,Ghulam Sarwar,All India Majlis-E-Ittehadul Muslimeen,92709,57,92766,41.37
+57,Baisi,5,Mohammad Muzammil,Peace Party,2444,0,2444,1.09
+57,Baisi,6,Md Shahnawaz Alam,Jan Suraaj Party,2384,5,2389,1.07
+57,Baisi,7,Nasar Ahmad,Independent,1030,1,1031,0.46
+57,Baisi,8,Nota,None of the Above,3074,0,3074,1.37
+58,Kasba,1,Md. Irfan Alam,Indian National Congress,73856,146,74002,31.36
+58,Kasba,2,Nitesh Kumar Singh,Lok Janshakti Party (Ram Vilas),86819,58,86877,36.81
+58,Kasba,3,Bhanu Bharatiya,Aam Aadmi Party,1092,2,1094,0.46
+58,Kasba,4,Sanoj Kumar Chauhan,Bahujan Samaj Party,414,1,415,0.18
+58,Kasba,5,Md. Ittefaque Alam,Jan Suraaj Party,3421,9,3430,1.45
+58,Kasba,6,Kanhaiya Lal Mandal,Peoples Party of India (Democratic),452,0,452,0.19
+58,Kasba,7,Muzammil Hasan Mazhari,Social Democratic Party Of India,1229,0,1229,0.52
+58,Kasba,8,Md Shahnawaz Alam,All India Majlis-E-Ittehadul Muslimeen,35286,23,35309,14.96
+58,Kasba,9,Md. Afaque Alam,Independent,6005,39,6044,2.56
+58,Kasba,10,Pradeep Kumar Das,Independent,11151,61,11212,4.75
+58,Kasba,11,Rajendra Yadav,Independent,2668,7,2675,1.13
+58,Kasba,12,Subodh Rishidev,Independent,6672,2,6674,2.83
+58,Kasba,13,Hayat Ashraf,Independent,2546,0,2546,1.08
+58,Kasba,14,Nota,None of the Above,4048,2,4050,1.72
+59,Banmankhi,1,Krishna Kumar Rishi,Bharatiya Janata Party,122373,121,122494,57.26
+59,Banmankhi,2,Deo Narayan Rajak,Indian National Congress,77053,145,77198,36.09
+59,Banmankhi,3,Subodh Paswan,Bahujan Samaj Party,2124,4,2128,0.99
+59,Banmankhi,4,Asha Devi,Suheldev Bharatiya Samaj Party,1181,0,1181,0.55
+59,Banmankhi,5,Manoj Kumar Rishi,Jan Suraaj Party,6656,20,6676,3.12
+59,Banmankhi,6,Nota,None of the Above,4253,2,4255,1.99
+60,Rupauli,1,Kaladhar Prasad Mandal,Janata Dal (United),124714,112,124826,55.45
+60,Rupauli,2,Jainendra Kumar,Bahujan Samaj Party,1102,3,1105,0.49
+60,Rupauli,3,Bima Bharti,Rashtriya Janata Dal,51176,78,51254,22.77
+60,Rupauli,4,Vikash Kumar Mandal,Aam Aadmi Party,1310,0,1310,0.58
+60,Rupauli,5,Awadh Kishor Sharma,Rashtriya Samaj Paksha,606,1,607,0.27
+60,Rupauli,6,Amod Kumar,Jan Suraaj Party,3036,12,3048,1.35
+60,Rupauli,7,Pramod Kumar Mandal,Republican Party of India (A),546,0,546,0.24
+60,Rupauli,8,Mohammad Nafis Mansuri,The National Road Map Party of India,427,0,427,0.19
+60,Rupauli,9,Rajeev Kumar,Rashtriya Jansambhavna Party,352,1,353,0.16
+60,Rupauli,10,Ashok Mandal,Independent,355,0,355,0.16
+60,Rupauli,11,Md. Guljar,Independent,475,0,475,0.21
+60,Rupauli,12,Nitya Mandal,Independent,575,0,575,0.26
+60,Rupauli,13,Neelam Devi,Independent,1251,0,1251,0.56
+60,Rupauli,14,Shankar Ram,Independent,3115,0,3115,1.38
+60,Rupauli,15,Shankar Singh,Independent,29932,54,29986,13.32
+60,Rupauli,16,Nota,None of the Above,5862,0,5862,2.6
+61,Dhamdaha,1,Leshi Singh,Janata Dal (United),138613,137,138750,57.32
+61,Dhamdaha,2,Santosh Kumar,Rashtriya Janata Dal,83472,119,83591,34.53
+61,Dhamdaha,3,Mohd Ishtiyaque Alam,All India Majlis-E-Ittehadul Muslimeen,5123,3,5126,2.12
+61,Dhamdaha,4,Bhagwan Mareya,Rashtriya Jansambhavna Party,417,0,417,0.17
+61,Dhamdaha,5,Manoj Sharma,Jagrook Janta Party,248,1,249,0.1
+61,Dhamdaha,6,Rakesh Kumar,Jan Suraaj Party,1800,4,1804,0.75
+61,Dhamdaha,7,Kumari Kumkum Rani,Independent,365,0,365,0.15
+61,Dhamdaha,8,Chand Lal Uranv,Independent,578,3,581,0.24
+61,Dhamdaha,9,Pradip Yadav,Independent,447,0,447,0.18
+61,Dhamdaha,10,Raman Kumar,Independent,922,0,922,0.38
+61,Dhamdaha,11,Vindeshwari Sharma,Independent,3032,0,3032,1.25
+61,Dhamdaha,12,Nota,None of the Above,6779,2,6781,2.8
+62,Purnia,1,Aditya Lal,Aam Aadmi Party,976,4,980,0.42
+62,Purnia,2,Jitendra Kumar,Indian National Congress,94120,272,94392,40.53
+62,Purnia,3,Rajiv Kumar Roy,Bahujan Samaj Party,1124,4,1128,0.48
+62,Purnia,4,Vijay Kumar Khemka,Bharatiya Janata Party,127340,274,127614,54.79
+62,Purnia,5,Santosh Kumar Singh,Jan Suraaj Party,3670,31,3701,1.59
+62,Purnia,6,Ajay Swarn,Independent,507,0,507,0.22
+62,Purnia,7,Aslam Azad,Independent,1017,0,1017,0.44
+62,Purnia,8,Kaneez Fatma,Independent,914,5,919,0.39
+62,Purnia,9,Lakhendar Sah,Independent,1224,1,1225,0.53
+62,Purnia,10,Nota,None of the Above,1434,2,1436,0.62
+63,Katihar,1,Tarkishore Prasad,Bharatiya Janata Party,100005,250,100255,50.52
+63,Katihar,2,Rajesh Gurnani,Aam Aadmi Party,1066,6,1072,0.54
+63,Katihar,3,Ahmad Raza,All India Majlis-E-Inquilab-E-Millat,1202,3,1205,0.61
+63,Katihar,4,Dr. Ghazi Sharique,Jan Suraaj Party,2823,30,2853,1.44
+63,Katihar,5,Jhantu Uraon,Bharat Jago Janta Party,549,1,550,0.28
+63,Katihar,6,Manisha Kumari,Peoples Party of India (Democratic),3250,3,3253,1.64
+63,Katihar,7,Saurav Kumar Agarwal,Vikassheel Insaan Party,77829,272,78101,39.36
+63,Katihar,8,Janardan Singh,Independent,655,1,656,0.33
+63,Katihar,9,Dr. Ram Prakash Mahto,Independent,7332,79,7411,3.73
+63,Katihar,10,Sanjay Singh @ Bhai Sanjiv,Independent,504,0,504,0.25
+63,Katihar,11,Samir Kumar Jha,Independent,410,0,410,0.21
+63,Katihar,12,Nota,None of the Above,2169,9,2178,1.1
+64,Kadwa,1,Dulal Chandra Goswami,Janata Dal (United),99182,92,99274,46.57
+64,Kadwa,2,Vidyanand Mandal,Bahujan Samaj Party,1110,4,1114,0.52
+64,Kadwa,3,Shakeel Ahmad Khan,Indian National Congress,80699,207,80906,37.96
+64,Kadwa,4,Anmol Kumar,Voters Party International,984,0,984,0.46
+64,Kadwa,5,Md. Shaharyar,Jan Suraaj Party,1161,8,1169,0.55
+64,Kadwa,6,Md Shakir Reza,All India Majlis-E-Ittehadul Muslimeen,11545,12,11557,5.42
+64,Kadwa,7,Md. Shamiuddin,Minorities Democratic Party,822,0,822,0.39
+64,Kadwa,8,Sunil Kumar Mandal,Peoples Party of India (Democratic),339,0,339,0.16
+64,Kadwa,9,Asha Suman,Independent,869,5,874,0.41
+64,Kadwa,10,Pramod Das,Independent,380,1,381,0.18
+64,Kadwa,11,Mohammad Razaul Haque,Independent,601,3,604,0.28
+64,Kadwa,12,Rajeev Ranjan,Independent,891,0,891,0.42
+64,Kadwa,13,Sajan Kumar,Independent,876,1,877,0.41
+64,Kadwa,14,Sadiq Hussain,Independent,2961,6,2967,1.39
+64,Kadwa,15,Suresh Yadav,Independent,961,2,963,0.45
+64,Kadwa,16,Himraj Singh,Independent,5605,10,5615,2.63
+64,Kadwa,17,Nota,None of the Above,3817,1,3818,1.79
+65,Balrampur,1,Priya Kumari Roy,Bahujan Samaj Party,1435,3,1438,0.52
+65,Balrampur,2,Mahboob Alam,Communist Party of India (Marxist-Leninist) (Liberation),78933,208,79141,28.56
+65,Balrampur,3,Sangita Devi,Lok Janshakti Party (Ram Vilas),80349,110,80459,29.04
+65,Balrampur,4,Ashab Alam,Jan Suraaj Party,2612,2,2614,0.94
+65,Balrampur,5,Mohammad Adil Hasan,All India Majlis-E-Ittehadul Muslimeen,79998,72,80070,28.9
+65,Balrampur,6,Md Shahid Shaikh,The Plurals Party,885,0,885,0.32
+65,Balrampur,7,Ajad Kha,Independent,645,0,645,0.23
+65,Balrampur,8,Md Aftab Alam Ruknavi,Independent,1015,1,1016,0.37
+65,Balrampur,9,Md Kamaluddin,Independent,537,0,537,0.19
+65,Balrampur,10,Md Zinnah,Independent,3430,16,3446,1.24
+65,Balrampur,11,Tanweer Shamsi,Independent,775,0,775,0.28
+65,Balrampur,12,Md Nasrul Haque,Independent,2080,0,2080,0.75
+65,Balrampur,13,Barun Kumar Jha,Independent,5366,6,5372,1.94
+65,Balrampur,14,Md Moazzam Hussain,Independent,9159,36,9195,3.32
+65,Balrampur,15,Roshan Agrawal,Independent,2278,4,2282,0.82
+65,Balrampur,16,Shakir Alam,Independent,1442,0,1442,0.52
+65,Balrampur,17,Sujit Paswan,Independent,843,1,844,0.3
+65,Balrampur,18,Haji Shafiqul Haque Pradhan,Independent,1648,0,1648,0.59
+65,Balrampur,19,Nota,None of the Above,3184,1,3185,1.15
+66,Pranpur,1,Ishrat Parween,Rashtriya Janata Dal,100575,238,100813,39.61
+66,Pranpur,2,Nisha Singh,Bharatiya Janata Party,108453,112,108565,42.65
+66,Pranpur,3,Prem Kumar Mandal,Bahujan Samaj Party,1260,5,1265,0.5
+66,Pranpur,4,Md Aftab Alam,All India Majlis-E-Ittehadul Muslimeen,30111,52,30163,11.85
+66,Pranpur,5,Kunal Nishad,Jan Suraaj Party,2456,11,2467,0.97
+66,Pranpur,6,Subhash Kumar Yadav,Sampoorna Bharat Kranti Party,943,0,943,0.37
+66,Pranpur,7,Abdus Salam,Independent,520,0,520,0.2
+66,Pranpur,8,Md Naiyar Alam,Independent,293,0,293,0.12
+66,Pranpur,9,Manoj Murmu,Independent,1261,2,1263,0.5
+66,Pranpur,10,Mohammad Musha,Independent,639,1,640,0.25
+66,Pranpur,11,Sanjay Kumar,Independent,975,1,976,0.38
+66,Pranpur,12,Satya Narayan Mandal,Independent,1263,0,1263,0.5
+66,Pranpur,13,Subhashchandra Sah,Independent,2048,0,2048,0.8
+66,Pranpur,14,Nota,None of the Above,3313,0,3313,1.3
+67,Manihari,1,Upendra Mandal,Bahujan Samaj Party,1965,2,1967,0.83
+67,Manihari,2,Nalinee Mandal,Aam Aadmi Party,2736,2,2738,1.15
+67,Manihari,3,Manohar Prasad Singh,Indian National Congress,114488,266,114754,48.16
+67,Manihari,4,Ram Ratan Prasad,Rashtriya Lok Janshakti Party,3759,2,3761,1.58
+67,Manihari,5,Shambhu Kumar Suman,Janata Dal (United),99417,169,99586,41.8
+67,Manihari,6,Bablu Soren,Jan Suraaj Party,7625,22,7647,3.21
+67,Manihari,7,Saif Ali Khan,Nationalist Congress Party,4831,34,4865,2.04
+67,Manihari,8,Nota,None of the Above,2938,3,2941,1.23
+68,Barari,1,Tauquir Alam,Indian National Congress,96496,362,96858,42.37
+68,Barari,2,Dwarika Mandal,Bahujan Samaj Party,1267,4,1271,0.56
+68,Barari,3,Bijay Singh,Janata Dal (United),107689,153,107842,47.18
+68,Barari,4,Pritam Prasoon,Jan Suraaj Party,3007,19,3026,1.32
+68,Barari,5,Md Matiur Rahman,All India Majlis-E-Ittehadul Muslimeen,5840,6,5846,2.56
+68,Barari,6,Md Mahboob,Bharat Jago Janta Party,377,1,378,0.17
+68,Barari,7,Ratan Kumar,Vikas Vanchit Insan Party,255,0,255,0.11
+68,Barari,8,Arun Kumar Jaiswal,Independent,368,1,369,0.16
+68,Barari,9,Md Nasim,Independent,744,0,744,0.33
+68,Barari,10,Niranjan Kumar Jha,Independent,420,0,420,0.18
+68,Barari,11,Md Mojahid Alam,Independent,546,0,546,0.24
+68,Barari,12,Raj Kishor Yadav,Independent,1450,3,1453,0.64
+68,Barari,13,Shivpujan Paswan,Independent,4961,1,4962,2.17
+68,Barari,14,Satya Narayan Agrawal,Independent,1577,0,1577,0.69
+68,Barari,15,Nota,None of the Above,3047,0,3047,1.33
+69,Korha,1,Kavita Devi,Bharatiya Janata Party,123375,120,123495,51.82
+69,Korha,2,Punam Kumari,Indian National Congress,101052,186,101238,42.48
+69,Korha,3,Ravindra Kumar,Bahujan Samaj Party,1466,3,1469,0.62
+69,Korha,4,Tufani Das,Peoples Party of India (Democratic),913,1,914,0.38
+69,Korha,5,Nirmal Kumar Raj,Jan Suraaj Party,3992,36,4028,1.69
+69,Korha,6,Kapildev Paswan,Independent,1398,7,1405,0.59
+69,Korha,7,Wakil Das,Independent,1229,19,1248,0.52
+69,Korha,8,Vinod Kumar Mirdha,Independent,1345,1,1346,0.56
+69,Korha,9,Nota,None of the Above,3158,4,3162,1.33
+70,Alamnagar,1,Narendra Narayan Yadav,Janata Dal (United),138291,110,138401,53.98
+70,Alamnagar,2,Akhatar Mansuri,The National Road Map Party of India,2574,2,2576,1
+70,Alamnagar,3,Nabin Kumar,Vikassheel Insaan Party,82874,62,82936,32.35
+70,Alamnagar,4,Mohan Sharma,Rashtriya Jansambhavna Party,1790,1,1791,0.7
+70,Alamnagar,5,Subodh Kumar Suman,Jan Suraaj Party,8916,18,8934,3.48
+70,Alamnagar,6,Amar Kumar Singh,Independent,1042,1,1043,0.41
+70,Alamnagar,7,Chano Rishidev,Independent,2160,1,2161,0.84
+70,Alamnagar,8,Binod Ashish,Independent,2707,0,2707,1.06
+70,Alamnagar,9,Rubi Kumari,Independent,4692,3,4695,1.83
+70,Alamnagar,10,Vikram Kumar Gupta,Independent,3177,1,3178,1.24
+70,Alamnagar,11,Nota,None of the Above,7958,1,7959,3.1
+71,Bihariganj,1,Niranjan Kumar Mehta,Janata Dal (United),116535,87,116622,52.12
+71,Bihariganj,2,Rabindra Kumar,Bahujan Samaj Party,2198,1,2199,0.98
+71,Bihariganj,3,Renu Kumari,Rashtriya Janata Dal,84876,124,85000,37.99
+71,Bihariganj,4,Amlesh Roy,Jan Suraaj Party,4471,15,4486,2
+71,Bihariganj,5,Pankaj Kumar Jaiswal,Socialist Unity Centre Of India (COMMUNIST),2491,2,2493,1.11
+71,Bihariganj,6,Karn Kumar Mishra,Independent,5369,3,5372,2.4
+71,Bihariganj,7,Mohammad Sajam,Independent,1658,1,1659,0.74
+71,Bihariganj,8,Nota,None of the Above,5914,1,5915,2.64
+72,Singheshwar,1,Chandrahas Chaupal,Rashtriya Janata Dal,103314,120,103434,45.13
+72,Singheshwar,2,Ramesh Rishi,Janata Dal (United),106345,71,106416,46.43
+72,Singheshwar,3,Subhash Kumar,Bahujan Samaj Party,1923,1,1924,0.84
+72,Singheshwar,4,Pramod Kumar Ram,Jan Suraaj Party,3500,16,3516,1.53
+72,Singheshwar,5,Bablu Rishidev,Independent,917,1,918,0.4
+72,Singheshwar,6,Bambam Kumar,Independent,1184,0,1184,0.52
+72,Singheshwar,7,Manju Devi,Independent,1908,1,1909,0.83
+72,Singheshwar,8,Virendra Kumar Sharma,Independent,3977,1,3978,1.74
+72,Singheshwar,9,Nota,None of the Above,5894,1,5895,2.57
+73,Madhepura,1,Kavita Kumari Saha,Janata Dal (United),100579,76,100655,42.01
+73,Madhepura,2,Chandra Shekhar,Rashtriya Janata Dal,108342,122,108464,45.27
+73,Madhepura,3,Mukesh Kumar,Aam Aadmi Party,3647,5,3652,1.52
+73,Madhepura,4,Lalan Kumar Ram,Bahujan Samaj Party,775,6,781,0.33
+73,Madhepura,5,Kameshwar Yadav,Aadarsh Mithila Party,447,1,448,0.19
+73,Madhepura,6,Pradeep Kumar,Jagrook Janta Party,496,1,497,0.21
+73,Madhepura,7,Mohammad Asif Alam,The National Road Map Party of India,888,1,889,0.37
+73,Madhepura,8,Shashi Kumar,Jan Suraaj Party,4618,16,4634,1.93
+73,Madhepura,9,Sanjay Yadav,Janshakti Janta Dal,1277,1,1278,0.53
+73,Madhepura,10,Surendra Yadav,"Proutist Bloc, India",1751,0,1751,0.73
+73,Madhepura,11,Pranav Prakash,Independent,7873,21,7894,3.29
+73,Madhepura,12,Sanjay Kumar,Independent,2818,1,2819,1.18
+73,Madhepura,13,Nota,None of the Above,5827,1,5828,2.43
+74,Sonbarsha,1,Kiran Devi,Bahujan Samaj Party,5012,7,5019,2.43
+74,Sonbarsha,2,Ratnesh Sada,Janata Dal (United),97606,227,97833,47.39
+74,Sonbarsha,3,Sarita Devi,Indian National Congress,84034,345,84379,40.87
+74,Sonbarsha,4,Satyendra Kumar,Jan Suraaj Party,5635,20,5655,2.74
+74,Sonbarsha,5,Parmod Sada,Independent,3986,12,3998,1.94
+74,Sonbarsha,6,Rajesh Ram,Independent,4034,4,4038,1.96
+74,Sonbarsha,7,Nota,None of the Above,5516,6,5522,2.67
+75,Saharsa,1,Ajablal Mehta,Bahujan Samaj Party,2225,11,2236,0.86
+75,Saharsa,2,Alok Ranjan,Bharatiya Janata Party,112622,376,112998,43.5
+75,Saharsa,3,Amar Shankar,Swadhinta Party,2960,4,2964,1.14
+75,Saharsa,4,Indrajeet Prasad Gupta,Indian Inclusive Party,114498,538,115036,44.28
+75,Saharsa,5,Kishor Kumar,Jan Suraaj Party,12655,131,12786,4.92
+75,Saharsa,6,Bittu Kumar,Rashtriya Samaj Paksha,855,2,857,0.33
+75,Saharsa,7,Md Amirul Hasan,Rashtriya Jansambhavna Party,2302,2,2304,0.89
+75,Saharsa,8,Devchandra Yadav,Independent,4335,18,4353,1.68
+75,Saharsa,9,Mohammad Nazir,Independent,1550,17,1567,0.6
+75,Saharsa,10,Ramesh Sah,Independent,2051,4,2055,0.79
+75,Saharsa,11,Nota,None of the Above,2597,10,2607,1
+76,Simri Bakhtiarpur,1,Yusuf Salahuddin,Rashtriya Janata Dal,101257,512,101769,43.54
+76,Simri Bakhtiarpur,2,Sanjay Kumar Singh,Lok Janshakti Party (Ram Vilas),109403,296,109699,46.94
+76,Simri Bakhtiarpur,3,Sunita Devi,Bahujan Samaj Party,1379,8,1387,0.59
+76,Simri Bakhtiarpur,4,Pintu Kumar Sharma,Jagrook Janta Party,523,8,531,0.23
+76,Simri Bakhtiarpur,5,Bibhuti Singh,Rashtrawadi Janlok Party (Satya),253,3,256,0.11
+76,Simri Bakhtiarpur,6,Surendra Kumar Yadav,Jan Suraaj Party,2233,37,2270,0.97
+76,Simri Bakhtiarpur,7,Awdhesh Kumar,Independent,333,0,333,0.14
+76,Simri Bakhtiarpur,8,Anand Ranjan,Independent,258,0,258,0.11
+76,Simri Bakhtiarpur,9,Domi Sharma,Independent,535,1,536,0.23
+76,Simri Bakhtiarpur,10,Pankaj Kumar,Independent,419,1,420,0.18
+76,Simri Bakhtiarpur,11,Barun Kumar Yadav,Independent,1081,0,1081,0.46
+76,Simri Bakhtiarpur,12,Yapura Wadat,Independent,565,0,565,0.24
+76,Simri Bakhtiarpur,13,Yogbir Roy,Independent,695,0,695,0.3
+76,Simri Bakhtiarpur,14,Rajkumar Sada,Independent,1435,1,1436,0.61
+76,Simri Bakhtiarpur,15,Vikash Raj,Independent,7487,6,7493,3.21
+76,Simri Bakhtiarpur,16,Nota,None of the Above,4993,3,4996,2.14
+77,Mahishi,1,Gunjeshwar Sah,Janata Dal (United),89739,273,90012,44.35
+77,Mahishi,2,Gautam Krishna,Rashtriya Janata Dal,93246,506,93752,46.19
+77,Mahishi,3,Priyanka Anand,Bahujan Samaj Party,1202,5,1207,0.59
+77,Mahishi,4,Vijay Kumar Gupta,Aam Aadmi Party,846,1,847,0.42
+77,Mahishi,5,Devnarayan Yadav,Janshakti Janta Dal,336,2,338,0.17
+77,Mahishi,6,Shamim Akhtar,Jan Suraaj Party,2534,37,2571,1.27
+77,Mahishi,7,Arvind Kumar,Independent,651,2,653,0.32
+77,Mahishi,8,Tiro Sharma,Independent,329,1,330,0.16
+77,Mahishi,9,Maharudra Jha,Independent,397,1,398,0.2
+77,Mahishi,10,Ranjit Sada,Independent,757,1,758,0.37
+77,Mahishi,11,Raja Kumar,Independent,567,0,567,0.28
+77,Mahishi,12,Rahul Paswan,Independent,518,1,519,0.26
+77,Mahishi,13,Sushil Kumar Rajak,Independent,1199,2,1201,0.59
+77,Mahishi,14,Suraj Samrat,Independent,3142,0,3142,1.55
+77,Mahishi,15,Nota,None of the Above,6668,3,6671,3.29
+78,Kusheshwar Asthan,1,Atirek Kumar,Janata Dal (United),85453,232,85685,52.25
+78,Kusheshwar Asthan,2,Yogi Chaupal,Aam Aadmi Party,3459,5,3464,2.11
+78,Kusheshwar Asthan,3,Dukhi Ram Rasiya,Aam Janta Pragati Party,792,5,797,0.49
+78,Kusheshwar Asthan,4,Shatrudhan Paswan,Jan Suraaj Party,6458,30,6488,3.96
+78,Kusheshwar Asthan,5,Satya Narayan Paswan,Mazdoor Ekta Party,5127,0,5127,3.13
+78,Kusheshwar Asthan,6,Ganga Paswan,Independent,1206,0,1206,0.74
+78,Kusheshwar Asthan,7,Ganesh Bharti,Independent,48982,262,49244,30.03
+78,Kusheshwar Asthan,8,Jeebachh Kumar Hajari,Independent,1198,3,1201,0.73
+78,Kusheshwar Asthan,9,Shreemati Anju Devi,Independent,2138,4,2142,1.31
+78,Kusheshwar Asthan,10,Sachidanand Paswan,Independent,2170,1,2171,1.32
+78,Kusheshwar Asthan,11,Nota,None of the Above,6446,5,6451,3.93
+79,Gaura Bauram,1,Afzal Ali Khan,Rashtriya Janata Dal,71646,367,72013,42.81
+79,Gaura Bauram,2,Sujit Kumar,Bharatiya Janata Party,77446,236,77682,46.18
+79,Gaura Bauram,3,Akhtar Shahansha,All India Majlis-E-Ittehadul Muslimeen,3231,12,3243,1.93
+79,Gaura Bauram,4,Dr Md Iftekhar Alam,Jan Suraaj Party,2495,11,2506,1.49
+79,Gaura Bauram,5,Santosh Sahani,Vikassheel Insaan Party,341,52,393,0.23
+79,Gaura Bauram,6,Saroj Chaudhary,Mithilanchal Mukti Morcha,279,0,279,0.17
+79,Gaura Bauram,7,Soni Devi,Rashtriya Janwadi Party (Socialist),183,0,183,0.11
+79,Gaura Bauram,8,Krishan Kumar,Independent,209,0,209,0.12
+79,Gaura Bauram,9,Nand Kishore Sharma,Independent,349,1,350,0.21
+79,Gaura Bauram,10,Pankaj Kumar Sahu,Independent,437,0,437,0.26
+79,Gaura Bauram,11,Bachelal Jha,Independent,716,0,716,0.43
+79,Gaura Bauram,12,Shyam Sundar Choudhary,Independent,6524,25,6549,3.89
+79,Gaura Bauram,13,Nota,None of the Above,3662,1,3663,2.18
+80,Benipur,1,Pramod Paswan,Bahujan Samaj Party,1992,9,2001,1.06
+80,Benipur,2,Mithilesh Kumar Choudhary,Indian National Congress,70205,399,70604,37.48
+80,Benipur,3,Binay Kumar Choudhary,Janata Dal (United),83781,426,84207,44.7
+80,Benipur,4,Amresh Kumar Amar,Jan Suraaj Party,6519,39,6558,3.48
+80,Benipur,5,Pramila Jha,Bhartiya Mahasangh Party,712,2,714,0.38
+80,Benipur,6,Pramod Kumar Sahu,Rashtriya Samajwadi Lok Adhikar Party,564,1,565,0.3
+80,Benipur,7,Vidyanand Ram,Wazib Adhikar Party,815,1,816,0.43
+80,Benipur,8,Shankar Dom Urf Shankar Mallik,Aam Janta Pragati Party,391,1,392,0.21
+80,Benipur,9,Siya Lakhan Yadav,Open people's Party,862,1,863,0.46
+80,Benipur,10,Amarjee Mishra,Independent,697,2,699,0.37
+80,Benipur,11,Avadhesh Kumar Jha,Independent,5400,28,5428,2.88
+80,Benipur,12,Imtiyaz Ahmad,Independent,1419,3,1422,0.75
+80,Benipur,13,Chun Chun Jha,Independent,6531,1,6532,3.47
+80,Benipur,14,Mahendra Narayan Mahto,Independent,4457,0,4457,2.37
+80,Benipur,15,Nota,None of the Above,3103,5,3108,1.65
+81,Alinagar,1,Maithili Thakur,Bharatiya Janata Party,84611,304,84915,49.05
+81,Alinagar,2,Rajipal Jha,Aam Aadmi Party,1484,0,1484,0.86
+81,Alinagar,3,Binod Mishra,Rashtriya Janata Dal,72639,546,73185,42.27
+81,Alinagar,4,Navijan Ansari,Aam Janta Pragati Party,671,0,671,0.39
+81,Alinagar,5,Nooruddin Zangi,Social Democratic Party Of India,310,2,312,0.18
+81,Alinagar,6,Biplaw Kumar Choudhary,Jan Suraaj Party,2259,16,2275,1.31
+81,Alinagar,7,Sanjay Kumar Jha,Mithilawadi party,418,4,422,0.24
+81,Alinagar,8,Sitambar Sharma,Jagrook Janta Party,331,0,331,0.19
+81,Alinagar,9,Ganesh Choudhary,Independent,317,3,320,0.18
+81,Alinagar,10,Chandu Chaudhry,Independent,776,2,778,0.45
+81,Alinagar,11,Saifuddin Ahmed,Independent,2792,11,2803,1.62
+81,Alinagar,12,Hari Lal Sharma,Independent,869,1,870,0.5
+81,Alinagar,13,Nota,None of the Above,4748,3,4751,2.74
+82,Darbhanga Rural,1,Jagat Narayan Nayak,Bahujan Samaj Party,2117,1,2118,1.16
+82,Darbhanga Rural,2,Rajesh Kumar Mandal,Janata Dal (United),80355,269,80624,44.05
+82,Darbhanga Rural,3,Lalit Kumar Yadav,Rashtriya Janata Dal,61902,330,62232,34
+82,Darbhanga Rural,4,Md Jalaluddin Sahil,All India Majlis-E-Ittehadul Muslimeen,16966,42,17008,9.29
+82,Darbhanga Rural,5,Pradeep Kumar Mishra,Aam Janta Pragati Party,471,1,472,0.26
+82,Darbhanga Rural,6,Mohammad Kalam,Bharat Jan Jagran Dal,744,0,744,0.41
+82,Darbhanga Rural,7,Roshan,Vikas Insaf Party,427,0,427,0.23
+82,Darbhanga Rural,8,Shoaib Ahmed Khan,Jan Suraaj Party,3792,22,3814,2.08
+82,Darbhanga Rural,9,Abdul Quddus,Independent,638,1,639,0.35
+82,Darbhanga Rural,10,Uday Chandra Chaupal,Independent,585,0,585,0.32
+82,Darbhanga Rural,11,Jai Kishun Sahni,Independent,2330,0,2330,1.27
+82,Darbhanga Rural,12,Ram Sukamar Yadav,Independent,2900,1,2901,1.58
+82,Darbhanga Rural,13,Shyam Paswan,Independent,4637,1,4638,2.53
+82,Darbhanga Rural,14,Nota,None of the Above,4510,6,4516,2.47
+83,Darbhanga,1,Durga Nanda Mahavir Nayak,Bahujan Samaj Party,938,15,953,0.49
+83,Darbhanga,2,Sanjay Saraogi,Bharatiya Janata Party,96952,501,97453,49.66
+83,Darbhanga,3,Abhishek Kumar Jha,Mithilawadi party,1624,4,1628,0.83
+83,Darbhanga,4,Ashish Ranjan,Aam Janta Pragati Party,1511,2,1513,0.77
+83,Darbhanga,5,Umesh Sahani,Vikassheel Insaan Party,72465,395,72860,37.13
+83,Darbhanga,6,Pushpam Priya,The Plurals Party,1396,7,1403,0.71
+83,Darbhanga,7,Rakesh Kumar Mishra,Jan Suraaj Party,11610,148,11758,5.99
+83,Darbhanga,8,Mojahid Alam,Socialist Unity Centre Of India (COMMUNIST),343,2,345,0.18
+83,Darbhanga,9,Ranjeet Kumar Ram,Wazib Adhikar Party,851,1,852,0.43
+83,Darbhanga,10,Md Shaquib Najmi,Akhil Bharatiya Socialist Party,1853,3,1856,0.95
+83,Darbhanga,11,Mohammad Amajad Khan,Independent,465,5,470,0.24
+83,Darbhanga,12,Md Nafisul Haque,Independent,2270,44,2314,1.18
+83,Darbhanga,13,Sujeet Kumar Chaudhary,Independent,1363,0,1363,0.69
+83,Darbhanga,14,Nota,None of the Above,1453,15,1468,0.75
+84,Hayaghat,1,Nageshwar Das,Bahujan Samaj Party,1107,8,1115,0.66
+84,Hayaghat,2,Ravindra Nath Singh,Aam Aadmi Party,1906,16,1922,1.14
+84,Hayaghat,3,Ram Chandra Prasad,Bharatiya Janata Party,76915,307,77222,45.68
+84,Hayaghat,4,Shyam Bharti,Communist Party of India (Marxist),64951,432,65383,38.68
+84,Hayaghat,5,Irshad Ali,Desh Janhit Party,1195,5,1200,0.71
+84,Hayaghat,6,Jagnnath Singh,Janshakti Janta Dal,1461,4,1465,0.87
+84,Hayaghat,7,Pratibha Singh,Jan Suraaj Party,5675,84,5759,3.41
+84,Hayaghat,8,Harsha Narayan Pandit,Bhagidari Party(P),1135,2,1137,0.67
+84,Hayaghat,9,Usha Akela,Independent,437,3,440,0.26
+84,Hayaghat,10,Naresh Kumar Nawal,Independent,999,2,1001,0.59
+84,Hayaghat,11,Probhendra Jha,Independent,3576,2,3578,2.12
+84,Hayaghat,12,Mohammad Mahtab Alam,Independent,3665,2,3667,2.17
+84,Hayaghat,13,Lakshmi Das,Independent,2371,8,2379,1.41
+84,Hayaghat,14,Nota,None of the Above,2762,5,2767,1.64
+85,Bahadurpur,1,Pranay Prabhakar,Bahujan Samaj Party,2744,15,2759,1.3
+85,Bahadurpur,2,Bhola Yadav,Rashtriya Janata Dal,83881,408,84289,39.6
+85,Bahadurpur,3,Madan Sahni,Janata Dal (United),95949,351,96300,45.24
+85,Bahadurpur,4,Suresh Prasad Singh,Rashtriya Lok Janshakti Party,1582,4,1586,0.75
+85,Bahadurpur,5,Anju Devi,Bhagidari Party(P),1466,2,1468,0.69
+85,Bahadurpur,6,Birendra Kumar Paswan,Republican Party of India (Bhimrao Ambedkar),733,4,737,0.35
+85,Bahadurpur,7,Mohammad Amir Haider,Jan Suraaj Party,5547,32,5579,2.62
+85,Bahadurpur,8,Ranjeet Sharma,Gantantrik Samaj Party,766,2,768,0.36
+85,Bahadurpur,9,Rajnish Kumar,Jantantra Awaj Party,401,0,401,0.19
+85,Bahadurpur,10,Asad Ali,Independent,403,1,404,0.19
+85,Bahadurpur,11,Umesh Choudhary,Independent,1253,9,1262,0.59
+85,Bahadurpur,12,Dileep Kumar,Independent,1768,10,1778,0.84
+85,Bahadurpur,13,Ram Gulam Thakur,Independent,2319,1,2320,1.09
+85,Bahadurpur,14,Ram Chatur Sahni,Independent,6311,1,6312,2.97
+85,Bahadurpur,15,Vinai Kumar Singh,Independent,2376,3,2379,1.12
+85,Bahadurpur,16,Sanjay Prasad Ojha,Independent,1712,0,1712,0.8
+85,Bahadurpur,17,Sanjay Kumar Singh,Independent,816,0,816,0.38
+85,Bahadurpur,18,Nota,None of the Above,1979,14,1993,0.94
+86,Keoti,1,Faraz Fatmi,Rashtriya Janata Dal,81470,348,81818,42.48
+86,Keoti,2,Manoj Kumar Mahto,Bahujan Samaj Party,962,2,964,0.5
+86,Keoti,3,Murari Mohan Jha,Bharatiya Janata Party,88908,215,89123,46.28
+86,Keoti,4,Biltu Sahni,Jan Suraaj Party,4792,24,4816,2.5
+86,Keoti,5,Mohammad Anisur Rahman,All India Majlis-E-Ittehadul Muslimeen,7465,9,7474,3.88
+86,Keoti,6,Mohammad Pintu Khan,Akhil Bharatiya Socialist Party,306,0,306,0.16
+86,Keoti,7,Yogesh Ranjan,Proutist Sarva Samaj,455,5,460,0.24
+86,Keoti,8,Gulab Babu Rain,Independent,541,0,541,0.28
+86,Keoti,9,Dhirendra Kumar Dheeraj,Independent,3886,9,3895,2.02
+86,Keoti,10,Balaram Thakur,Independent,736,1,737,0.38
+86,Keoti,11,Nota,None of the Above,2453,1,2454,1.27
+87,Jale,1,Rishi Mishra,Indian National Congress,78363,271,78634,39.25
+87,Jale,2,Jibesh Kumar,Bharatiya Janata Party,100289,207,100496,50.16
+87,Jale,3,Rohit Kumar,Bahujan Samaj Party,1243,3,1246,0.62
+87,Jale,4,Faishal Rahman,All India Majlis-E-Ittehadul Muslimeen,4657,9,4666,2.33
+87,Jale,5,Mumtaz Ali,Jan Mithila Vikas Party,393,0,393,0.2
+87,Jale,6,Ranjit Sharma,Jan Suraaj Party,5130,20,5150,2.57
+87,Jale,7,Syed Md Mahtab,The Plurals Party,501,1,502,0.25
+87,Jale,8,Maskoor Ahmad Usmani,Independent,4576,29,4605,2.3
+87,Jale,9,Mohammad Piyare,Independent,1865,0,1865,0.93
+87,Jale,10,Nota,None of the Above,2804,4,2808,1.4
+88,Gaighat,1,Ishrat Perween,Bahujan Samaj Party,2787,7,2794,1.25
+88,Gaighat,2,Komal Singh,Janata Dal (United),107845,259,108104,48.31
+88,Gaighat,3,Niranjan Roy,Rashtriya Janata Dal,84366,321,84687,37.84
+88,Gaighat,4,Ashok Kumar Singh,Jan Suraaj Party,10718,72,10790,4.82
+88,Gaighat,5,Umesh Prasad Singh,Janshakti Janta Dal,1223,3,1226,0.55
+88,Gaighat,6,Kunal Kumar,Jan Sahmati Party,2966,3,2969,1.33
+88,Gaighat,7,Mithilesh Manjhi,Independent,3263,1,3264,1.46
+88,Gaighat,8,Subodh Kumar Singh,Independent,6156,1,6157,2.75
+88,Gaighat,9,Nota,None of the Above,3778,10,3788,1.69
+89,Aurai,1,Rama Nishad,Bharatiya Janata Party,103893,192,104085,50.06
+89,Aurai,2,Sheo Shankar Gupta,Aam Aadmi Party,3325,8,3333,1.6
+89,Aurai,3,Md. Aftab Alam,Aazad Samaj Party (Kanshi Ram),31363,67,31430,15.12
+89,Aurai,4,Bhogendra Sahni,Vikassheel Insaan Party,46691,188,46879,22.55
+89,Aurai,5,Radha Raman,Jan Suraaj Party,8648,57,8705,4.19
+89,Aurai,6,Akhilesh Kumar,Independent,8893,22,8915,4.29
+89,Aurai,7,Harischandra Prasad Yadav,Independent,1125,5,1130,0.54
+89,Aurai,8,Nota,None of the Above,3436,7,3443,1.66
+90,Minapur,1,Ajay Kumar,Janata Dal (United),113091,320,113411,51.59
+90,Minapur,2,Kumar Pushpendra,Bahujan Samaj Party,3160,2,3162,1.44
+90,Minapur,3,Rajeev Kumar Urf Munna Yadav,Rashtriya Janata Dal,78926,247,79173,36.01
+90,Minapur,4,Jitendra Prasad,Rashtriya Jansambhavna Party,1502,0,1502,0.68
+90,Minapur,5,Tej Narayan Sahni,Jan Suraaj Party,6608,25,6633,3.02
+90,Minapur,6,Dharmvir Kumar Sharma,Jagrook Janta Party,806,1,807,0.37
+90,Minapur,7,Shiv Kumar Yadav,Socialist Unity Centre Of India (COMMUNIST),1049,1,1050,0.48
+90,Minapur,8,Deenanath Prasad,Independent,750,0,750,0.34
+90,Minapur,9,Ramesh Kumar,Independent,714,3,717,0.33
+90,Minapur,10,Sanjiv Chaudhri,Independent,2649,5,2654,1.21
+90,Minapur,11,Santosh Kumar,Independent,2177,2,2179,0.99
+90,Minapur,12,Nota,None of the Above,7800,5,7805,3.55
+91,Bochahan,1,Dr. Abhay Kumar,Aam Aadmi Party,2725,6,2731,1.25
+91,Bochahan,2,Amar Kumar Paswan,Rashtriya Janata Dal,87508,362,87870,40.15
+91,Bochahan,3,Baby Kumari,Lok Janshakti Party (Ram Vilas),107892,294,108186,49.43
+91,Bochahan,4,Rahul Kumar,Bahujan Samaj Party,1972,4,1976,0.9
+91,Bochahan,5,Umesh Kumar Rajak,Jan Suraaj Party,5207,48,5255,2.4
+91,Bochahan,6,Jaymangal Ram,Rashtriya Jansambhavna Party,2278,2,2280,1.04
+91,Bochahan,7,Rajgeer Paswan,Bajjikanchal Vikas Party,3811,1,3812,1.74
+91,Bochahan,8,Deepmala Devi,Independent,2926,2,2928,1.34
+91,Bochahan,9,Nota,None of the Above,3805,10,3815,1.74
+92,Sakra,1,Ashok Kumar,Bahujan Samaj Party,2556,8,2564,1.24
+92,Sakra,2,Aditya Kumar,Janata Dal (United),98485,238,98723,47.9
+92,Sakra,3,Umesh Kumar Ram,Indian National Congress,83403,270,83673,40.6
+92,Sakra,4,Ram Sewak Paswan,Socialist Unity Centre Of India (COMMUNIST),3058,1,3059,1.48
+92,Sakra,5,Renu Kumari Urf Renu Paswan,Jan Suraaj Party,6372,42,6414,3.11
+92,Sakra,6,Shiv Narayan,Samata Party,1105,0,1105,0.54
+92,Sakra,7,Sachindra Kumar,Independent,3438,3,3441,1.67
+92,Sakra,8,Sateesh Kumar,Independent,3594,0,3594,1.74
+92,Sakra,9,Nota,None of the Above,3527,8,3535,1.72
+93,Kurhani,1,Kedar Pd Gupta,Bharatiya Janata Party,107493,318,107811,46.49
+93,Kurhani,2,Vijayesh Kumar,Bahujan Samaj Party,2109,8,2117,0.91
+93,Kurhani,3,Sunil Kumar Suman,Rashtriya Janata Dal,97685,408,98093,42.3
+93,Kurhani,4,Ajay Kumar Sahani,Socialist Party (India),793,1,794,0.34
+93,Kurhani,5,Alok Kumar Singh,Rashtriya Jansambhavna Party,555,0,555,0.24
+93,Kurhani,6,Md Gulam Masoom,Janshakti Janta Dal,521,3,524,0.23
+93,Kurhani,7,Baiju Kumar Ray,Samata Party,306,1,307,0.13
+93,Kurhani,8,Mohammad Ali Irfan,Jan Suraaj Party,4039,36,4075,1.76
+93,Kurhani,9,Rohit Kumar,Right to Recall Party,238,2,240,0.1
+93,Kurhani,10,Sanjeet Manjhi,Socialist Unity Centre Of India (COMMUNIST),435,1,436,0.19
+93,Kurhani,11,Arvind Kumar,Independent,276,2,278,0.12
+93,Kurhani,12,Gulab Kumar Rajak,Independent,491,3,494,0.21
+93,Kurhani,13,Dinesh Kumar Ray,Independent,769,2,771,0.33
+93,Kurhani,14,Dharmendra Kumar,Independent,6712,21,6733,2.9
+93,Kurhani,15,Pramod Kumar Sharma,Independent,838,1,839,0.36
+93,Kurhani,16,Manish Kumar,Independent,3363,5,3368,1.45
+93,Kurhani,17,Sanjeet Kumar Jha,Independent,1845,0,1845,0.8
+93,Kurhani,18,Dr. Santosh Kumar,Independent,400,2,402,0.17
+93,Kurhani,19,Sumit Kumar Jha,Independent,1208,1,1209,0.52
+93,Kurhani,20,Suresh Kumar Gupta,Independent,263,1,264,0.11
+93,Kurhani,21,Nota,None of the Above,721,8,729,0.31
+94,Muzaffarpur,1,Balak Nath Sahani,Bahujan Samaj Party,593,1,594,0.32
+94,Muzaffarpur,2,Ranjan Kumar,Bharatiya Janata Party,100060,417,100477,53.43
+94,Muzaffarpur,3,Bijendra Chaudhary,Indian National Congress,67456,364,67820,36.06
+94,Muzaffarpur,4,Md Hasan,Aam Aadmi Party,433,1,434,0.23
+94,Muzaffarpur,5,Ajay Kumar,Bajjikanchal Vikas Party,220,1,221,0.12
+94,Muzaffarpur,6,Aman Kumar Jha,Socialist Unity Centre Of India (COMMUNIST),171,0,171,0.09
+94,Muzaffarpur,7,Ashok Kumar Jha,Garib Janshakti Party,301,0,301,0.16
+94,Muzaffarpur,8,Dr. A.K. Das,Jan Suraaj Party,10077,96,10173,5.41
+94,Muzaffarpur,9,Dhanvanti Devi,Lok Chetna Dal,275,0,275,0.15
+94,Muzaffarpur,10,Manoj Kumar,Rashtriya Jansambhavna Party,223,0,223,0.12
+94,Muzaffarpur,11,Shanu Kumar,Aazad Samaj Party (Kanshi Ram),656,7,663,0.35
+94,Muzaffarpur,12,Awadhesh Prasad Singh,Independent,272,1,273,0.15
+94,Muzaffarpur,13,Anand Patel,Independent,386,2,388,0.21
+94,Muzaffarpur,14,Kanhaiya Kumar,Independent,803,2,805,0.43
+94,Muzaffarpur,15,Chandra Bhushan Prasad,Independent,954,3,957,0.51
+94,Muzaffarpur,16,Baskit Kumar Sharma,Independent,604,0,604,0.32
+94,Muzaffarpur,17,Md Shabbir Ansari,Independent,221,1,222,0.12
+94,Muzaffarpur,18,Sanjay Kumar S/O Jatan Rajak,Independent,753,0,753,0.4
+94,Muzaffarpur,19,Sanjay Kumar S/O Late Nand Kishor Prasad,Independent,460,0,460,0.24
+94,Muzaffarpur,20,Sanjay Kumar Kejriwal,Independent,1645,6,1651,0.88
+94,Muzaffarpur,21,Nota,None of the Above,597,9,606,0.32
+95,Kanti,1,Ajit Kumar,Janata Dal (United),116893,406,117299,50.43
+95,Kanti,2,Mohammad Israil Mansuri,Rashtriya Janata Dal,91136,368,91504,39.34
+95,Kanti,3,Vivek Kumar,Bahujan Samaj Party,1197,3,1200,0.52
+95,Kanti,4,Anand Kumar Jha,Lok Chetna Dal,387,0,387,0.17
+95,Kanti,5,Kumari Sheetal,Aazad Samaj Party (Kanshi Ram),2584,10,2594,1.12
+95,Kanti,6,Pranjal Prakalp,Kisan Suraj Dal,345,2,347,0.15
+95,Kanti,7,Lal Babu Roy,Socialist Unity Centre Of India (COMMUNIST),1194,3,1197,0.51
+95,Kanti,8,Birendra Kumar,Rashtriya Jansambhavna Party,588,1,589,0.25
+95,Kanti,9,Sudarshan Mishra,Jan Suraaj Party,4209,42,4251,1.83
+95,Kanti,10,Ajit Kumar,Independent,748,3,751,0.32
+95,Kanti,11,Md Jafrudin,Independent,532,0,532,0.23
+95,Kanti,12,Ranjit Kumar Jha Alias Pinaki Jha,Independent,1236,1,1237,0.53
+95,Kanti,13,Suresh Kumar Gupta,Independent,2888,1,2889,1.24
+95,Kanti,14,Nota,None of the Above,7819,4,7823,3.36
+96,Baruraj,1,Arun Kumar Singh,Bharatiya Janata Party,96663,216,96879,47.14
+96,Baruraj,2,Nasima Khatoon,Bahujan Samaj Party,2940,4,2944,1.43
+96,Baruraj,3,Md. Anzar,Rashtriya Ulama Council,511,1,512,0.25
+96,Baruraj,4,Madhav Bhakta,Socialist Unity Centre Of India (COMMUNIST),628,5,633,0.31
+96,Baruraj,5,Rakesh Kumar,Vikassheel Insaan Party,67629,198,67827,33
+96,Baruraj,6,Vidhyalal Sahani,Lok Chetna Dal,2032,3,2035,0.99
+96,Baruraj,7,Sanjay Kumar Paswan,Rashtriya Lok Janshakti Party,1578,0,1578,0.77
+96,Baruraj,8,Hiralal Kharia,Jan Suraaj Party,19898,37,19935,9.7
+96,Baruraj,9,Awadhesh Kumar Gupta,Independent,4854,3,4857,2.36
+96,Baruraj,10,Rajesh Kumar,Independent,704,0,704,0.34
+96,Baruraj,11,Rajesh Kumar Sah,Independent,997,0,997,0.49
+96,Baruraj,12,Santosh Kumar,Independent,1682,0,1682,0.82
+96,Baruraj,13,Nota,None of the Above,4924,2,4926,2.4
+97,Paroo,1,Vijay Kumar,Bahujan Samaj Party,4492,17,4509,1.98
+97,Paroo,2,Shankar Prasad,Rashtriya Janata Dal,94884,388,95272,41.76
+97,Paroo,3,Nanhak Sah,Socialist Unity Centre Of India (COMMUNIST),1646,7,1653,0.72
+97,Paroo,4,Madan Chaudhary,Rashtriya Lok Morcha,66283,162,66445,29.12
+97,Paroo,5,Ranjana Kumari,Jan Suraaj Party,6771,54,6825,2.99
+97,Paroo,6,Ashok Kumar Singh,Independent,40462,199,40661,17.82
+97,Paroo,7,Ashutosh Kumar,Independent,2247,1,2248,0.99
+97,Paroo,8,Niraj Kumar,Independent,2300,1,2301,1.01
+97,Paroo,9,Manish Kumar Singh,Independent,2854,2,2856,1.25
+97,Paroo,10,Vijay Thakur,Independent,2691,1,2692,1.18
+97,Paroo,11,Nota,None of the Above,2699,2,2701,1.18
+98,Sahebganj,1,Prithwinath Ray,Rashtriya Janata Dal,92473,327,92800,42.27
+98,Sahebganj,2,Binda Mahato,Bahujan Samaj Party,2533,8,2541,1.16
+98,Sahebganj,3,Raju Kumar Singh,Bharatiya Janata Party,106077,245,106322,48.43
+98,Sahebganj,4,Thakur Hari Kishore Singh,Jan Suraaj Party,4179,18,4197,1.91
+98,Sahebganj,5,Sukhari Das,Socialist Unity Centre Of India (COMMUNIST),419,1,420,0.19
+98,Sahebganj,6,Jai Prakash Kumar,Independent,183,0,183,0.08
+98,Sahebganj,7,Mukesh Kumar Singh,Independent,844,5,849,0.39
+98,Sahebganj,8,Motiur Rahman,Independent,356,1,357,0.16
+98,Sahebganj,9,Yogendra Kumar Yadav,Independent,373,0,373,0.17
+98,Sahebganj,10,Ranjeet Kumar,Independent,449,2,451,0.21
+98,Sahebganj,11,Rajan Kumar,Independent,975,1,976,0.44
+98,Sahebganj,12,Vikky Kumar,Independent,4187,0,4187,1.91
+98,Sahebganj,13,Shambhu Sah,Independent,1158,0,1158,0.53
+98,Sahebganj,14,Nota,None of the Above,4731,5,4736,2.16
+99,Baikunthpur,1,Pradeep Kumar,Bahujan Samaj Party,4116,26,4142,1.95
+99,Baikunthpur,2,Prem Shankar Prasad,Rashtriya Janata Dal,86590,590,87180,41.07
+99,Baikunthpur,3,Mithilesh Tiwari,Bharatiya Janata Party,103801,332,104133,49.05
+99,Baikunthpur,4,Ajay Prasad,Jan Suraaj Party,7305,30,7335,3.46
+99,Baikunthpur,5,Mohan Mahato,Rashtriya Jansambhavna Party,1571,3,1574,0.74
+99,Baikunthpur,6,Ram Narayan Singh,Rashtrawadi Janlok Party (Satya),3489,8,3497,1.65
+99,Baikunthpur,7,Raj Kishor Singh,Independent,2405,3,2408,1.13
+99,Baikunthpur,8,Nota,None of the Above,2011,7,2018,0.95
+100,Barauli,1,Dilip Kumar Singh,Rashtriya Janata Dal,75917,366,76283,39.29
+100,Barauli,2,Manjeet Kumar Singh,Janata Dal (United),88339,318,88657,45.66
+100,Barauli,3,Reyazul Haque Urf Raju,Bahujan Samaj Party,13335,62,13397,6.9
+100,Barauli,4,Faiz Ahmad,Jan Suraaj Party,2884,27,2911,1.5
+100,Barauli,5,Rudal Mahato,Rashtriya Jansambhavna Party,571,3,574,0.3
+100,Barauli,6,Krishna Shah,Independent,649,1,650,0.33
+100,Barauli,7,Manju Kumari,Independent,690,1,691,0.36
+100,Barauli,8,Sita Devi,Independent,2197,7,2204,1.14
+100,Barauli,9,Sonu Kumar,Independent,4804,0,4804,2.47
+100,Barauli,10,Nota,None of the Above,4001,5,4006,2.06
+101,Gopalganj,1,Indira Yadav,Bahujan Samaj Party,7924,155,8079,4.06
+101,Gopalganj,2,Om Prakash Garg,Indian National Congress,67546,374,67920,34.15
+101,Gopalganj,3,Brij Kishor Gupta,Aam Aadmi Party,1569,4,1573,0.79
+101,Gopalganj,4,Subhash Singh,Bharatiya Janata Party,96353,539,96892,48.72
+101,Gopalganj,5,Anash Salam,All India Majlis-E-Ittehadul Muslimeen,14162,63,14225,7.15
+101,Gopalganj,6,Sahana Khatoon,Samata Party,1805,1,1806,0.91
+101,Gopalganj,7,Md. Hayatullah,Bhartiya Insan Party,1022,2,1024,0.51
+101,Gopalganj,8,Anup Kumar Shrivastava,Independent,5074,42,5116,2.57
+101,Gopalganj,9,Nota,None of the Above,2229,8,2237,1.12
+102,Kuchaikote,1,Amrendra Kumar Pandey,Janata Dal (United),100926,499,101425,50.21
+102,Kuchaikote,2,Baliram Singh,Bahujan Samaj Party,5509,33,5542,2.74
+102,Kuchaikote,3,Hari Narayan Singh,Indian National Congress,76561,373,76934,38.08
+102,Kuchaikote,4,Braj Bihari Bhatt,Janshakti Janta Dal,2023,2,2025,1
+102,Kuchaikote,5,Vijay Kumar Choubey,Jan Suraaj Party,6012,65,6077,3.01
+102,Kuchaikote,6,Vishwakarma Sharma,Jagrook Janta Party,2645,1,2646,1.31
+102,Kuchaikote,7,Pankaj Pandey,Independent,1584,4,1588,0.79
+102,Kuchaikote,8,Nota,None of the Above,5776,7,5783,2.86
+103,Bhorey,1,Dhananjay,Communist Party of India (Marxist-Leninist) (Liberation),84836,470,85306,40.03
+103,Bhorey,2,Dharmendra Kumar Ram,Aam Aadmi Party,4084,11,4095,1.92
+103,Bhorey,3,Sunil Kumar,Janata Dal (United),100856,613,101469,47.61
+103,Bhorey,4,Surendra Kumar Ram,Bahujan Samaj Party,6105,27,6132,2.88
+103,Bhorey,5,Priti Kinar,Jan Suraaj Party,8536,66,8602,4.04
+103,Bhorey,6,Nota,None of the Above,7511,6,7517,3.53
+104,Hathua,1,Indrajit Gupt Jyotishkar,Aam Aadmi Party,3114,3,3117,1.59
+104,Hathua,2,Rajesh Kumar Singh,Rashtriya Janata Dal,79450,323,79773,40.69
+104,Hathua,3,Ramsewak Singh,Janata Dal (United),91842,279,92121,46.99
+104,Hathua,4,Shabanm Khatun,Bahujan Samaj Party,3776,13,3789,1.93
+104,Hathua,5,Kalindra Kumar Ray,Rashtriya Sab Janshakti Party,760,1,761,0.39
+104,Hathua,6,Laxman Bhar,Suheldev Bharatiya Samaj Party,1175,1,1176,0.6
+104,Hathua,7,Sanjay Kumar Suman,Jan Suraaj Party,5052,37,5089,2.6
+104,Hathua,8,Surendra Ram,Bhartiya Rashtriya Dal,1043,1,1044,0.53
+104,Hathua,9,Nauraj Sah,Independent,3639,1,3640,1.86
+104,Hathua,10,Surendra Gupta,Independent,2452,2,2454,1.25
+104,Hathua,11,Nota,None of the Above,3092,2,3094,1.58
+105,Siwan,1,Awadh Bihari Choudhary,Rashtriya Janata Dal,82847,162,83009,43.56
+105,Siwan,2,Mangal Pandey,Bharatiya Janata Party,92233,146,92379,48.47
+105,Siwan,3,Sunita Devi,Bahujan Samaj Party,2174,9,2183,1.15
+105,Siwan,4,Intekhab Ahmad,Jan Suraaj Party,2524,19,2543,1.33
+105,Siwan,5,Kumar Gauraw Bunty,Rashtrawadi Janlok Party (Satya),240,0,240,0.13
+105,Siwan,6,Mohammad Kaifi Samshir,All India Majlis-E-Ittehadul Muslimeen,3491,2,3493,1.83
+105,Siwan,7,Rakesh Sharma,Jagrook Janta Party,221,1,222,0.12
+105,Siwan,8,Md Arif,Independent,298,0,298,0.16
+105,Siwan,9,Dewa Kant Mishra Alias Munna Bhaiya,Independent,205,0,205,0.11
+105,Siwan,10,Vimal Prasad,Independent,226,1,227,0.12
+105,Siwan,11,Satyendra Kumar Kushwaha,Independent,441,4,445,0.23
+105,Siwan,12,Saroj Kumari,Independent,636,0,636,0.33
+105,Siwan,13,Sushil Kumar,Independent,1998,0,1998,1.05
+105,Siwan,14,Nota,None of the Above,2702,2,2704,1.42
+106,Ziradei,1,Amarjeet Kushwaha,Communist Party of India (Marxist-Leninist) (Liberation),63498,103,63601,40.27
+106,Ziradei,2,Pramod Kumar Mall,Bahujan Samaj Party,5090,12,5102,3.23
+106,Ziradei,3,Bhism Pratap Singh,Janata Dal (United),66137,90,66227,41.94
+106,Ziradei,4,Jaglal Rajbhar,Suheldev Bharatiya Samaj Party,2386,4,2390,1.51
+106,Ziradei,5,Parmanand Prasad,Swatantra Samaj Party,807,0,807,0.51
+106,Ziradei,6,Munna Pandey,Jan Suraaj Party,10090,35,10125,6.41
+106,Ziradei,7,Ajay Kumar Prajapati,Independent,783,0,783,0.5
+106,Ziradei,8,Prabunath Thakur,Independent,1039,0,1039,0.66
+106,Ziradei,9,Raghwendra Kumar Kharwar,Independent,2262,1,2263,1.43
+106,Ziradei,10,Vivek Shukla,Independent,882,0,882,0.56
+106,Ziradei,11,Nota,None of the Above,4704,3,4707,2.98
+107,Darauli,1,Vishnu Deo Paswan,Lok Janshakti Party (Ram Vilas),82804,210,83014,47.38
+107,Darauli,2,Satyadeo Ram,Communist Party of India (Marxist-Leninist) (Liberation),73284,158,73442,41.92
+107,Darauli,3,Harilal Ram,Bahujan Samaj Party,3190,18,3208,1.83
+107,Darauli,4,Ganesh Ram,Jan Suraaj Party,4593,37,4630,2.64
+107,Darauli,5,Manoj Ram,Suheldev Bharatiya Samaj Party,3903,5,3908,2.23
+107,Darauli,6,Pradeep Manjhi,Independent,2459,6,2465,1.41
+107,Darauli,7,Nota,None of the Above,4535,11,4546,2.59
+108,Raghunathpur,1,Osama Shahab,Rashtriya Janata Dal,88123,155,88278,48.81
+108,Raghunathpur,2,Vikash Kumar Singh,Janata Dal (United),78872,158,79030,43.69
+108,Raghunathpur,3,Kumar Santosh,Suheldev Bharatiya Samaj Party,2195,0,2195,1.21
+108,Raghunathpur,4,Pashupati Nath Chaturvedi,Janshakti Janta Dal,991,5,996,0.55
+108,Raghunathpur,5,Rahul Kirti,Jan Suraaj Party,3042,29,3071,1.7
+108,Raghunathpur,6,Anita Kumari,Independent,914,3,917,0.51
+108,Raghunathpur,7,Upendra Singh,Independent,2906,3,2909,1.61
+108,Raghunathpur,8,Nota,None of the Above,3471,7,3478,1.92
+109,Daraunda,1,Amarnath Yadav,Communist Party of India (Marxist-Leninist) (Liberation),68552,128,68680,37.1
+109,Daraunda,2,Karnjeet Singh Alias Vyas Singh,Bharatiya Janata Party,86880,167,87047,47.02
+109,Daraunda,3,Madhusudan Singh,Bahujan Samaj Party,2241,9,2250,1.22
+109,Daraunda,4,Brijabihari Ray,Suheldev Bharatiya Samaj Party,1168,0,1168,0.63
+109,Daraunda,5,Satyandra Yadav,Jan Suraaj Party,6690,41,6731,3.64
+109,Daraunda,6,Gudiya Devi,Independent,11113,20,11133,6.01
+109,Daraunda,7,Balendra Kumar Ray,Independent,2976,0,2976,1.61
+109,Daraunda,8,Nota,None of the Above,5146,5,5151,2.78
+110,Barharia,1,Arun Kumar Gupta,Rashtriya Janata Dal,81340,124,81464,41.35
+110,Barharia,2,Indradev Singh,Janata Dal (United),93481,119,93600,47.51
+110,Barharia,3,Jitendra Yadav,Aam Aadmi Party,2170,5,2175,1.1
+110,Barharia,4,Vijay Kumar Yadaw,Bahujan Samaj Party,1290,1,1291,0.66
+110,Barharia,5,Radheshyam Sharma,Jagrook Janta Party,410,2,412,0.21
+110,Barharia,6,Shekh Shahnawaz Alam,Jan Suraaj Party,3735,15,3750,1.9
+110,Barharia,7,Deepak Kumar,Independent,383,1,384,0.19
+110,Barharia,8,Ramdas Tiwari,Independent,918,0,918,0.47
+110,Barharia,9,Rahul Kumar,Independent,1148,0,1148,0.58
+110,Barharia,10,Shyam Bahadur Singh,Independent,4678,14,4692,2.38
+110,Barharia,11,Hareram Singh,Independent,3229,0,3229,1.64
+110,Barharia,12,Nota,None of the Above,3930,2,3932,2
+111,Goriakothi,1,Anwarul Haque,Rashtriya Janata Dal,93431,93,93524,43.84
+111,Goriakothi,2,Devesh Kant Singh,Bharatiya Janata Party,105799,110,105909,49.64
+111,Goriakothi,3,Ravi Bhushan Gupta,Aam Aadmi Party,1378,1,1379,0.65
+111,Goriakothi,4,Umashankar Tiwari,Bhartiya Lok Chetna Party,313,0,313,0.15
+111,Goriakothi,5,Ejaz Ahmad Siddique,Jan Suraaj Party,3262,19,3281,1.54
+111,Goriakothi,6,Tribhuwan Ram,Peoples Party of India (Democratic),459,1,460,0.22
+111,Goriakothi,7,Dilip Manjhi,Janshakti Vikas Party (Democratic),534,0,534,0.25
+111,Goriakothi,8,Dhruvnath Singh,Rashtriya Jansambhavna Party,648,0,648,0.3
+111,Goriakothi,9,Ramayan Singh,All India Forward Bloc,843,2,845,0.4
+111,Goriakothi,10,Ashok Kumar Varma,Independent,2797,0,2797,1.31
+111,Goriakothi,11,Nota,None of the Above,3649,6,3655,1.71
+112,Maharajganj,1,Ravi Ranjan Tisu,Bahujan Samaj Party,2174,2,2176,1.16
+112,Maharajganj,2,Vishal Kumar Jaiswal,Rashtriya Janata Dal,65604,110,65714,34.99
+112,Maharajganj,3,Hem Narayan Sah,Janata Dal (United),86674,139,86813,46.22
+112,Maharajganj,4,Nayan Prasad,Bharat Ka Kisan Majdoor Party,1658,1,1659,0.88
+112,Maharajganj,5,Madan Yadav,Aazad Samaj Party (Kanshi Ram),2370,3,2373,1.26
+112,Maharajganj,6,Dr. Vikas Kumar Singh,Political Team India,2129,0,2129,1.13
+112,Maharajganj,7,Sunil Ray,Jan Suraaj Party,8116,49,8165,4.35
+112,Maharajganj,8,Angad Kumar,Independent,706,0,706,0.38
+112,Maharajganj,9,Ashish Ranjan Singh,Independent,885,1,886,0.47
+112,Maharajganj,10,Nitish Kumar Diwedi,Independent,6242,12,6254,3.33
+112,Maharajganj,11,Ravindra Kumar,Independent,4358,0,4358,2.32
+112,Maharajganj,12,Raj Kishor Gupta,Independent,2902,0,2902,1.55
+112,Maharajganj,13,Nota,None of the Above,3674,1,3675,1.96
+113,Ekma,1,Manoranjan Singh,Janata Dal (United),83844,233,84077,49.16
+113,Ekma,2,Lakshman Manjhi,Bahujan Samaj Party,2977,15,2992,1.75
+113,Ekma,3,Srikant Yadav,Rashtriya Janata Dal,61161,208,61369,35.88
+113,Ekma,4,Umesh Kumar Rajbhar,Suheldev Bharatiya Samaj Party,1378,0,1378,0.81
+113,Ekma,5,Jawahir Prasad,Apna Kisan Party,993,2,995,0.58
+113,Ekma,6,Deo Kumar Singh,Jan Suraaj Party,7583,59,7642,4.47
+113,Ekma,7,Abhijeet Abhigyan,Independent,1049,7,1056,0.62
+113,Ekma,8,Jitendra Kumar Kannauj,Independent,1257,0,1257,0.73
+113,Ekma,9,Rakesh Kumar Singh,Independent,2460,0,2460,1.44
+113,Ekma,10,Shankar Sharma,Independent,1600,0,1600,0.94
+113,Ekma,11,Nota,None of the Above,6216,1,6217,3.63
+114,Manjhi,1,Randhir Kumar Singh,Janata Dal (United),68116,339,68455,38.53
+114,Manjhi,2,Sanotsh Prasad,Bahujan Samaj Party,1995,17,2012,1.13
+114,Manjhi,3,Dr. Satyendra Yadav,Communist Party of India (Marxist),58405,263,58668,33.02
+114,Manjhi,4,Y.V.Giri,Jan Suraaj Party,9212,94,9306,5.24
+114,Manjhi,5,Dharmendra Kumar Sharma,Jagrook Janta Party,916,9,925,0.52
+114,Manjhi,6,Nasim Ahamad,Aazad Samaj Party (Kanshi Ram),3385,15,3400,1.91
+114,Manjhi,7,Pratibha Devi,Suheldev Bharatiya Samaj Party,1356,6,1362,0.77
+114,Manjhi,8,Ashok Sharma,Independent,694,3,697,0.39
+114,Manjhi,9,Om Prakash Prasad,Independent,3079,8,3087,1.74
+114,Manjhi,10,Rana Pratap Singh,Independent,19061,78,19139,10.77
+114,Manjhi,11,Sanju Yadav,Independent,3104,3,3107,1.75
+114,Manjhi,12,Suresh Kumar Ram,Independent,1403,2,1405,0.79
+114,Manjhi,13,Nota,None of the Above,6106,7,6113,3.44
+115,Baniapur,1,Kedar Nath Singh,Bharatiya Janata Party,95343,263,95606,47.7
+115,Baniapur,2,Chandni Devi,Rashtriya Janata Dal,79854,316,80170,40
+115,Baniapur,3,Byas Manjhi,Bahujan Samaj Party,1800,6,1806,0.9
+115,Baniapur,4,Pushpa Kumari,Janshakti Janta Dal,1120,15,1135,0.57
+115,Baniapur,5,Shravan Kumar,Jan Suraaj Party,8574,64,8638,4.31
+115,Baniapur,6,Ravi Prakash,Independent,2843,7,2850,1.42
+115,Baniapur,7,Rajesh Kumar Singh,Independent,1505,1,1506,0.75
+115,Baniapur,8,Shyam Kumar Singh,Independent,3831,0,3831,1.91
+115,Baniapur,9,Nota,None of the Above,4870,6,4876,2.43
+116,Taraiya,1,Amit Kumar Singh,Aam Aadmi Party,1846,5,1851,0.96
+116,Taraiya,2,Janak Singh,Bharatiya Janata Party,85401,163,85564,44.21
+116,Taraiya,3,Braj Bihari Singh,Bahujan Samaj Party,1870,5,1875,0.97
+116,Taraiya,4,Shailendra Pratap,Rashtriya Janata Dal,84070,165,84235,43.52
+116,Taraiya,5,Ahmad Hussain Ansari,Peace Party,1016,2,1018,0.53
+116,Taraiya,6,Bhagwan Prasad Gupta,Vanchit Adhikar Party,976,2,978,0.51
+116,Taraiya,7,Ram Viswas Rai,Bhartiya Sarthak Party,296,3,299,0.15
+116,Taraiya,8,Vivek Kumar,Janshakti Janta Dal,680,1,681,0.35
+116,Taraiya,9,Sanjay Kumar,Peoples Party of India (Democratic),879,0,879,0.45
+116,Taraiya,10,Satyendra Ku Sahni,Jan Suraaj Party,5065,21,5086,2.63
+116,Taraiya,11,Mithilesh Kumar,Independent,2654,9,2663,1.38
+116,Taraiya,12,Mumtaj Ansari,Independent,2746,2,2748,1.42
+116,Taraiya,13,Lalu Prasad Yadav,Independent,1315,1,1316,0.68
+116,Taraiya,14,Vijesh Ray,Independent,2621,0,2621,1.35
+116,Taraiya,15,Nota,None of the Above,1718,6,1724,0.89
+117,Marhaura,1,Jitendra Kumar Rai,Rashtriya Janata Dal,85764,354,86118,47.97
+117,Marhaura,2,Naveen Kumar Singh Uraf Abhay Singh,Jan Suraaj Party,58016,174,58190,32.42
+117,Marhaura,3,Purushottam Kumar,Rashtriya Sab Janshakti Party,2330,8,2338,1.3
+117,Marhaura,4,Madhubala Giri,The Plurals Party,1566,11,1577,0.88
+117,Marhaura,5,Lalu Prasad Yadav,Rashtriya Jansambhavna Party,2816,4,2820,1.57
+117,Marhaura,6,Ankit Kumar,Independent,17299,11,17310,9.64
+117,Marhaura,7,Abhishek Ranjan,Independent,1505,1,1506,0.84
+117,Marhaura,8,Manegar Ray,Independent,1357,0,1357,0.76
+117,Marhaura,9,Sandev Kumar Ray,Independent,3483,0,3483,1.94
+117,Marhaura,10,Nota,None of the Above,4799,10,4809,2.68
+118,Chapra,1,Chhoti Kumari,Bharatiya Janata Party,86561,284,86845,45.86
+118,Chapra,2,Shatrughan Yadav,Rashtriya Janata Dal,78897,348,79245,41.84
+118,Chapra,3,Jai Prakash Singh,Jan Suraaj Party,3377,56,3433,1.81
+118,Chapra,4,Gyani Kumar Sharma,Bharatiya Ekta Dal,277,2,279,0.15
+118,Chapra,5,Rajesh Kushwaha,Bhartiya Lok Chetna Party,333,4,337,0.18
+118,Chapra,6,Shak Naushad,Aazad Samaj Party (Kanshi Ram),2081,12,2093,1.11
+118,Chapra,7,Padma Mishra,Independent,539,3,542,0.29
+118,Chapra,8,Md Sultan Hussen Idrishi,Independent,391,4,395,0.21
+118,Chapra,9,Rakhi Gupta,Independent,11358,130,11488,6.07
+118,Chapra,10,Rana Yashwant Pratap Singh,Independent,2024,2,2026,1.07
+118,Chapra,11,Nota,None of the Above,2704,2,2706,1.43
+119,Garkha,1,Avinash Kumar,Bahujan Samaj Party,3264,14,3278,1.61
+119,Garkha,2,Vigan Manjhi,Rashtriya Lok Janshakti Party,1650,10,1660,0.82
+119,Garkha,3,Sadan Kumar,Aam Aadmi Party,1006,4,1010,0.5
+119,Garkha,4,Simant Mrinal,Lok Janshakti Party (Ram Vilas),78136,194,78330,38.49
+119,Garkha,5,Surendra Ram,Rashtriya Janata Dal,90831,303,91134,44.78
+119,Garkha,6,Nagendra Ram,Republican Party of India (A),1424,4,1428,0.7
+119,Garkha,7,Manohar Kumar Ram,Jan Suraaj Party,5255,59,5314,2.61
+119,Garkha,8,Nand Kishor Manjhi,Independent,805,1,806,0.4
+119,Garkha,9,Neeraj Ram,Independent,1284,3,1287,0.63
+119,Garkha,10,Muneshwar Chaudhary,Independent,9392,61,9453,4.65
+119,Garkha,11,Raghunandan Manjhi,Independent,2768,6,2774,1.36
+119,Garkha,12,Rajkumar,Independent,2678,0,2678,1.32
+119,Garkha,13,Sabita Devi,Independent,1724,4,1728,0.85
+119,Garkha,14,Nota,None of the Above,2606,11,2617,1.29
+120,Amnour,1,Krishan Kumar Mantoo,Bharatiya Janata Party,75298,227,75525,44.52
+120,Amnour,2,Puja Kumari,Bahujan Samaj Party,5675,20,5695,3.36
+120,Amnour,3,Sunil Kumar,Rashtriya Janata Dal,71475,242,71717,42.27
+120,Amnour,4,Ali Abbas,Bharatiya Momin Front,1059,3,1062,0.63
+120,Amnour,5,Krishna Mishra,The Plurals Party,300,1,301,0.18
+120,Amnour,6,Jay Prakash Kumar Singh,Socialist Party (India),403,2,405,0.24
+120,Amnour,7,Rakesh Kumar,Bharatiya Ekta Dal,648,1,649,0.38
+120,Amnour,8,Rahul Kumar Singh,Jan Suraaj Party,5981,50,6031,3.55
+120,Amnour,9,Arjun Kumar Nirala,Independent,528,3,531,0.31
+120,Amnour,10,Ramlal Manjhi,Independent,660,0,660,0.39
+120,Amnour,11,Lakshman Yadav,Independent,2261,1,2262,1.33
+120,Amnour,12,Sujeet Priydarshi,Independent,1073,1,1074,0.63
+120,Amnour,13,Nota,None of the Above,3745,4,3749,2.21
+121,Parsa,1,Karishma,Rashtriya Janata Dal,88807,286,89093,49.16
+121,Parsa,2,Chhote Lal Rai,Janata Dal (United),63087,234,63321,34.94
+121,Parsa,3,Pawan Tiwari,Aam Aadmi Party,1976,1,1977,1.09
+121,Parsa,4,Md Samim Ansari,Bahujan Samaj Party,2520,20,2540,1.4
+121,Parsa,5,Javahir Singh,Insaniyat Party,1569,0,1569,0.87
+121,Parsa,6,Bipin Kr Singh,Nationalist Congress Party,846,5,851,0.47
+121,Parsa,7,Madan Mohan Srivastava,"Proutist Bloc, India",924,0,924,0.51
+121,Parsa,8,Mosaheb Mahto,Jan Suraaj Party,10076,50,10126,5.59
+121,Parsa,9,Shyam Babu Ray,Bhartiya Lok Chetna Party,593,1,594,0.33
+121,Parsa,10,Muneshwar Prasad Gupta,Independent,919,2,921,0.51
+121,Parsa,11,Ramaishwar Prasad Ray,Independent,1430,1,1431,0.79
+121,Parsa,12,Shriniwas Sah,Independent,3208,3,3211,1.77
+121,Parsa,13,Nota,None of the Above,4674,3,4677,2.58
+122,Sonepur,1,Ajay Kumar,Samata Party,1156,2,1158,0.58
+122,Sonepur,2,Chandan Lal Mehta,Jan Suraaj Party,11888,89,11977,6.01
+122,Sonepur,3,Dr. Ramanuj Prasad,Rashtriya Janata Dal,85861,214,86075,43.2
+122,Sonepur,4,Vinay Kumar Singh,Bharatiya Janata Party,90591,251,90842,45.59
+122,Sonepur,5,Dharamveer Kumar,Nationalist Congress Party,471,0,471,0.24
+122,Sonepur,6,Surendra Prasad Yadav,Janshakti Janta Dal,1235,0,1235,0.62
+122,Sonepur,7,Ramesh Kumar,Independent,3155,1,3156,1.58
+122,Sonepur,8,Rohit Roy,Independent,1720,0,1720,0.86
+122,Sonepur,9,Nota,None of the Above,2602,4,2606,1.31
+123,Hajipur,1,Abhishek Kumar,Bahujan Samaj Party,1540,5,1545,0.69
+123,Hajipur,2,Awadhesh Singh,Bharatiya Janata Party,112565,656,113221,50.27
+123,Hajipur,3,Ghanshyam Kumar Daha,Rashtriya Lok Janshakti Party,1602,2,1604,0.71
+123,Hajipur,4,Deo Kumar Chaurasia,Rashtriya Janata Dal,93857,855,94712,42.05
+123,Hajipur,5,Raj Kumar Paswan,Aam Aadmi Party,637,7,644,0.29
+123,Hajipur,6,Indradeo Roy,Socialist Unity Centre Of India (COMMUNIST),254,0,254,0.11
+123,Hajipur,7,Dheeraj Kumar Roy,Yuva Devlop Party,419,5,424,0.19
+123,Hajipur,8,Pratibha Sinha,Jan Suraaj Party,4605,96,4701,2.09
+123,Hajipur,9,Raj Kumar Singh,Bhartiya Lok Chetna Party,823,8,831,0.37
+123,Hajipur,10,Nishant Gandhi,Independent,1836,15,1851,0.82
+123,Hajipur,11,Ramesh Kumar Singh,Independent,845,3,848,0.38
+123,Hajipur,12,Sunil Roy,Independent,2225,1,2226,0.99
+123,Hajipur,13,Nota,None of the Above,2370,11,2381,1.06
+124,Lalganj,1,Rajendra Prasad Singh,Aam Aadmi Party,1675,4,1679,0.7
+124,Lalganj,2,Shivani Shukla,Rashtriya Janata Dal,94807,676,95483,39.75
+124,Lalganj,3,Sanjay Kumar Singh,Bharatiya Janata Party,127193,457,127650,53.14
+124,Lalganj,4,Amar Kumar Singh,Jan Suraaj Party,4151,64,4215,1.75
+124,Lalganj,5,Md. Niyaj Alam,Lok Shakti Party (Loktantrik),603,8,611,0.25
+124,Lalganj,6,Rajendra Sharma,Socialist Unity Centre Of India (COMMUNIST),370,3,373,0.16
+124,Lalganj,7,Akhilesh Kumar,Independent,459,2,461,0.19
+124,Lalganj,8,Abhishek Kumar Singh,Independent,968,2,970,0.4
+124,Lalganj,9,Dhirendra Kumar Mahto,Independent,4434,7,4441,1.85
+124,Lalganj,10,Vidya Prakash,Independent,2143,5,2148,0.89
+124,Lalganj,11,Nota,None of the Above,2162,12,2174,0.91
+125,Vaishali,1,Ajay Kumar Kushwaha,Rashtriya Janata Dal,75302,485,75787,31.89
+125,Vaishali,2,Nisha Raj,Bahujan Samaj Party,2305,16,2321,0.98
+125,Vaishali,3,Ramekbal Singh,Rashtriya Lok Janshakti Party,1431,8,1439,0.61
+125,Vaishali,4,Sanjeev Singh,Indian National Congress,20269,126,20395,8.58
+125,Vaishali,5,Siddharth Patel,Janata Dal (United),107853,524,108377,45.6
+125,Vaishali,6,Dr. Bipin Chandra,Samata Party,2080,4,2084,0.88
+125,Vaishali,7,Md. Murtaza Hossain Haque,Ambedkar National Congress,841,6,847,0.36
+125,Vaishali,8,Raj Kumar,Bajjikanchal Vikas Party,1122,1,1123,0.47
+125,Vaishali,9,Ram Nath Ray,Socialist Unity Centre Of India (COMMUNIST),2820,3,2823,1.19
+125,Vaishali,10,Sunil Kumar,Jan Suraaj Party,9047,61,9108,3.83
+125,Vaishali,11,Anand Kumar,Independent,1526,2,1528,0.64
+125,Vaishali,12,Rubi Kumari,Independent,3163,11,3174,1.34
+125,Vaishali,13,Brishin Patel,Independent,4075,41,4116,1.73
+125,Vaishali,14,Nota,None of the Above,4554,8,4562,1.92
+126,Mahua,1,Mukesh Kumar Raushan,Rashtriya Janata Dal,42406,238,42644,20.18
+126,Mahua,2,Rimjhim Devi,Bahujan Samaj Party,6678,61,6739,3.19
+126,Mahua,3,Sanjay Kumar Singh,Lok Janshakti Party (Ram Vilas),87356,285,87641,41.47
+126,Mahua,4,Akhilesh Kumar Thakur,Nationalist Congress Party,998,2,1000,0.47
+126,Mahua,5,Amit Kumar,All India Majlis-E-Ittehadul Muslimeen,15747,36,15783,7.47
+126,Mahua,6,Indrajeet Pradhan,Jan Suraaj Party,2371,15,2386,1.13
+126,Mahua,7,Jay Narayan Sah,Bajjikanchal Vikas Party,652,0,652,0.31
+126,Mahua,8,Tej Pratap Yadav,Janshakti Janta Dal,35333,370,35703,16.89
+126,Mahua,9,Raju Mahto,Bhartiya Sarthak Party,1369,3,1372,0.65
+126,Mahua,10,Lalit Kumar Ghosh,Socialist Unity Centre Of India (COMMUNIST),558,2,560,0.26
+126,Mahua,11,Amresh Kumar,Independent,999,6,1005,0.48
+126,Mahua,12,Ashma Parveen,Independent,7321,106,7427,3.51
+126,Mahua,13,Naresh Ray,Independent,1108,2,1110,0.53
+126,Mahua,14,Ram Sagar Sahni,Independent,3646,3,3649,1.73
+126,Mahua,15,Sarita Sah,Independent,939,1,940,0.44
+126,Mahua,16,Nota,None of the Above,2710,7,2717,1.29
+127,Raja Pakar,1,Krishna Mohan Paswan,Bahujan Samaj Party,1396,8,1404,0.76
+127,Raja Pakar,2,Pratima Kumari,Indian National Congress,47639,430,48069,26.12
+127,Raja Pakar,3,Mahendra Ram,Janata Dal (United),95630,628,96258,52.31
+127,Raja Pakar,4,Shivnath Kumar Paswan,Rashtriya Lok Janshakti Party,1954,29,1983,1.08
+127,Raja Pakar,5,Ashok Paswan,Sathi Aur Aapka Faisala Party,887,3,890,0.48
+127,Raja Pakar,6,Umesh Ram,Socialist Unity Centre Of India (COMMUNIST),1147,4,1151,0.63
+127,Raja Pakar,7,Chandan Kumar,All India Forward Bloc,382,0,382,0.21
+127,Raja Pakar,8,Dharmendra Kumar,Jantantra Awaj Party,471,3,474,0.26
+127,Raja Pakar,9,Pankaj Kumar,Aazad Samaj Party (Kanshi Ram),2976,13,2989,1.62
+127,Raja Pakar,10,Mukesh Kumar,Jan Suraaj Party,4616,85,4701,2.55
+127,Raja Pakar,11,Mohit Paswan,Communist Party of India,12870,120,12990,7.06
+127,Raja Pakar,12,Sanjeev Chowdhary,The Plurals Party,1364,1,1365,0.74
+127,Raja Pakar,13,Ajay Kumar Paswan,Independent,5745,3,5748,3.12
+127,Raja Pakar,14,Kavita Kumari,Independent,3472,5,3477,1.89
+127,Raja Pakar,15,Nota,None of the Above,2128,9,2137,1.16
+128,Raghopur,1,Tejashwi Prasad Yadav,Rashtriya Janata Dal,117946,651,118597,49.74
+128,Raghopur,2,Raju Kumar,Aam Aadmi Party,1319,3,1322,0.55
+128,Raghopur,3,Satish Kumar,Bharatiya Janata Party,103520,545,104065,43.64
+128,Raghopur,4,Anil Singh,Nationalist Congress Party,982,1,983,0.41
+128,Raghopur,5,Umesh Mahato,Rashtriya Jansambhavna Party,451,3,454,0.19
+128,Raghopur,6,Kavita Kumari,Bihar Justice Party,196,3,199,0.08
+128,Raghopur,7,Chanchal Kumar,Jan Suraaj Party,2348,51,2399,1.01
+128,Raghopur,8,Prem Kumar,Janshakti Janta Dal,706,3,709,0.3
+128,Raghopur,9,Mohamad Rizwanul Azam,Janta Dal Rashtravadi,403,5,408,0.17
+128,Raghopur,10,Ram Babu Ray,Jantantra Awaj Party,359,1,360,0.15
+128,Raghopur,11,Shilam Jha,Akhil Hind Forward Bloc (Krantikari),794,0,794,0.33
+128,Raghopur,12,Baliram Singh,Independent,3086,0,3086,1.29
+128,Raghopur,13,Baidyanath Kumar Sah,Independent,1039,0,1039,0.44
+128,Raghopur,14,Nota,None of the Above,4025,8,4033,1.69
+129,Mahnar,1,Achutanand,Rashtriya Lok Janshakti Party,2523,31,2554,1.27
+129,Mahnar,2,Umesh Singh Kushwaha,Janata Dal (United),97482,568,98050,48.59
+129,Mahnar,3,Om Prabha Kumari,Bahujan Samaj Party,1680,13,1693,0.84
+129,Mahnar,4,Ravindra Kumar Singh,Rashtriya Janata Dal,59007,485,59492,29.48
+129,Mahnar,5,Vipin Kumar,Aam Aadmi Party,1398,9,1407,0.7
+129,Mahnar,6,Jai Singh,Janshakti Janta Dal,847,2,849,0.42
+129,Mahnar,7,Mithilesh Kumar Singh Sathi,Sathi Aur Aapka Faisala Party,611,0,611,0.3
+129,Mahnar,8,Yoganand Kumar Singh Kusvaha,Ambedkar National Congress,347,1,348,0.17
+129,Mahnar,9,Raviranjan Kumar Singh,Vikas Insaf Party,432,1,433,0.21
+129,Mahnar,10,Dr. Rajesh Kumar,Jan Suraaj Party,4446,66,4512,2.24
+129,Mahnar,11,Kiran Yadav,Independent,403,3,406,0.2
+129,Mahnar,12,Chandan Kumar,Independent,738,5,743,0.37
+129,Mahnar,13,Mithilesh Kumar Singh,Independent,1826,0,1826,0.9
+129,Mahnar,14,Ramesh Sahni,Independent,1970,4,1974,0.98
+129,Mahnar,15,Vipin Kumar,Independent,7598,59,7657,3.79
+129,Mahnar,16,Shiveshwar Kumar,Independent,1726,3,1729,0.86
+129,Mahnar,17,Sanjay Kumar Ray,Independent,14038,115,14153,7.01
+129,Mahnar,18,Subodh Singh,Independent,2029,0,2029,1.01
+129,Mahnar,19,Nota,None of the Above,1312,9,1321,0.65
+130,Patepur,1,Prema Chaudhary,Rashtriya Janata Dal,85475,501,85976,41.03
+130,Patepur,2,Mira Devi,Bahujan Samaj Party,1591,5,1596,0.76
+130,Patepur,3,Lakhendra Kumar Raushan,Bharatiya Janata Party,107977,379,108356,51.71
+130,Patepur,4,Dasai Chaudhary,Jan Suraaj Party,4138,43,4181,2
+130,Patepur,5,Rina Kumari,Janshakti Janta Dal,557,2,559,0.27
+130,Patepur,6,Anil Paswan,Independent,380,0,380,0.18
+130,Patepur,7,Awanish,Independent,365,0,365,0.17
+130,Patepur,8,Faguni Manjhi,Independent,845,1,846,0.4
+130,Patepur,9,Sanjay Paswan,Independent,3423,0,3423,1.63
+130,Patepur,10,Sunaina Devi,Independent,1260,0,1260,0.6
+130,Patepur,11,Nota,None of the Above,2592,6,2598,1.24
+131,Kalyanpur,1,Maheshwar Hazari,Janata Dal (United),117964,198,118162,49.3
+131,Kalyanpur,2,Ranjeet Kumar Ram,Communist Party of India (Marxist-Leninist) (Liberation),79389,187,79576,33.2
+131,Kalyanpur,3,Ratneshwar Ram,Bahujan Samaj Party,3801,4,3805,1.59
+131,Kalyanpur,4,Madhu Krishnaji Ram,Socialist Unity Centre Of India (COMMUNIST),2495,2,2497,1.04
+131,Kalyanpur,5,Ram Balak Paswan,Jan Suraaj Party,16510,64,16574,6.92
+131,Kalyanpur,6,Om Prakash,Independent,1600,3,1603,0.67
+131,Kalyanpur,7,Mantesh Kumar,Independent,3191,2,3193,1.33
+131,Kalyanpur,8,Rajeev Kumar,Independent,5630,1,5631,2.35
+131,Kalyanpur,9,Nota,None of the Above,8624,10,8634,3.6
+132,Warisnagar,1,Upendra Prasad Roy,Aam Aadmi Party,3589,2,3591,1.53
+132,Warisnagar,2,Kanchan Kumari Bharti,Bahujan Samaj Party,1546,1,1547,0.66
+132,Warisnagar,3,Govind Kumar,Rashtriya Lok Janshakti Party,4157,21,4178,1.78
+132,Warisnagar,4,Phoolbabu Singh,Communist Party of India (Marxist-Leninist) (Liberation),74329,203,74532,31.75
+132,Warisnagar,5,Manjarik Mrinal,Janata Dal (United),108751,217,108968,46.41
+132,Warisnagar,6,Chandan Kumar,Hindustani Awam Manch (United),3125,5,3130,1.33
+132,Warisnagar,7,Ram Kumar,Rashtriya Jansambhavna Party,889,0,889,0.38
+132,Warisnagar,8,Shakti Kumar Sahni,Right to Recall Party,1297,2,1299,0.55
+132,Warisnagar,9,Satyanarayan Sahani,Jan Suraaj Party,13005,76,13081,5.57
+132,Warisnagar,10,Abhinav Raj,Independent,7248,7,7255,3.09
+132,Warisnagar,11,Zahid Iqbal,Independent,5428,2,5430,2.31
+132,Warisnagar,12,Dilip Roy,Independent,2567,1,2568,1.09
+132,Warisnagar,13,Mahesh Prasad,Independent,2708,2,2710,1.15
+132,Warisnagar,14,Nota,None of the Above,5602,3,5605,2.39
+133,Samastipur,1,Akhtarul Islam Shahin,Rashtriya Janata Dal,81530,323,81853,41.16
+133,Samastipur,2,Ashwamedh Devi,Janata Dal (United),95476,252,95728,48.14
+133,Samastipur,3,Rajan Kumar,Aam Aadmi Party,1713,2,1715,0.86
+133,Samastipur,4,Vinay Kumar Ram,Bahujan Samaj Party,589,2,591,0.3
+133,Samastipur,5,Irshad Ahmad,Apna Kisan Party,342,0,342,0.17
+133,Samastipur,6,Dinesh Kumar Rai,Rashtriya Jansambhavna Party,432,0,432,0.22
+133,Samastipur,7,Nitesh Kumar Sinha,Bharatiya Sampuran Krantikari Party,683,1,684,0.34
+133,Samastipur,8,Premjeet Kumar,Aadarsh Mithila Party,431,0,431,0.22
+133,Samastipur,9,Manoj Kumar Singh,Jan Suraaj Party,4911,27,4938,2.48
+133,Samastipur,10,Rakesh Kumar,Socialist Unity Centre Of India (COMMUNIST),492,0,492,0.25
+133,Samastipur,11,Shivam Kumar Raj,The Plurals Party,939,0,939,0.47
+133,Samastipur,12,Chetna Jhamb,Independent,6172,21,6193,3.11
+133,Samastipur,13,Nota,None of the Above,4520,7,4527,2.28
+134,Ujiarpur,1,Ankit Kumar Mishra,Aam Aadmi Party,2620,4,2624,1.14
+134,Ujiarpur,2,Alok Kumar Mehta,Rashtriya Janata Dal,102292,415,102707,44.66
+134,Ujiarpur,3,Bulbul Kumar Sahni,Bahujan Samaj Party,2445,7,2452,1.07
+134,Ujiarpur,4,Durga Prasad Singh,Jan Suraaj Party,9445,57,9502,4.13
+134,Ujiarpur,5,Prashant Kumar Pankaj,Rashtriya Lok Morcha,86262,162,86424,37.58
+134,Ujiarpur,6,Sunita Kumari,Janshakti Vikas Party (Democratic),2656,5,2661,1.16
+134,Ujiarpur,7,Arun Kumar Yadav,Independent,893,0,893,0.39
+134,Ujiarpur,8,Upendra Kumar,Independent,6421,31,6452,2.81
+134,Ujiarpur,9,Dinesh Prasad Choudhary,Independent,987,0,987,0.43
+134,Ujiarpur,10,Dilip Kumar Sahani,Independent,760,0,760,0.33
+134,Ujiarpur,11,Nikki Jha,Independent,993,2,995,0.43
+134,Ujiarpur,12,Maha Shanker Choudhary,Independent,3175,2,3177,1.38
+134,Ujiarpur,13,Ranveer Kumar Chourasiya,Independent,3458,5,3463,1.51
+134,Ujiarpur,14,Vikas Kumar,Independent,1743,1,1744,0.76
+134,Ujiarpur,15,Virendra Kumar Ray,Independent,3077,0,3077,1.34
+134,Ujiarpur,16,Nota,None of the Above,2068,9,2077,0.9
+135,Morwa,1,Tuntun Ray,Aam Aadmi Party,3143,2,3145,1.6
+135,Morwa,2,Ranvijay Sahu,Rashtriya Janata Dal,77551,219,77770,39.53
+135,Morwa,3,Vidya Sagar Singh Nishad,Janata Dal (United),68969,130,69099,35.13
+135,Morwa,4,Santhosh Rai,Bahujan Samaj Party,1283,5,1288,0.65
+135,Morwa,5,Chandrashekhar Rai,Socialist Unity Centre Of India (COMMUNIST),2728,0,2728,1.39
+135,Morwa,6,Jagriti,Jan Suraaj Party,4094,37,4131,2.1
+135,Morwa,7,Brijendu Kumar Singh,Hindustani Awam Manch (United),1683,1,1684,0.86
+135,Morwa,8,Ranjeet Kumar,Apna Kisan Party,3259,0,3259,1.66
+135,Morwa,9,Abhay Kumar Singh,Independent,29960,86,30046,15.27
+135,Morwa,10,Nota,None of the Above,3568,3,3571,1.82
+136,Sarairanjan,1,Arbind Kumar Sahani,Rashtriya Janata Dal,81729,265,81994,39.38
+136,Sarairanjan,2,Vijay Kumar Choudhary,Janata Dal (United),102465,327,102792,49.37
+136,Sarairanjan,3,Ram Sagar Roy,Apna Kisan Party,1483,1,1484,0.71
+136,Sarairanjan,4,Sajan Kumar Mishra,Jan Suraaj Party,5455,38,5493,2.64
+136,Sarairanjan,5,Amrendra Kumar Singh,Independent,1126,3,1129,0.54
+136,Sarairanjan,6,Ashok Kumar Anjana,Independent,625,3,628,0.3
+136,Sarairanjan,7,Kunal Kumar,Independent,6170,12,6182,2.97
+136,Sarairanjan,8,Ranjit Kumar Pandit,Independent,4055,4,4059,1.95
+136,Sarairanjan,9,Nota,None of the Above,4424,4,4428,2.13
+137,Mohiuddinnagar,1,Amrendra Kumar Yadav,Bahujan Samaj Party,1238,6,1244,0.68
+137,Mohiuddinnagar,2,Umesh Ray,Aam Aadmi Party,520,6,526,0.29
+137,Mohiuddinnagar,3,Ejya Yadav,Rashtriya Janata Dal,77279,247,77526,42.31
+137,Mohiuddinnagar,4,Rajesh Kumar Singh,Bharatiya Janata Party,88994,214,89208,48.68
+137,Mohiuddinnagar,5,Ajay Kumar Bulganin,Janshakti Janta Dal,1491,7,1498,0.82
+137,Mohiuddinnagar,6,Bhushan Prasad Ray,Janta Dal Rashtravadi,514,3,517,0.28
+137,Mohiuddinnagar,7,Rajkapoor Singh,Jan Suraaj Party,4373,41,4414,2.41
+137,Mohiuddinnagar,8,Ram Mohan Ray,Sathi Aur Aapka Faisala Party,400,1,401,0.22
+137,Mohiuddinnagar,9,Abhiranjan Kumar,Independent,703,1,704,0.38
+137,Mohiuddinnagar,10,Vishwanath Sah,Independent,2229,1,2230,1.22
+137,Mohiuddinnagar,11,Sunil Kumar Ray,Independent,2025,0,2025,1.11
+137,Mohiuddinnagar,12,Surjeet Shyamal,Independent,747,3,750,0.41
+137,Mohiuddinnagar,13,Nota,None of the Above,2193,4,2197,1.2
+138,Bibhutipur,1,Ajay Kumar,Communist Party of India (Marxist),78908,338,79246,40.37
+138,Bibhutipur,2,Arvind Kumar,Aam Aadmi Party,2569,5,2574,1.31
+138,Bibhutipur,3,Awadhesh Kumar,Bahujan Samaj Party,1456,6,1462,0.74
+138,Bibhutipur,4,Ravina Kushwaha,Janata Dal (United),68824,141,68965,35.13
+138,Bibhutipur,5,Neel Kamal,Janshakti Janta Dal,1515,3,1518,0.77
+138,Bibhutipur,6,Vishwanath Choudhary,Jan Suraaj Party,13399,51,13450,6.85
+138,Bibhutipur,7,Amarjeet Kumar,Independent,1302,6,1308,0.67
+138,Bibhutipur,8,Kanhaiya Kumar,Independent,956,1,957,0.49
+138,Bibhutipur,9,Navin Kumar,Independent,713,0,713,0.36
+138,Bibhutipur,10,Prahlad,Independent,901,0,901,0.46
+138,Bibhutipur,11,Ram Lal Tanti,Independent,2313,0,2313,1.18
+138,Bibhutipur,12,Rupanjali Kumari,Independent,14411,45,14456,7.36
+138,Bibhutipur,13,Shashi Bhushan Das,Independent,1862,4,1866,0.95
+138,Bibhutipur,14,Sushant Kumar,Independent,1781,1,1782,0.91
+138,Bibhutipur,15,Nota,None of the Above,4805,2,4807,2.45
+139,Rosera,1,Amit Kumar Baitha,Bahujan Samaj Party,2743,5,2748,1.23
+139,Rosera,2,Birendra Kumar,Bharatiya Janata Party,122523,250,122773,55.02
+139,Rosera,3,Braj Kishore Ravi,Indian National Congress,71938,302,72240,32.37
+139,Rosera,4,Devendra Kumar Paswan,Bhartiya Mahasangh Party,3573,1,3574,1.6
+139,Rosera,5,Rohit Kumar,Jan Suraaj Party,14857,56,14913,6.68
+139,Rosera,6,Rajesh Kumar Paswan,Independent,3883,2,3885,1.74
+139,Rosera,7,Nota,None of the Above,3014,2,3016,1.35
+140,Hasanpur,1,Bibha Devi,Bahujan Samaj Party,1716,7,1723,0.84
+140,Hasanpur,2,Manmohan Kumar,Aam Aadmi Party,2127,0,2127,1.04
+140,Hasanpur,3,Mala Pushpam,Rashtriya Janata Dal,82839,208,83047,40.57
+140,Hasanpur,4,Raj Kumar Ray,Janata Dal (United),90810,151,90961,44.43
+140,Hasanpur,5,Ashwini Kumar,The Plurals Party,1281,1,1282,0.63
+140,Hasanpur,6,Indu Devi,Jan Suraaj Party,9527,26,9553,4.67
+140,Hasanpur,7,Imtiyaz Alam Ramzan Ali Shaikh,Socialist Party (India),1220,3,1223,0.6
+140,Hasanpur,8,Chandra Mohan Kumar,Jagrook Janta Party,1467,0,1467,0.72
+140,Hasanpur,9,Manoj Mukhiya,Independent,4671,2,4673,2.28
+140,Hasanpur,10,Fulo Sahni,Independent,3294,0,3294,1.61
+140,Hasanpur,11,Swetank Anand,Independent,1349,0,1349,0.66
+140,Hasanpur,12,Nota,None of the Above,4012,1,4013,1.96
+141,Cheria,1,Abhishek Anand,Janata Dal (United),74898,183,75081,39.24
+141,Cheria,2,Sushil Kumar,Rashtriya Janata Dal,70682,280,70962,37.09
+141,Cheria,3,Mritunjay Kumar,Jan Suraaj Party,24474,121,24595,12.86
+141,Cheria,4,Rakesh Kumar,Rashtriya Jan Vikas Party,1426,1,1427,0.75
+141,Cheria,5,Raj Kumar,Bhagidari Party(P),1402,2,1404,0.73
+141,Cheria,6,Ram Ashis Sharma,Jagrook Janta Party,1189,1,1190,0.62
+141,Cheria,7,Ram Sakha Mahto,Independent,7480,57,7537,3.94
+141,Cheria,8,Ram Swarth Prasad,Independent,1484,2,1486,0.78
+141,Cheria,9,Vijay Tanti,Independent,2483,0,2483,1.3
+141,Cheria,10,Nota,None of the Above,5148,3,5151,2.69
+142,Bachhwara,1,Avinash Kumar,Aam Aadmi Party,1607,2,1609,0.72
+142,Bachhwara,2,Shiv Prakash Garib Das,Indian National Congress,84071,431,84502,37.92
+142,Bachhwara,3,Surendra Mehta,Bharatiya Janata Party,100049,294,100343,45.03
+142,Bachhwara,4,Abdesh Kumar Rai,Communist Party of India,21471,117,21588,9.69
+142,Bachhwara,5,Ramod Kumar,Jan Suraaj Party,7606,48,7654,3.43
+142,Bachhwara,6,Raja Ram Singh,Independent,1163,0,1163,0.52
+142,Bachhwara,7,Bipeen Kumar,Independent,2382,1,2383,1.07
+142,Bachhwara,8,Shatrudhan Kumar,Independent,1712,0,1712,0.77
+142,Bachhwara,9,Nota,None of the Above,1888,5,1893,0.85
+143,Teghra,1,Mohammad Sakil,Bahujan Samaj Party,1667,8,1675,0.79
+143,Teghra,2,Rajnish Kumar,Bharatiya Janata Party,112423,347,112770,53.04
+143,Teghra,3,Avadhesh Kumar,Janta Kranti Party (Rashtravadi),1284,4,1288,0.61
+143,Teghra,4,Avinash Bharti,Samata Party,587,11,598,0.28
+143,Teghra,5,Chandra Prakash Singh,Janshakti Janta Dal,1051,8,1059,0.5
+143,Teghra,6,Ram Nandan Singh,Jan Suraaj Party,8363,79,8442,3.97
+143,Teghra,7,Ram Ratan Singh,Communist Party of India,77095,311,77406,36.4
+143,Teghra,8,Kedarnath Bhaskar,Independent,1273,2,1275,0.6
+143,Teghra,9,Basant Kumar,Independent,582,4,586,0.28
+143,Teghra,10,Mrinal Varun,Independent,519,2,521,0.25
+143,Teghra,11,Ram Kumar,Independent,854,1,855,0.4
+143,Teghra,12,Ram Pukar Thakur,Independent,964,0,964,0.45
+143,Teghra,13,Sudha Bharti,Independent,3162,7,3169,1.49
+143,Teghra,14,Nota,None of the Above,2011,10,2021,0.95
+144,Matihani,1,Narendra Kumar Singh Alias Bogo Singh,Rashtriya Janata Dal,117164,625,117789,47.66
+144,Matihani,2,Raj Kumar Singh,Janata Dal (United),112047,452,112499,45.52
+144,Matihani,3,Arun Kumar,Jan Suraaj Party,6692,82,6774,2.74
+144,Matihani,4,Devanand Raut,Samata Party,1341,4,1345,0.54
+144,Matihani,5,Rakesh Kumar,Independent,1432,0,1432,0.58
+144,Matihani,6,Vikash Kumar,Independent,2975,1,2976,1.2
+144,Matihani,7,Nota,None of the Above,4328,9,4337,1.75
+145,Sahebpur Kamal,1,Anant Kumar Poddar,Bahujan Samaj Party,929,13,942,0.5
+145,Sahebpur Kamal,2,Sanjay Yadav,Rashtriya Lok Janshakti Party,989,10,999,0.53
+145,Sahebpur Kamal,3,Sattanand Sambuddha Alias Lalan Jee,Rashtriya Janata Dal,76463,335,76798,40.49
+145,Sahebpur Kamal,4,Surendra Kumar Alias Surendra Vivek,Lok Janshakti Party (Ram Vilas),60844,233,61077,32.2
+145,Sahebpur Kamal,5,Md. Abdullah,Jan Suraaj Party,3360,36,3396,1.79
+145,Sahebpur Kamal,6,Md Meraj,Samata Party,490,0,490,0.26
+145,Sahebpur Kamal,7,Surendra Kumar,Parivartan Party of India,674,3,677,0.36
+145,Sahebpur Kamal,8,Md. Aftab Alam,Independent,392,2,394,0.21
+145,Sahebpur Kamal,9,Priyanka Kumari,Independent,727,3,730,0.38
+145,Sahebpur Kamal,10,Vivekanand Prasad,Independent,473,3,476,0.25
+145,Sahebpur Kamal,11,Vishwajeet Kumar Alias Vikas,Independent,1283,2,1285,0.68
+145,Sahebpur Kamal,12,Shashikant Kumar Shashi Alias Amar Kumar Singh,Independent,34661,120,34781,18.34
+145,Sahebpur Kamal,13,Md. Shahzaduzzama Alias Saify,Independent,4904,1,4905,2.59
+145,Sahebpur Kamal,14,Sentu Kumar,Independent,981,2,983,0.52
+145,Sahebpur Kamal,15,Nota,None of the Above,1745,6,1751,0.92
+146,Begusarai,1,Amita Bhushan,Indian National Congress,88345,529,88874,38.9
+146,Begusarai,2,Kundan Kumar,Bharatiya Janata Party,119135,371,119506,52.31
+146,Begusarai,3,Mira Singh,Aam Aadmi Party,1113,2,1115,0.49
+146,Begusarai,4,Mohammad Abdul Haque,Bahujan Samaj Party,369,3,372,0.16
+146,Begusarai,5,Gautam Kumar,Socialist Unity Centre Of India (COMMUNIST),215,1,216,0.09
+146,Begusarai,6,Ramkrishna Mahto,Janshakti Janta Dal,519,0,519,0.23
+146,Begusarai,7,Surendra Kumar Sahani,Jan Suraaj Party,7711,62,7773,3.4
+146,Begusarai,8,Sushil Kumar,Samata Party,722,5,727,0.32
+146,Begusarai,9,Arun Kumar,Independent,375,0,375,0.16
+146,Begusarai,10,Md Gaffar Khan,Independent,519,0,519,0.23
+146,Begusarai,11,Pinki Sinha,Independent,425,0,425,0.19
+146,Begusarai,12,Manoj Kumar,Independent,537,0,537,0.24
+146,Begusarai,13,Vijay Kumar,Independent,1014,3,1017,0.45
+146,Begusarai,14,Md Saddam Husain,Independent,2909,3,2912,1.27
+146,Begusarai,15,Nota,None of the Above,3544,16,3560,1.56
+147,Bakhri,1,Nira Devi,Rashtriya Lok Janshakti Party,2445,5,2450,1.19
+147,Bakhri,2,Sanjay Kumar,Lok Janshakti Party (Ram Vilas),98368,143,98511,47.67
+147,Bakhri,3,Rajesh Kumar,Rashtriya Suraksha Party,2056,4,2060,1
+147,Bakhri,4,Vikash Kumar,Nationalist Congress Party,609,0,609,0.29
+147,Bakhri,5,Sanjay Kumar,Jan Suraaj Party,11471,58,11529,5.58
+147,Bakhri,6,Suryakant Paswan,Communist Party of India,80837,356,81193,39.29
+147,Bakhri,7,Kiran Kumari,Independent,1419,4,1423,0.69
+147,Bakhri,8,Gautam Sada,Independent,2216,5,2221,1.07
+147,Bakhri,9,Sanjiv Kumar Paswan,Independent,2967,1,2968,1.44
+147,Bakhri,10,Nota,None of the Above,3668,5,3673,1.78
+148,Alauli,1,Dashrath Ram,Bahujan Samaj Party,3066,7,3073,1.71
+148,Alauli,2,Yash Raj,Rashtriya Lok Janshakti Party,14186,75,14261,7.95
+148,Alauli,3,Ram Chandra Sada,Janata Dal (United),92886,322,93208,51.94
+148,Alauli,4,Rambriksh Sada,Rashtriya Janata Dal,57328,148,57476,32.03
+148,Alauli,5,Abhishank Kumar,Jan Suraaj Party,7459,17,7476,4.17
+148,Alauli,6,Nota,None of the Above,3951,2,3953,2.2
+149,Khagaria,1,Chandan Kumar Alias Dr. Chandan Yadav,Indian National Congress,70171,402,70573,38.51
+149,Khagaria,2,Bablu Kumar,Janata Dal (United),93657,331,93988,51.29
+149,Khagaria,3,Jayanti Patel,Jan Suraaj Party,4185,47,4232,2.31
+149,Khagaria,4,Navin Kumar,Jagrook Janta Party,399,2,401,0.22
+149,Khagaria,5,Vinay Kumar Verma,Bhartiya Lok Chetna Party,454,5,459,0.25
+149,Khagaria,6,Amitabh Kumar,Independent,337,0,337,0.18
+149,Khagaria,7,Tinku Kumar Laheri,Independent,517,1,518,0.28
+149,Khagaria,8,Madhu Kumar Bharti,Independent,1009,6,1015,0.55
+149,Khagaria,9,Manish Kumar Singh,Independent,5398,109,5507,3.01
+149,Khagaria,10,Lalan Kumar,Independent,2545,0,2545,1.39
+149,Khagaria,11,Nota,None of the Above,3656,6,3662,2
+150,Beldaur,1,Panna Lal Singh Patel,Janata Dal (United),105955,307,106262,48.87
+150,Beldaur,2,Mithilesh Kumar Nishad,Indian National Congress,70794,293,71087,32.7
+150,Beldaur,3,Rahul Kumar Basu,Aam Aadmi Party,2391,1,2392,1.1
+150,Beldaur,4,Vidya Nand Yadav,Bahujan Samaj Party,1029,3,1032,0.47
+150,Beldaur,5,Sunita Sharma,Rashtriya Lok Janshakti Party,4960,18,4978,2.29
+150,Beldaur,6,Ajay Kumar,Rashtriya Jansambhavna Party,851,2,853,0.39
+150,Beldaur,7,Atal Bihari,GaribJanta Party Loktantrik,615,2,617,0.28
+150,Beldaur,8,Avdesh Kumar Pandit,Bhagidari Party(P),1197,4,1201,0.55
+150,Beldaur,9,Gajendra Kumar Singh,Jan Suraaj Party,5200,35,5235,2.41
+150,Beldaur,10,Jamil Ahmad,All India Forward Bloc,636,0,636,0.29
+150,Beldaur,11,Tanisha Bharti,Indian Inclusive Party,9168,20,9188,4.23
+150,Beldaur,12,Randhir Kesari,Independent,1184,1,1185,0.55
+150,Beldaur,13,Dr. Ravi Kumar,Independent,1902,5,1907,0.88
+150,Beldaur,14,Shiv Narayan Singh,Independent,2863,0,2863,1.32
+150,Beldaur,15,Nota,None of the Above,7976,4,7980,3.67
+151,Parbatta,1,Babulal Shorya,Lok Janshakti Party (Ram Vilas),118259,418,118677,55.18
+151,Parbatta,2,Robin Smith,Bahujan Samaj Party,1759,18,1777,0.83
+151,Parbatta,3,Doctor Sanjeev Kumar,Rashtriya Janata Dal,84253,385,84638,39.36
+151,Parbatta,4,Naresh Prasad Singh,Rashtriya Jansambhavna Party,2221,3,2224,1.03
+151,Parbatta,5,Vinay Kumar Varun,Jan Suraaj Party,3149,47,3196,1.49
+151,Parbatta,6,Nota,None of the Above,4541,2,4543,2.11
+152,Bihpur,1,Kumar Shailendra,Bharatiya Janata Party,91239,219,91458,52.39
+152,Bihpur,2,Krishna Kumar Mandal,Bahujan Samaj Party,1231,5,1236,0.71
+152,Bihpur,3,Arpana Kumari,Vikassheel Insaan Party,61326,107,61433,35.19
+152,Bihpur,4,Pawan Choudhary,Jan Suraaj Party,8789,32,8821,5.05
+152,Bihpur,5,Sanjeev Kumar,Gantantrik Samaj Party,622,2,624,0.36
+152,Bihpur,6,Ajay Kumar Ravidas,Independent,1031,1,1032,0.59
+152,Bihpur,7,Abnish Kumar,Independent,2035,8,2043,1.17
+152,Bihpur,8,Kishor Kumar,Independent,1239,0,1239,0.71
+152,Bihpur,9,Mamta Kumari,Independent,2519,11,2530,1.45
+152,Bihpur,10,Rupam Devi,Independent,868,2,870,0.5
+152,Bihpur,11,Nota,None of the Above,3265,4,3269,1.87
+153,Gopalpur,1,Shailesh Kumar Alias Bulo Mandal,Janata Dal (United),108453,177,108630,56.75
+153,Gopalpur,2,Suman Kumar,Bahujan Samaj Party,1167,4,1171,0.61
+153,Gopalpur,3,Prem Sagar Alias Dablu Yadav,Vikassheel Insaan Party,50399,96,50495,26.38
+153,Gopalpur,4,Bharat Bhushan Ganpati,Lok Shakti Party (Loktantrik),1527,2,1529,0.8
+153,Gopalpur,5,Mankeshwar Singh Alias Mantu Singh,Jan Suraaj Party,4657,44,4701,2.46
+153,Gopalpur,6,Narendra Kumar Niraj,Independent,12657,29,12686,6.63
+153,Gopalpur,7,Piyush Jha,Independent,593,1,594,0.31
+153,Gopalpur,8,Rajiv Kumar Singh,Independent,691,0,691,0.36
+153,Gopalpur,9,Sanjiv Kumar Yadav Alias Moti Yadav,Independent,4467,5,4472,2.34
+153,Gopalpur,10,Soni Bharti,Independent,1647,4,1651,0.86
+153,Gopalpur,11,Nota,None of the Above,4777,5,4782,2.5
+154,Pirpainti,1,Pritam Kumar,Aam Aadmi Party,2191,8,2199,0.89
+154,Pirpainti,2,Murari Pasavan,Bharatiya Janata Party,140370,238,140608,56.81
+154,Pirpainti,3,Ram Vilash Pasavan,Rashtriya Janata Dal,87291,210,87501,35.36
+154,Pirpainti,4,Sunil Kumar Choudhary,Bahujan Samaj Party,1576,10,1586,0.64
+154,Pirpainti,5,Ghanshyam Das,Jan Suraaj Party,5601,43,5644,2.28
+154,Pirpainti,6,Nand Kishor Rajak,Suheldev Bharatiya Samaj Party,488,2,490,0.2
+154,Pirpainti,7,Rajesh Paswan,Bhartiya Lok Chetna Party,533,1,534,0.22
+154,Pirpainti,8,Sahdev Kumar,Peoples Party of India (Democratic),1354,1,1355,0.55
+154,Pirpainti,9,Ashok Kumar Paswan,Independent,2303,0,2303,0.93
+154,Pirpainti,10,Rahul Kumar Paswan,Independent,2533,0,2533,1.02
+154,Pirpainti,11,Nota,None of the Above,2731,5,2736,1.11
+155,Kahalgaon,1,Pravin Singh,Indian National Congress,10043,40,10083,4
+155,Kahalgaon,2,Bhavesh Kumar,Bahujan Samaj Party,1451,2,1453,0.58
+155,Kahalgaon,3,Rajnish Bharti,Rashtriya Janata Dal,80561,94,80655,32.01
+155,Kahalgaon,4,Shubhanand Mukesh,Janata Dal (United),130589,178,130767,51.9
+155,Kahalgaon,5,Nirmal Kumar,Akhand Bhartiya Yuva Party,1345,0,1345,0.53
+155,Kahalgaon,6,Manjar Alam,Jan Suraaj Party,3330,18,3348,1.33
+155,Kahalgaon,7,Anuj Kumar Mandal,Independent,930,1,931,0.37
+155,Kahalgaon,8,Om Prakash Mandal,Independent,760,2,762,0.3
+155,Kahalgaon,9,Pawan Kumar Yadav,Independent,10230,14,10244,4.07
+155,Kahalgaon,10,Mahendra Tanti,Independent,1081,0,1081,0.43
+155,Kahalgaon,11,Ramchandra Mandal,Independent,3385,0,3385,1.34
+155,Kahalgaon,12,Rupam Devi,Independent,3039,1,3040,1.21
+155,Kahalgaon,13,Sanju Kumari,Independent,1639,1,1640,0.65
+155,Kahalgaon,14,Nota,None of the Above,3246,3,3249,1.29
+156,Bhagalpur,1,Ajeet Sharma,Indian National Congress,87058,238,87296,44.28
+156,Bhagalpur,2,Rekha Das,Bahujan Samaj Party,688,6,694,0.35
+156,Bhagalpur,3,Rohit Pandey,Bharatiya Janata Party,100519,251,100770,51.11
+156,Bhagalpur,4,Abhay Kant Jha,Jan Suraaj Party,3203,48,3251,1.65
+156,Bhagalpur,5,S J Vedant,Bhartiya Party (Loktantrik),299,0,299,0.15
+156,Bhagalpur,6,Yogendra Prasad Yadav,Peoples Party of India (Democratic),152,0,152,0.08
+156,Bhagalpur,7,Ravi Kumar Singh,Socialist Unity Centre Of India (COMMUNIST),145,0,145,0.07
+156,Bhagalpur,8,Sanjay Kumar Yadav,Socialist Party (India),275,0,275,0.14
+156,Bhagalpur,9,Chandra Kishore Sah,Independent,291,0,291,0.15
+156,Bhagalpur,10,Dhananjay Kumar Pandey,Independent,302,0,302,0.15
+156,Bhagalpur,11,Nisha Bharti,Independent,1202,2,1204,0.61
+156,Bhagalpur,12,Subodh Mandal,Independent,492,1,493,0.25
+156,Bhagalpur,13,Nota,None of the Above,1970,4,1974,1
+157,Sultanganj,1,Chandan Kumar Alias Chandan Kumar Sinha,Rashtriya Janata Dal,77402,174,77576,36.97
+157,Sultanganj,2,Matiur Rahman,Bahujan Samaj Party,979,1,980,0.47
+157,Sultanganj,3,Lalan Kumar,Indian National Congress,2723,31,2754,1.31
+157,Sultanganj,4,Lalit Narayan Mandal,Janata Dal (United),108523,189,108712,51.81
+157,Sultanganj,5,Banty Thakur,Samata Party,1633,1,1634,0.78
+157,Sultanganj,6,Bipin Kumar Singh,Bhartiya Lok Chetna Party,1021,2,1023,0.49
+157,Sultanganj,7,Rakesh Kumar,Jan Suraaj Party,4364,38,4402,2.1
+157,Sultanganj,8,Sunil Kumar,Socialist Unity Centre Of India (COMMUNIST),1245,0,1245,0.59
+157,Sultanganj,9,Suman Kumar,Jagrook Janta Party,982,1,983,0.47
+157,Sultanganj,10,Ajit Kumar,Independent,4278,8,4286,2.04
+157,Sultanganj,11,Dharmendra Singh,Independent,858,2,860,0.41
+157,Sultanganj,12,Rahul Kumar,Independent,1250,1,1251,0.6
+157,Sultanganj,13,Nota,None of the Above,4106,2,4108,1.96
+158,Nathnagar,1,Mithun Kumar,Lok Janshakti Party (Ram Vilas),117976,167,118143,48.92
+158,Nathnagar,2,Ravish Chandra Ravi Kushwaha,Bahujan Samaj Party,1994,4,1998,0.83
+158,Nathnagar,3,Sheikh Zeyaul Hassan,Rashtriya Janata Dal,92534,185,92719,38.39
+158,Nathnagar,4,Ajay Kumar Roy,Jan Suraaj Party,5194,39,5233,2.17
+158,Nathnagar,5,Md Ismail,All India Majlis-E-Ittehadul Muslimeen,8220,6,8226,3.41
+158,Nathnagar,6,Md Manzar Alam,Bhartiya Party (Loktantrik),216,1,217,0.09
+158,Nathnagar,7,Sushil Prasad Yadav,Peoples Party of India (Democratic),343,1,344,0.14
+158,Nathnagar,8,Aravind Mandal,Independent,452,5,457,0.19
+158,Nathnagar,9,Chetan Ram,Independent,568,0,568,0.24
+158,Nathnagar,10,Jai Prakash Mandal,Independent,1421,2,1423,0.59
+158,Nathnagar,11,Jaykaran Paswan,Independent,465,0,465,0.19
+158,Nathnagar,12,Dayaram Mandal,Independent,419,1,420,0.17
+158,Nathnagar,13,Shanij Kumar,Independent,1647,1,1648,0.68
+158,Nathnagar,14,Sharada Devi,Independent,3433,1,3434,1.42
+158,Nathnagar,15,Sudhir Kumar,Independent,999,3,1002,0.41
+158,Nathnagar,16,Nota,None of the Above,5195,8,5203,2.15
+159,Amarpur,1,Jayant Raj,Janata Dal (United),103717,227,103944,53.51
+159,Amarpur,2,Jitendra Singh,Indian National Congress,70501,222,70723,36.41
+159,Amarpur,3,Md Zakir Hossain,Aam Aadmi Party,2215,6,2221,1.14
+159,Amarpur,4,Roshan Kumar Singh,Bahujan Samaj Party,1510,5,1515,0.78
+159,Amarpur,5,Anil Kumar Singh,Nationalist Congress Party,393,4,397,0.2
+159,Amarpur,6,Sujata Vaidya,Jan Suraaj Party,4753,36,4789,2.47
+159,Amarpur,7,Tripuranand Yadav,Independent,390,2,392,0.2
+159,Amarpur,8,Nazrana Praween,Independent,558,0,558,0.29
+159,Amarpur,9,Naresh Chandra Yadvendu,Independent,455,0,455,0.23
+159,Amarpur,10,Mohammad Furkan,Independent,830,0,830,0.43
+159,Amarpur,11,Ritesh Kumar Jha,Independent,2405,1,2406,1.24
+159,Amarpur,12,Nota,None of the Above,6013,4,6017,3.1
+160,Dhoraiya,1,Arun Kumar Das,Bahujan Samaj Party,1863,3,1866,0.85
+160,Dhoraiya,2,Jitendra Kumar,Rashtriya Lok Janshakti Party,1228,3,1231,0.56
+160,Dhoraiya,3,Tribhuwan Prasad,Rashtriya Janata Dal,90304,281,90585,41.05
+160,Dhoraiya,4,Manish Kumar,Janata Dal (United),112762,249,113011,51.21
+160,Dhoraiya,5,Jethu Das,Rashtriya Jansambhavna Party,1752,2,1754,0.79
+160,Dhoraiya,6,Suman Paswan,Jan Suraaj Party,6258,26,6284,2.85
+160,Dhoraiya,7,Ashok Das,Independent,1795,2,1797,0.81
+160,Dhoraiya,8,Rajnish Kumar,Independent,1139,1,1140,0.52
+160,Dhoraiya,9,Nota,None of the Above,3017,8,3025,1.37
+161,Banka,1,Kundan Kumar Roy,Rashtriya Lok Janshakti Party,1276,7,1283,0.67
+161,Banka,2,Rajnish Kumar Choudhary,Aam Aadmi Party,1167,3,1170,0.61
+161,Banka,3,Ram Narayan Mandal,Bharatiya Janata Party,95413,175,95588,49.58
+161,Banka,4,Vinod Pandit,Bahujan Samaj Party,1773,11,1784,0.93
+161,Banka,5,Kaushal Kumar Singh,Jan Suraaj Party,6612,37,6649,3.45
+161,Banka,6,Sanjay Kumar,Communist Party of India,71641,183,71824,37.25
+161,Banka,7,Avinash Kumar,Independent,1374,1,1375,0.71
+161,Banka,8,Umakant Yadav,Independent,672,2,674,0.35
+161,Banka,9,Md Zamiruddin,Independent,816,26,842,0.44
+161,Banka,10,Jawahar Kumar Jha,Independent,4127,18,4145,2.15
+161,Banka,11,Dr Firoz Ansari,Independent,1590,1,1591,0.83
+161,Banka,12,Manoj Singh,Independent,1103,0,1103,0.57
+161,Banka,13,Vikram Anand,Independent,2240,1,2241,1.16
+161,Banka,14,Sajan Kumar,Independent,990,0,990,0.51
+161,Banka,15,Nota,None of the Above,1547,5,1552,0.8
+162,Katoria,1,Puran Lal Tudu,Bharatiya Janata Party,94070,190,94260,48.07
+162,Katoria,2,Shiv Lal Hansda,Rashtriya Lok Janshakti Party,2256,1,2257,1.15
+162,Katoria,3,Sweety Sima Hembrom,Rashtriya Janata Dal,82979,295,83274,42.46
+162,Katoria,4,Dhena Soren,Socialist Unity Centre Of India (COMMUNIST),1226,2,1228,0.63
+162,Katoria,5,Salomi Murmu,Jan Suraaj Party,2424,19,2443,1.25
+162,Katoria,6,Sushilla Hembrom,Janshakti Vikas Party (Democratic),795,2,797,0.41
+162,Katoria,7,Adhik Lal Marandi,Independent,753,3,756,0.39
+162,Katoria,8,Baliram Murmu,Independent,960,1,961,0.49
+162,Katoria,9,Rekha Soren,Independent,3648,4,3652,1.86
+162,Katoria,10,Soban Murmoo,Independent,1289,1,1290,0.66
+162,Katoria,11,Nota,None of the Above,5183,4,5187,2.65
+163,Belhar,1,Chanakya Prakash Ranjan,Rashtriya Janata Dal,78087,100,78187,34.33
+163,Belhar,2,Manoj Yadav,Janata Dal (United),115285,108,115393,50.66
+163,Belhar,3,Ajay Sharma,Jagrook Janta Party,1444,1,1445,0.63
+163,Belhar,4,Amrit Tanti,Bhartiya Dalit Party,514,0,514,0.23
+163,Belhar,5,Ashok Mandal,Samata Party,424,1,425,0.19
+163,Belhar,6,Girdhari Pandit,Socialist Unity Centre Of India (COMMUNIST),540,2,542,0.24
+163,Belhar,7,Braj Kishor Pandit,Jan Suraaj Party,7690,21,7711,3.39
+163,Belhar,8,Umesh Yadav,Independent,1242,1,1243,0.55
+163,Belhar,9,Girdhari Kumar,Independent,534,0,534,0.23
+163,Belhar,10,Baleshwar Yadav,Independent,581,0,581,0.26
+163,Belhar,11,Mamta Roy,Independent,747,1,748,0.33
+163,Belhar,12,Mithan Prasad Yadav,Independent,3037,1,3038,1.33
+163,Belhar,13,Mehakk Anjum,Independent,1431,2,1433,0.63
+163,Belhar,14,Rajesh Kumar Paswan,Independent,4450,1,4451,1.95
+163,Belhar,15,Lalan Prasad Singh,Independent,6065,0,6065,2.66
+163,Belhar,16,Nota,None of the Above,5461,1,5462,2.4
+164,Tarapur,1,Arun Kumar,Rashtriya Janata Dal,76379,258,76637,35.52
+164,Tarapur,2,Ashish Anand,Bahujan Samaj Party,684,8,692,0.32
+164,Tarapur,3,Rahul Kumar Singh,Aam Aadmi Party,587,3,590,0.27
+164,Tarapur,4,Samrat Choudhary,Bharatiya Janata Party,122199,281,122480,56.77
+164,Tarapur,5,Bharat Mandal,Socialist Unity Centre Of India (COMMUNIST),1142,1,1143,0.53
+164,Tarapur,6,Santosh Kumar Singh,Jan Suraaj Party,3862,36,3898,1.81
+164,Tarapur,7,Sukhdev Yadav,Janshakti Janta Dal,385,2,387,0.18
+164,Tarapur,8,Dipak Kumar,Independent,282,0,282,0.13
+164,Tarapur,9,Priyanka Chauhan,Independent,367,2,369,0.17
+164,Tarapur,10,Bulbul Kumari,Independent,845,3,848,0.39
+164,Tarapur,11,Rakesh Kumar,Independent,2667,0,2667,1.24
+164,Tarapur,12,Shambhu Shankar,Independent,1283,1,1284,0.6
+164,Tarapur,13,Sudhir Singh,Independent,1574,0,1574,0.73
+164,Tarapur,14,Nota,None of the Above,2900,7,2907,1.35
+165,Munger,1,Avinash Kumar Vidyarthi,Rashtriya Janata Dal,88899,379,89278,42.25
+165,Munger,2,Kumar Pranay,Bharatiya Janata Party,107723,305,108028,51.12
+165,Munger,3,Ranvir Sahani,Bahujan Samaj Party,1032,7,1039,0.49
+165,Munger,4,Monazir Hassan,All India Majlis-E-Ittehadul Muslimeen,3558,40,3598,1.7
+165,Munger,5,Vikash Kumar Arya,Socialist Unity Centre Of India (COMMUNIST),398,2,400,0.19
+165,Munger,6,Sanjay Kumar Singh,Jan Suraaj Party,1766,43,1809,0.86
+165,Munger,7,Krishna Mandal,Independent,273,2,275,0.13
+165,Munger,8,Jamuna Lal Srivastava,Independent,322,1,323,0.15
+165,Munger,9,Rakesh Kumar,Independent,529,1,530,0.25
+165,Munger,10,Raja Keshri,Independent,915,2,917,0.43
+165,Munger,11,Santosh Kumar Mandal,Independent,2034,1,2035,0.96
+165,Munger,12,Nota,None of the Above,3069,6,3075,1.46
+166,Jamalpur,1,Kapil Deo Das,Bahujan Samaj Party,1293,14,1307,0.65
+166,Jamalpur,2,Gopal Kumar,Aam Aadmi Party,1413,12,1425,0.71
+166,Jamalpur,3,Nachiketa,Janata Dal (United),96387,296,96683,48
+166,Jamalpur,4,Narendra Kumar,Indian Inclusive Party,60260,195,60455,30.01
+166,Jamalpur,5,Mritunjoy Kumar Singh,Akhand Bharat Vikas Party,789,5,794,0.39
+166,Jamalpur,6,Lalan Jee,Jan Suraaj Party,3807,56,3863,1.92
+166,Jamalpur,7,Ashok Kumar,Independent,452,6,458,0.23
+166,Jamalpur,8,Joone Kumar,Independent,471,1,472,0.23
+166,Jamalpur,9,Nirmaljeet,Independent,552,2,554,0.28
+166,Jamalpur,10,Ravi Kumar,Independent,955,3,958,0.48
+166,Jamalpur,11,Rajesh Kumar Jha,Independent,1063,1,1064,0.53
+166,Jamalpur,12,Shiv Kumar Paswan,Independent,842,3,845,0.42
+166,Jamalpur,13,Shivdeep W Lande,Independent,15538,117,15655,7.77
+166,Jamalpur,14,Shailesh Kumar,Independent,14169,49,14218,7.06
+166,Jamalpur,15,Harsh Vardhan Singh,Independent,893,1,894,0.44
+166,Jamalpur,16,Nota,None of the Above,1768,9,1777,0.88
+167,Suryagarha,1,Premsagar Choudhary,Rashtriya Janata Dal,77831,276,78107,32.75
+167,Suryagarha,2,Rabindra Kumar Das,Bahujan Samaj Party,1702,7,1709,0.72
+167,Suryagarha,3,Ramanand Mandal,Janata Dal (United),101639,329,101968,42.75
+167,Suryagarha,4,Amit Sagar,Jan Suraaj Party,8386,43,8429,3.53
+167,Suryagarha,5,Sharvan Kumar Anand,Samata Party,2032,3,2035,0.85
+167,Suryagarha,6,Pranay Kumar,Independent,2075,6,2081,0.87
+167,Suryagarha,7,Ravishanker Prasad Singh,Independent,37962,213,38175,16.01
+167,Suryagarha,8,Vipin Kumar,Independent,1545,2,1547,0.65
+167,Suryagarha,9,Nota,None of the Above,4449,7,4456,1.87
+168,Lakhisarai,1,Amaresh Kumar,Indian National Congress,97110,358,97468,39.17
+168,Lakhisarai,2,Praval Kumar,Bahujan Samaj Party,1592,1,1593,0.64
+168,Lakhisarai,3,Vijay Kumar Sinha,Bharatiya Janata Party,122009,399,122408,49.2
+168,Lakhisarai,4,Uma Shankar Yadav,Vishvas Yogya Party,1435,0,1435,0.58
+168,Lakhisarai,5,Kusho Mahto,Bhartiya Lok Chetna Party,895,6,901,0.36
+168,Lakhisarai,6,Suraj Kumar,Jan Suraaj Party,8665,57,8722,3.51
+168,Lakhisarai,7,Abhishek Kumar,Independent,713,0,713,0.29
+168,Lakhisarai,8,Amresh Kumar,Independent,468,3,471,0.19
+168,Lakhisarai,9,Amresh Prasad Singh,Independent,594,0,594,0.24
+168,Lakhisarai,10,Ramjee Mandal,Independent,769,2,771,0.31
+168,Lakhisarai,11,Vikash Kumar Jagnani,Independent,2030,0,2030,0.82
+168,Lakhisarai,12,Vijay Kumar,Independent,4045,0,4045,1.63
+168,Lakhisarai,13,Subodh Kumar Suman,Independent,1938,0,1938,0.78
+168,Lakhisarai,14,Nota,None of the Above,5724,7,5731,2.3
+169,Sheikhpura,1,Umesh Prasad Singh,Aam Aadmi Party,2829,5,2834,1.74
+169,Sheikhpura,2,Randhir Kumar Soni,Janata Dal (United),82782,140,82922,50.77
+169,Sheikhpura,3,Vijay Kumar S/O Ganga Kumar Yadav,Rashtriya Janata Dal,60191,184,60375,36.96
+169,Sheikhpura,4,Devendra Kumar,Bhartiya Lok Chetna Party,2042,6,2048,1.25
+169,Sheikhpura,5,Rajesh Kumar,Jan Suraaj Party,4156,28,4184,2.56
+169,Sheikhpura,6,Kundan Kumar,Independent,683,1,684,0.42
+169,Sheikhpura,7,Vijay Kumar S/O Sadhusharan Prasad,Independent,3812,7,3819,2.34
+169,Sheikhpura,8,Virendra Paswan,Independent,1684,1,1685,1.03
+169,Sheikhpura,9,Sunil Kumar,Independent,2368,0,2368,1.45
+169,Sheikhpura,10,Nota,None of the Above,2417,5,2422,1.48
+170,Barbigha,1,Dr. Kumar Puspanjay,Janata Dal (United),61696,186,61882,42.85
+170,Barbigha,2,Trishuldhari Singh,Indian National Congress,36238,151,36389,25.2
+170,Barbigha,3,Murari Kumar,Bahujan Samaj Party,1312,1,1313,0.91
+170,Barbigha,4,Pawan Kumar,The Plurals Party,933,1,934,0.65
+170,Barbigha,5,Mukesh Kumar Singh,Jan Suraaj Party,4644,40,4684,3.24
+170,Barbigha,6,Sikandar Chaudhari,Right to Recall Party,785,0,785,0.54
+170,Barbigha,7,Sanjay Kumar Prabhat,Independent,1440,6,1446,1
+170,Barbigha,8,Satish Kumar,Independent,2368,5,2373,1.64
+170,Barbigha,9,Sudarshan Kumar,Independent,28307,104,28411,19.67
+170,Barbigha,10,Nota,None of the Above,6191,6,6197,4.29
+171,Asthawan,1,Jitendra Kumar,Janata Dal (United),90133,409,90542,52.13
+171,Asthawan,2,Banvari Kumar,Bahujan Samaj Party,1943,3,1946,1.12
+171,Asthawan,3,Ravi Ranjan Kumar,Rashtriya Janata Dal,49579,255,49834,28.69
+171,Asthawan,4,Deepak Kumar Vidyarthi,Socialist Unity Centre Of India (COMMUNIST),1793,1,1794,1.03
+171,Asthawan,5,Lata Singh,Jan Suraaj Party,15874,88,15962,9.19
+171,Asthawan,6,Himanshu Kumar Paswan,Aazad Samaj Party (Kanshi Ram),4748,7,4755,2.74
+171,Asthawan,7,Shabnam Lata,Independent,2313,3,2316,1.33
+171,Asthawan,8,Nota,None of the Above,6541,9,6550,3.77
+172,Biharsharif,1,Omair Khan,Indian National Congress,79767,369,80136,37.27
+172,Biharsharif,2,Manoj Kumar,Aam Aadmi Party,848,2,850,0.4
+172,Biharsharif,3,Valaram Das,Bahujan Samaj Party,1387,9,1396,0.65
+172,Biharsharif,4,Dr. Sunil Kumar,Bharatiya Janata Party,108731,573,109304,50.83
+172,Biharsharif,5,Dinesh Kumar,Jan Suraaj Party,5973,71,6044,2.81
+172,Biharsharif,6,Shiv Kumar Yadav,Communist Party of India,2724,12,2736,1.27
+172,Biharsharif,7,Manoj Kumar Tanti,Independent,6280,35,6315,2.94
+172,Biharsharif,8,Mohit Kumar Alias Kundan Kumar,Independent,3400,5,3405,1.58
+172,Biharsharif,9,Rakesh Paswan,Independent,547,5,552,0.26
+172,Biharsharif,10,Sarswati Kumari,Independent,753,4,757,0.35
+172,Biharsharif,11,Nota,None of the Above,3514,10,3524,1.64
+173,Rajgir,1,Kaushal Kishore,Janata Dal (United),107367,444,107811,57.87
+173,Rajgir,2,Bishwanath Chaudhary,Communist Party of India (Marxist-Leninist) (Liberation),52126,257,52383,28.12
+173,Rajgir,3,Mano Devi,Moolniwasi Samaj Party,2889,2,2891,1.55
+173,Rajgir,4,Satyendra Kumar,Jan Suraaj Party,9817,99,9916,5.32
+173,Rajgir,5,Anjali Roy,Independent,1258,8,1266,0.68
+173,Rajgir,6,Ugrasen Paswan,Independent,1901,3,1904,1.02
+173,Rajgir,7,Vijay Paswan,Independent,3245,4,3249,1.74
+173,Rajgir,8,Nota,None of the Above,6861,9,6870,3.69
+174,Islampur,1,Rakesh Kumar Raushan,Rashtriya Janata Dal,67896,352,68248,36.37
+174,Islampur,2,Ruhail Ranjan,Janata Dal (United),99918,569,100487,53.55
+174,Islampur,3,Bipin Mistri,Bahujan Samaj Party,2707,10,2717,1.45
+174,Islampur,4,Kumar Hari Charan Singh Yadav,Bharatiya Momin Front,437,1,438,0.23
+174,Islampur,5,Tanuja Kumari,Jan Suraaj Party,4724,55,4779,2.55
+174,Islampur,6,Dinkar Kumar,Rashtriya Samajwadi Lok Adhikar Party,157,1,158,0.08
+174,Islampur,7,Vikash Kumar Gaurab,Lohiya Janta Dal,197,0,197,0.1
+174,Islampur,8,Sugouli Prasad,Peoples Party of India (Democratic),286,1,287,0.15
+174,Islampur,9,Ajay Kumar Sinha,Independent,299,1,300,0.16
+174,Islampur,10,Manoj Jamadar,Independent,555,2,557,0.3
+174,Islampur,11,Mitu Kumari,Independent,580,1,581,0.31
+174,Islampur,12,Ranjeet Kumar,Independent,967,0,967,0.52
+174,Islampur,13,Sitaram Singh,Independent,3416,0,3416,1.82
+174,Islampur,14,Nota,None of the Above,4526,6,4532,2.41
+175,Hilsa,1,Atri Muni Urf Shakti Singh Yadav,Rashtriya Janata Dal,79702,295,79997,41.44
+175,Hilsa,2,Kumar Niraj,Rashtriya Lok Janshakti Party,1636,10,1646,0.85
+175,Hilsa,3,Krishna Murari Sharan,Janata Dal (United),95521,488,96009,49.73
+175,Hilsa,4,Amar Singh,The Plurals Party,1086,0,1086,0.56
+175,Hilsa,5,Umesh Kumar Verma,Jan Suraaj Party,4194,58,4252,2.2
+175,Hilsa,6,Prem Kumar,Rashtriya Jansambhavna Party,415,6,421,0.22
+175,Hilsa,7,Vavuchand Chaudhari,Indian National Socialistic Action Forces,662,1,663,0.34
+175,Hilsa,8,Sudhir Kumar,Sanyukt Kisan Vikas Party,935,0,935,0.48
+175,Hilsa,9,Shukesh Kumar,Independent,3336,1,3337,1.73
+175,Hilsa,10,Sachidanand Singh,Independent,858,1,859,0.44
+175,Hilsa,11,Nota,None of the Above,3849,4,3853,2
+176,Nalanda,1,Kaushalendra Kumar,Indian National Congress,72091,333,72424,36.25
+176,Nalanda,2,Priyadarshi Ashok,Bahujan Samaj Party,2485,13,2498,1.25
+176,Nalanda,3,Shrawon Kumar,Janata Dal (United),104942,490,105432,52.77
+176,Nalanda,4,Abhi Kumar,Vikas Vanchit Insan Party,1574,0,1574,0.79
+176,Nalanda,5,Kumari Poonam Sinha,Jan Suraaj Party,5129,77,5206,2.61
+176,Nalanda,6,Gautam Rajvanshi,Moolniwasi Samaj Party,915,1,916,0.46
+176,Nalanda,7,Dilip Kumar,Peoples Party of India (Democratic),631,0,631,0.32
+176,Nalanda,8,Dharmendra Paswan,Rashtriya Samajwadi Lok Adhikar Party,890,0,890,0.45
+176,Nalanda,9,Baijnath Prasad,Bharatheeya Jawan Kisan Party,3579,2,3581,1.79
+176,Nalanda,10,Raushan Kumar,Aazad Samaj Party (Kanshi Ram),1803,5,1808,0.9
+176,Nalanda,11,Nota,None of the Above,4825,4,4829,2.42
+177,Harnaut,1,Arun Kumar,Indian National Congress,58393,226,58619,30.5
+177,Harnaut,2,Dharmendra Kumar,Aam Aadmi Party,2384,3,2387,1.24
+177,Harnaut,3,Hari Narayan Singh,Janata Dal (United),106471,483,106954,55.66
+177,Harnaut,4,Indrasen Priyadarshi,Rashtriya Sanatan Party,1835,5,1840,0.96
+177,Harnaut,5,Kanhaiya Lal Yadav,Bhartiya Party (Loktantrik),1780,2,1782,0.93
+177,Harnaut,6,Kamlesh Paswan,Jan Suraaj Party,7845,82,7927,4.13
+177,Harnaut,7,Dhananjay Kumar,Vikas Vanchit Insan Party,1304,0,1304,0.68
+177,Harnaut,8,Prem Ranjan Kumar,Jantantrik Lokhit Party,886,3,889,0.46
+177,Harnaut,9,Anirudh Kumar,Independent,1126,2,1128,0.59
+177,Harnaut,10,Pintu Paswan,Independent,2785,0,2785,1.45
+177,Harnaut,11,Vinay Bhushan Kumar,Independent,1166,1,1167,0.61
+177,Harnaut,12,Nota,None of the Above,5367,13,5380,2.8
+178,Mokama,1,Anant Kumar Singh,Janata Dal (United),91135,281,91416,49.44
+178,Mokama,2,Dr. Rajesh Kumar Ratnakar,Aam Aadmi Party,2098,2,2100,1.14
+178,Mokama,3,Veena Devi,Rashtriya Janata Dal,63022,188,63210,34.18
+178,Mokama,4,Priyadarshi Piyush,Jan Suraaj Party,19315,50,19365,10.47
+178,Mokama,5,Manju Kumari,Panchpauniya Samaj Party,865,2,867,0.47
+178,Mokama,6,Rahul Kumar,Lokhit Adhikar Party,1132,0,1132,0.61
+178,Mokama,7,Anil Kumar,Independent,1389,1,1390,0.75
+178,Mokama,8,Vikash Kumar,Independent,830,2,832,0.45
+178,Mokama,9,Nota,None of the Above,4598,11,4609,2.49
+179,Barh,1,Karnveer Singh Yadav,Rashtriya Janata Dal,74494,139,74633,39.41
+179,Barh,2,Madhukar Jay Vijay,Aam Aadmi Party,1350,3,1353,0.71
+179,Barh,3,Siyaram Singh,Bharatiya Janata Party,99172,274,99446,52.51
+179,Barh,4,Amitabh Bachchan,Rashtriya Sanatan Party,1340,0,1340,0.71
+179,Barh,5,Niranjan Prasad,Panchpauniya Samaj Party,637,2,639,0.34
+179,Barh,6,Mahesh Prasad Singh,Jan Suraaj Party,3448,25,3473,1.83
+179,Barh,7,Shatrudhan Varma,Peoples Party of India (Democratic),403,1,404,0.21
+179,Barh,8,Arbind Kumar,Independent,284,1,285,0.15
+179,Barh,9,Ravi Ranjan Kumar,Independent,376,1,377,0.2
+179,Barh,10,Ravikant Prasad Yadav,Independent,801,1,802,0.42
+179,Barh,11,Sharvan Pandey,Independent,2246,1,2247,1.19
+179,Barh,12,Suraj Kumar,Independent,760,0,760,0.4
+179,Barh,13,Nota,None of the Above,3627,4,3631,1.92
+180,Bakhtiarpur,1,Aniruddh Kumar,Rashtriya Janata Dal,87373,166,87539,44.64
+180,Bakhtiarpur,2,Arun Kumar S/O Satrughan Sao,Lok Janshakti Party (Ram Vilas),88329,191,88520,45.14
+180,Bakhtiarpur,3,Arun Thakur,Aam Aadmi Party,1549,4,1553,0.79
+180,Bakhtiarpur,4,Deepak Bhai Patel,Bahujan Samaj Party,2914,9,2923,1.49
+180,Bakhtiarpur,5,Gulshan Kumar Yadav,Janshakti Janta Dal,790,1,791,0.4
+180,Bakhtiarpur,6,Balmiki Singh,Jan Suraaj Party,6541,40,6581,3.36
+180,Bakhtiarpur,7,Arun Kumar S/O Nagendra Prasad Singh,Independent,651,2,653,0.33
+180,Bakhtiarpur,8,Ram Ratan Prasad Singh,Independent,1029,0,1029,0.52
+180,Bakhtiarpur,9,Shambhu Singh,Independent,2876,0,2876,1.47
+180,Bakhtiarpur,10,Nota,None of the Above,3631,4,3635,1.85
+181,Digha,1,Divya Gautam,Communist Party of India (Marxist-Leninist) (Liberation),51846,76,51922,26.47
+181,Digha,2,Prabhakar Kr. Singh,Bahujan Samaj Party,1925,5,1930,0.98
+181,Digha,3,Sanjiv Chaurasia,Bharatiya Janata Party,110743,258,111001,56.59
+181,Digha,4,Indu Devi,Bharatiya Momin Front,1726,6,1732,0.88
+181,Digha,5,Richa Sinha,Vocal India Party,685,0,685,0.35
+181,Digha,6,Pranjal Singh,The Plurals Party,465,1,466,0.24
+181,Digha,7,Rajiv Kumar Singh,Right to Recall Party,610,4,614,0.31
+181,Digha,8,Ritesh Ranjan Singh Alias Bittu Singh,Jan Suraaj Party,21993,78,22071,11.25
+181,Digha,9,Sadhana Kumari,Jagrook Janta Party,635,1,636,0.32
+181,Digha,10,Kusumlata Verma,Independent,1377,5,1382,0.7
+181,Digha,11,Shwet Ranjan,Independent,600,1,601,0.31
+181,Digha,12,Nota,None of the Above,3091,11,3102,1.58
+182,Bankipur,1,Nitin Nabin,Bharatiya Janata Party,98151,148,98299,62.66
+182,Bankipur,2,Pankaj Kumar,Aam Aadmi Party,788,2,790,0.5
+182,Bankipur,3,Rekha Kumari,Rashtriya Janata Dal,46308,55,46363,29.55
+182,Bankipur,4,Niranjan Kumar Achary,Right to Recall Party,361,0,361,0.23
+182,Bankipur,5,Prabhash Chandra Sharma,Jagrook Janta Party,275,1,276,0.18
+182,Bankipur,6,Vandana Kumari,Jan Suraaj Party,7690,27,7717,4.92
+182,Bankipur,7,Akhilesh Kumar,Independent,403,0,403,0.26
+182,Bankipur,8,Ravi Kumar,Independent,666,0,666,0.42
+182,Bankipur,9,S. Sajjad Hussain Akhter,Independent,545,1,546,0.35
+182,Bankipur,10,Nota,None of the Above,1460,4,1464,0.93
+183,Kumhrar,1,Indradeep Kumar Chandravanshi,Indian National Congress,52869,92,52961,30.52
+183,Kumhrar,2,Dr. Uma Kant Pathak,Bahujan Samaj Party,668,0,668,0.39
+183,Kumhrar,3,Bablu Kumar,Aam Aadmi Party,545,1,546,0.31
+183,Kumhrar,4,Sanjay Kumar,Bharatiya Janata Party,100342,143,100485,57.91
+183,Kumhrar,5,Amrendra Kumar Bhaskar,"Proutist Bloc, India",561,0,561,0.32
+183,Kumhrar,6,Krishna Chandra Sinha,Jan Suraaj Party,14965,52,15017,8.66
+183,Kumhrar,7,Dhanjay Kumar,Rashtriya Jansambhavna Party,270,0,270,0.16
+183,Kumhrar,8,Shahid Alam,Jantantra Awaj Party,204,0,204,0.12
+183,Kumhrar,9,Saroj Kumar Suman,Socialist Unity Centre Of India (COMMUNIST),207,0,207,0.12
+183,Kumhrar,10,Sumit Ranjan Sinha,Akhand Bharat Janpriya Party,215,0,215,0.12
+183,Kumhrar,11,Anuj Kumar Singh,Independent,538,1,539,0.31
+183,Kumhrar,12,Abhay Kumar,Independent,256,0,256,0.15
+183,Kumhrar,13,Amit Kumar Albela,Independent,299,0,299,0.17
+183,Kumhrar,14,Nota,None of the Above,1276,2,1278,0.74
+184,Patna Sahib,1,Randhir Kumar,Bahujan Samaj Party,1206,1,1207,0.51
+184,Patna Sahib,2,Ratnesh Kumar,Bharatiya Janata Party,130200,166,130366,55.44
+184,Patna Sahib,3,Shashant Shekhar,Indian National Congress,91335,131,91466,38.9
+184,Patna Sahib,4,Adil Aftab Khan,Nationalist Congress Party,899,3,902,0.38
+184,Patna Sahib,5,Md Iftekhar Hussain,Bharatiya Momin Front,567,0,567,0.24
+184,Patna Sahib,6,Om Prakash Panjiyar,Sarv Jan Party (Bharat),377,0,377,0.16
+184,Patna Sahib,7,Minu Kumari,Janshakti Janta Dal,606,0,606,0.26
+184,Patna Sahib,8,Vinita Mishra,Jan Suraaj Party,5230,33,5263,2.24
+184,Patna Sahib,9,Md Shabab Rahbar,Rashtriya Jansambhavna Party,1318,0,1318,0.56
+184,Patna Sahib,10,Amit Kumar Albela,Independent,981,0,981,0.42
+184,Patna Sahib,11,Nota,None of the Above,2094,5,2099,0.89
+185,Fatuha,1,Dr. Ramanand Yadav,Rashtriya Janata Dal,90438,120,90558,45.69
+185,Fatuha,2,Rupa Kumari,Lok Janshakti Party (Ram Vilas),82423,143,82566,41.66
+185,Fatuha,3,Jiya Singh Lucy,Adarsh Jankalyan Dal,1355,3,1358,0.69
+185,Fatuha,4,Raju Kumar,Jan Suraaj Party,8539,59,8598,4.34
+185,Fatuha,5,Rajesh Paswan,Indian National Socialistic Action Forces,500,2,502,0.25
+185,Fatuha,6,Binay Singh,Kisan Sangharsh Samiti,839,0,839,0.42
+185,Fatuha,7,Shiv Nandan Tiwari,Ambedkar National Congress,973,5,978,0.49
+185,Fatuha,8,Ranadhir Kumar,Independent,1756,0,1756,0.89
+185,Fatuha,9,Ramjatan Choudhary,Independent,566,2,568,0.29
+185,Fatuha,10,Brijbhan Ram,Independent,807,0,807,0.41
+185,Fatuha,11,Shakti Paswan,Independent,909,1,910,0.46
+185,Fatuha,12,Sanjeet Kumar,Independent,4801,1,4802,2.42
+185,Fatuha,13,Nota,None of the Above,3930,8,3938,1.99
+186,Danapur,1,Ram Kripal Yadav,Bharatiya Janata Party,119528,349,119877,54.41
+186,Danapur,2,Rit Lal Roy,Rashtriya Janata Dal,90550,194,90744,41.19
+186,Danapur,3,Raghuveer Mahto,Rashtriya Jansambhavna Party,1334,6,1340,0.61
+186,Danapur,4,Sunny Kumar Sharma,Jagrook Janta Party,690,1,691,0.31
+186,Danapur,5,Pawan Kumar,Independent,625,1,626,0.28
+186,Danapur,6,Varsha,Independent,998,3,1001,0.45
+186,Danapur,7,Shailesh K.R Dhiraj,Independent,2781,5,2786,1.26
+186,Danapur,8,Nota,None of the Above,3230,12,3242,1.47
+187,Maner,1,Jitendra Yadav,Lok Janshakti Party (Ram Vilas),90590,174,90764,40.14
+187,Maner,2,Bhai Birendra,Rashtriya Janata Dal,110460,338,110798,48.99
+187,Maner,3,Mantosh Kumar Singh,Insaniyat Party,1945,2,1947,0.86
+187,Maner,4,Shankar Kumar,Janshakti Janta Dal,3280,10,3290,1.45
+187,Maner,5,Shiv Kumar Singh,Apna Kisan Party,742,2,744,0.33
+187,Maner,6,Sandip Kumar Singh Alias Gopal Sandeep Singh,Jan Suraaj Party,3945,35,3980,1.76
+187,Maner,7,Satish Kumar,Rashtriya Jansambhavna Party,986,1,987,0.44
+187,Maner,8,Gudiya Kumari,Independent,479,4,483,0.21
+187,Maner,9,Chandrashekhar Mahto,Independent,637,0,637,0.28
+187,Maner,10,Mukesh Kumar,Independent,673,0,673,0.3
+187,Maner,11,Vikash Kumar Alias Dikesh Singh,Independent,2886,3,2889,1.28
+187,Maner,12,Sannee Kumar,Independent,1141,0,1141,0.5
+187,Maner,13,Sannu Devi,Independent,2769,0,2769,1.22
+187,Maner,14,Nota,None of the Above,5034,7,5041,2.23
+188,Phulwari,1,Arun Kumar Rajak,Aam Aadmi Party,5297,8,5305,2.06
+188,Phulwari,2,Gopal Ravi Das,Communist Party of India (Marxist-Leninist) (Liberation),93645,168,93813,36.48
+188,Phulwari,3,Shyam Rajak,Janata Dal (United),126194,276,126470,49.18
+188,Phulwari,4,Sunil Paswan,Rashtriya Lok Janshakti Party,2594,4,2598,1.01
+188,Phulwari,5,Mahesh Paswan,Bhartiya Lok Chetna Party,1291,0,1291,0.5
+188,Phulwari,6,Mukesh Kumar,Rashtriya Republican Party,907,1,908,0.35
+188,Phulwari,7,Yuvraj Kumar,Samata Party,1590,1,1591,0.62
+188,Phulwari,8,Shashi Kant Prasad,Jan Suraaj Party,11047,53,11100,4.32
+188,Phulwari,9,Shri Raj Paswan,Prabal Bharat Party,1154,1,1155,0.45
+188,Phulwari,10,Anil Das,Independent,1332,1,1333,0.52
+188,Phulwari,11,Puja Kumari,Independent,3795,3,3798,1.48
+188,Phulwari,12,Sukesh Kumar,Independent,2927,1,2928,1.14
+188,Phulwari,13,Nota,None of the Above,4838,6,4844,1.88
+189,Masaurhi,1,Arun Manjhi,Janata Dal (United),106293,212,106505,47.16
+189,Masaurhi,2,Manoj Kumar,Bahujan Samaj Party,4073,3,4076,1.8
+189,Masaurhi,3,Rekha Devi,Rashtriya Janata Dal,98651,211,98862,43.78
+189,Masaurhi,4,Rajeshwar Manjhi,Jan Suraaj Party,4658,35,4693,2.08
+189,Masaurhi,5,Jagat Paswan,Independent,1762,0,1762,0.78
+189,Masaurhi,6,Ravi Prakash,Independent,979,1,980,0.43
+189,Masaurhi,7,Ram Ekwal Ravidas,Independent,757,0,757,0.34
+189,Masaurhi,8,Vijendra Paswan,Independent,1942,0,1942,0.86
+189,Masaurhi,9,Sri Kant Kumar,Independent,1096,0,1096,0.49
+189,Masaurhi,10,Nota,None of the Above,5145,1,5146,2.28
+190,Paliganj,1,Shivnath Kumar,Aam Aadmi Party,1809,3,1812,0.99
+190,Paliganj,2,Sandeep Saurav,Communist Party of India (Marxist-Leninist) (Liberation),80868,237,81105,44.48
+190,Paliganj,3,Sunil Kumar,Lok Janshakti Party (Ram Vilas),74287,163,74450,40.83
+190,Paliganj,4,Sushant,Bahujan Samaj Party,2740,5,2745,1.51
+190,Paliganj,5,Anamika,Socialist Unity Centre Of India (COMMUNIST),430,3,433,0.24
+190,Paliganj,6,Anand Kumar,Bhartiya Lok Chetna Party,513,1,514,0.28
+190,Paliganj,7,Girja Ram,Suheldev Bharatiya Samaj Party,808,1,809,0.44
+190,Paliganj,8,Jitendra Kumar Pandit,Awami Samta Party,374,0,374,0.21
+190,Paliganj,9,Shyam Nandan Sharma,Jan Suraaj Party,6548,64,6612,3.63
+190,Paliganj,10,Arvind Kumar Maurya,Independent,955,7,962,0.53
+190,Paliganj,11,Jitendra Kumar,Independent,790,0,790,0.43
+190,Paliganj,12,Mritunjay Kumar,Independent,1421,1,1422,0.78
+190,Paliganj,13,Shambhu Kumar,Independent,3747,0,3747,2.06
+190,Paliganj,14,Satya Narayan Yadav,Independent,3354,0,3354,1.84
+190,Paliganj,15,Nota,None of the Above,3182,9,3191,1.75
+191,Bikram,1,Anil Kumar,Indian National Congress,95310,278,95588,44.42
+191,Bikram,2,Ram Pravesh Yadav,Bahujan Samaj Party,2575,7,2582,1.2
+191,Bikram,3,Siddharth Saurav,Bharatiya Janata Party,100864,325,101189,47.02
+191,Bikram,4,Ajeet Kumar,Janshakti Janta Dal,4923,14,4937,2.29
+191,Bikram,5,Chandan Sharma,Jagrook Janta Party,559,1,560,0.26
+191,Bikram,6,Dhurakheli Ravidas,Indian National Socialistic Action Forces,404,0,404,0.19
+191,Bikram,7,Mantu Kumar,Jan Suraaj Party,2993,44,3037,1.41
+191,Bikram,8,Shambhu Prasad Sharma,Hindustan Vikas Dal,913,0,913,0.42
+191,Bikram,9,Chandan Kumar,Independent,1924,2,1926,0.89
+191,Bikram,10,Rajiv Kumar Singh,Independent,728,0,728,0.34
+191,Bikram,11,Nota,None of the Above,3335,3,3338,1.55
+192,Sandesh,1,Dipu Singh,Rashtriya Janata Dal,80108,463,80571,43.97
+192,Sandesh,2,Radha Charan Sah,Janata Dal (United),80072,526,80598,43.99
+192,Sandesh,3,Ajay Kumar Pathak,Akhil Bharatiya Jan Sangh,1283,10,1293,0.71
+192,Sandesh,4,Manmohan Singh,Rashtrawadi Janlok Party (Satya),505,4,509,0.28
+192,Sandesh,5,Rajiv Ranjan Raj,Jan Suraaj Party,5920,120,6040,3.3
+192,Sandesh,6,Sanjeet Kumar,Peoples Party of India (Democratic),606,3,609,0.33
+192,Sandesh,7,Satya Prakash,The Plurals Party,297,2,299,0.16
+192,Sandesh,8,Abhishek Kumar,Independent,393,5,398,0.22
+192,Sandesh,9,Mukesh Singh,Independent,5373,26,5399,2.95
+192,Sandesh,10,Sandhya Kumari,Independent,868,12,880,0.48
+192,Sandesh,11,Samarjay Singh,Independent,2473,1,2474,1.35
+192,Sandesh,12,Nota,None of the Above,4142,18,4160,2.27
+193,Barhara,1,Ashok Kumar Singh,Rashtriya Janata Dal,64751,439,65190,35.8
+193,Barhara,2,Raghvendra Pratap Singh,Bharatiya Janata Party,78980,613,79593,43.71
+193,Barhara,3,Santosh Kumar Singh,Peoples Party of India (Democratic),1054,5,1059,0.58
+193,Barhara,4,Saurabh Singh Yadav,Jan Suraaj Party,3101,88,3189,1.75
+193,Barhara,5,Kajal,Independent,1013,17,1030,0.57
+193,Barhara,6,Kisun Prasad,Independent,1355,2,1357,0.75
+193,Barhara,7,Dharampal Yadav,Independent,498,2,500,0.27
+193,Barhara,8,Banshidhar Singh,Independent,1773,26,1799,0.99
+193,Barhara,9,Ranvijay Kumar Singh,Independent,3848,15,3863,2.12
+193,Barhara,10,Shiv Das Singh,Independent,432,0,432,0.24
+193,Barhara,11,Saroj Yadav,Independent,8940,44,8984,4.93
+193,Barhara,12,Surya Bhan Singh,Independent,9181,87,9268,5.09
+193,Barhara,13,Saurav Narang,Independent,2359,2,2361,1.3
+193,Barhara,14,Nota,None of the Above,3460,11,3471,1.91
+194,Arrah,1,Quyamuddin Ansari,Communist Party of India (Marxist-Leninist) (Liberation),74124,496,74620,40.38
+194,Arrah,2,Mritunjay Bhardwaj,Bahujan Samaj Party,1088,10,1098,0.59
+194,Arrah,3,Sanjay Singh (Tiger),Bharatiya Janata Party,93598,603,94201,50.98
+194,Arrah,4,Arun Kumar Singh,Bhartiya Mahasangh Party,900,8,908,0.49
+194,Arrah,5,Gorakh Ram,Bhojpuria Jan Morcha,320,2,322,0.17
+194,Arrah,6,Dharmatma Sharma,Socialist Unity Centre Of India (COMMUNIST),179,1,180,0.1
+194,Arrah,7,Raj Kishor Sharma,Jantantra Awaj Party,267,1,268,0.15
+194,Arrah,8,Rajesh Sharma,Gantantrik Samaj Party,336,1,337,0.18
+194,Arrah,9,Ram Prakash Pandey,Akhil Bharatiya Jan Sangh,379,5,384,0.21
+194,Arrah,10,Dr. Vijay Kumar Gupta,Jan Suraaj Party,5680,120,5800,3.14
+194,Arrah,11,Md. Sarfaraj Ansari,Peoples Party of India (Democratic),678,1,679,0.37
+194,Arrah,12,Amardeep Kumar Jai,Independent,1183,0,1183,0.64
+194,Arrah,13,Sachin,Independent,643,1,644,0.35
+194,Arrah,14,Nota,None of the Above,4139,15,4154,2.25
+195,Agiaon,1,Mahesh Paswan,Bharatiya Janata Party,69039,373,69412,45.2
+195,Agiaon,2,Mukesh Kumar Ram,Bahujan Samaj Party,1424,16,1440,0.94
+195,Agiaon,3,Shiv Prakash Ranjan,Communist Party of India (Marxist-Leninist) (Liberation),68892,425,69317,45.14
+195,Agiaon,4,Barun Deo,Janshakti Janta Dal,1317,9,1326,0.86
+195,Agiaon,5,Basant Kumar Ram,Voters Party International,584,0,584,0.38
+195,Agiaon,6,Ramesh Kumar,Jan Suraaj Party,3808,74,3882,2.53
+195,Agiaon,7,Vijay Mehra,Independent,733,1,734,0.48
+195,Agiaon,8,Shyam Bihari Choudhary,Independent,2503,5,2508,1.63
+195,Agiaon,9,Suraj Bhan,Independent,719,1,720,0.47
+195,Agiaon,10,Nota,None of the Above,3622,9,3631,2.36
+196,Tarari,1,Madan Singh S/O-Kumi Singh,Communist Party of India (Marxist-Leninist) (Liberation),84911,512,85423,43.72
+196,Tarari,2,Vishal Prashant,Bharatiya Janata Party,96310,577,96887,49.59
+196,Tarari,3,Sanjay Kumar Sharma,Aam Aadmi Party,1212,11,1223,0.63
+196,Tarari,4,Santosh Kumar Singh,Bahujan Samaj Party,389,7,396,0.2
+196,Tarari,5,Ashok Kumar Singh,Socialist Party (India),122,0,122,0.06
+196,Tarari,6,Chandra Shekhar Singh,Jan Suraaj Party,2211,60,2271,1.16
+196,Tarari,7,Narayan Singh,Voters Party International,186,1,187,0.1
+196,Tarari,8,Raju Rajvanshi,Suheldev Bharatiya Samaj Party,305,4,309,0.16
+196,Tarari,9,Rajesh Singh,Rashtriya Jansambhavna Party,160,3,163,0.08
+196,Tarari,10,Sikandar Kumar,Janshakti Janta Dal,324,3,327,0.17
+196,Tarari,11,Karmoo Sah Keshari,Independent,213,0,213,0.11
+196,Tarari,12,Madan Singh S/O Barbhanga Singh,Independent,315,0,315,0.16
+196,Tarari,13,Rajnish Kumar,Independent,390,0,390,0.2
+196,Tarari,14,Ramesh Chandra Rabi,Independent,712,2,714,0.37
+196,Tarari,15,Rajendra Kumar Pathak,Independent,2364,0,2364,1.21
+196,Tarari,16,Nota,None of the Above,4074,4,4078,2.09
+197,Jagdishpur,1,Kishore Kunal,Rashtriya Janata Dal,74377,404,74781,39.73
+197,Jagdishpur,2,Sribhagwan Singh Kushwaha,Janata Dal (United),92462,512,92974,49.39
+197,Jagdishpur,3,Sanjay Kumar Chaturvedi,Bahujan Samaj Party,2805,15,2820,1.5
+197,Jagdishpur,4,Neeraj Roy,Janshakti Janta Dal,597,10,607,0.32
+197,Jagdishpur,5,Vijay Singh,Jan Suraaj Party,4999,107,5106,2.71
+197,Jagdishpur,6,Virendra Kumar Singh,Bhojpuria Jan Morcha,324,4,328,0.17
+197,Jagdishpur,7,Amradeep Kumar Jai,Independent,489,1,490,0.26
+197,Jagdishpur,8,Munga Lal Ram,Independent,834,7,841,0.45
+197,Jagdishpur,9,Rajeev Ranjan,Independent,3257,15,3272,1.74
+197,Jagdishpur,10,Hiralal Singh,Independent,3070,0,3070,1.63
+197,Jagdishpur,11,Nota,None of the Above,3945,10,3955,2.1
+198,Shahpur,1,Dharmendra Kumar,Bahujan Samaj Party,2911,12,2923,1.64
+198,Shahpur,2,Rakesh Ranjan,Bharatiya Janata Party,87897,758,88655,49.69
+198,Shahpur,3,Rahul Tiwary,Rashtriya Janata Dal,72945,485,73430,41.16
+198,Shahpur,4,Padma Ojha,Jan Suraaj Party,3837,111,3948,2.21
+198,Shahpur,5,Madan Yadav,Janshakti Janta Dal,580,9,589,0.33
+198,Shahpur,6,Shankar Kumar Gond,Gondvana Gantantra Party,231,4,235,0.13
+198,Shahpur,7,Krishna Ram,Independent,974,5,979,0.55
+198,Shahpur,8,Gouttam Ojha,Independent,253,2,255,0.14
+198,Shahpur,9,Dablu Kumar Gond,Independent,1000,0,1000,0.56
+198,Shahpur,10,Manan Shah,Independent,2534,2,2536,1.42
+198,Shahpur,11,Sahabudin Miya,Independent,1839,5,1844,1.03
+198,Shahpur,12,Nota,None of the Above,2002,4,2006,1.12
+199,Brahampur,1,Mahavir Yadav,Bahujan Samaj Party,4557,42,4599,2.23
+199,Brahampur,2,Shambhu Nath Yadav,Rashtriya Janata Dal,95066,762,95828,46.43
+199,Brahampur,3,Hulas Pande,Lok Janshakti Party (Ram Vilas),91844,764,92608,44.87
+199,Brahampur,4,Vikrama Gond,Gondvana Gantantra Party,1594,11,1605,0.78
+199,Brahampur,5,Sunil Kumar Ray,Suheldev Bharatiya Samaj Party,2455,10,2465,1.19
+199,Brahampur,6,Nitish Kumar,Independent,1908,24,1932,0.94
+199,Brahampur,7,Manish Bhushan Ojha,Independent,2737,14,2751,1.33
+199,Brahampur,8,Shiv Shankar Das,Independent,2274,2,2276,1.1
+199,Brahampur,9,Nota,None of the Above,2309,20,2329,1.13
+200,Buxar,1,Abhimnyu Maury,Bahujan Samaj Party,28966,152,29118,15.44
+200,Buxar,2,Anand Mishra,Bharatiya Janata Party,84261,640,84901,45.01
+200,Buxar,3,Dharm Raj Singh,Aam Aadmi Party,1124,6,1130,0.6
+200,Buxar,4,Sanjay Kumar Tiwari Urf Munna Tiwari,Indian National Congress,56049,499,56548,29.98
+200,Buxar,5,Tathagat Harsh Vardhan,Jan Suraaj Party,7820,100,7920,4.2
+200,Buxar,6,Pankaj Kumar Pandey,Kisan Samaj Party (S),480,6,486,0.26
+200,Buxar,7,Binod Kumar Singh,Bhartiya Sarthak Party,353,6,359,0.19
+200,Buxar,8,Visheshwar Chauhan,Rashtriya Jansambhavna Party,343,3,346,0.18
+200,Buxar,9,Sohan Gond,Gondvana Gantantra Party,781,1,782,0.41
+200,Buxar,10,Om Jee Kumar,Independent,403,6,409,0.22
+200,Buxar,11,Nitu Kumari,Independent,371,3,374,0.2
+200,Buxar,12,Pramila Devi,Independent,563,5,568,0.3
+200,Buxar,13,Manoj Kumar,Independent,1455,10,1465,0.78
+200,Buxar,14,Rampravesh Singh,Independent,1572,3,1575,0.84
+200,Buxar,15,Vishwamitra Kahar,Independent,1281,0,1281,0.68
+200,Buxar,16,Nota,None of the Above,1354,2,1356,0.72
+201,Dumraon,1,Dr. Ajit Kumar Singh,Communist Party of India (Marxist-Leninist) (Liberation),76669,637,77306,39.3
+201,Dumraon,2,Dadan Yadav,Bahujan Samaj Party,11026,101,11127,5.66
+201,Dumraon,3,Mrityunjay Kumar Singh,Rashtriya Lok Janshakti Party,1763,31,1794,0.91
+201,Dumraon,4,Rahul Kumar Singh,Janata Dal (United),78884,527,79411,40.37
+201,Dumraon,5,Umesh Ram,Sanyukt Kisan Vikas Party,919,7,926,0.47
+201,Dumraon,6,Dinesh Singh,Janshakti Janta Dal,822,7,829,0.42
+201,Dumraon,7,Pradip Kumar Sharan,Suheldev Bharatiya Samaj Party,4967,9,4976,2.53
+201,Dumraon,8,Mantosh Kumar Gond,Gondvana Gantantra Party,973,4,977,0.5
+201,Dumraon,9,Ravishankar Prasad,Bhagidari Party(P),860,3,863,0.44
+201,Dumraon,10,Shivang Vijay Singh,Jan Suraaj Party,5162,111,5273,2.68
+201,Dumraon,11,Sushil Kumar Sharma,Jagrook Janta Party,496,2,498,0.25
+201,Dumraon,12,Pramila Devi,Independent,1062,5,1067,0.54
+201,Dumraon,13,Bheem Kamkar,Independent,2660,1,2661,1.35
+201,Dumraon,14,Ravi Prakash Sinha,Independent,994,1,995,0.51
+201,Dumraon,15,Ravishankar Ray,Independent,949,2,951,0.48
+201,Dumraon,16,Hemlata,Independent,3994,0,3994,2.03
+201,Dumraon,17,Nota,None of the Above,3050,9,3059,1.56
+202,Rajpur,1,Amar Paswan,Rashtriya Lok Janshakti Party,1717,15,1732,0.82
+202,Rajpur,2,Lal Jee Ram,Bahujan Samaj Party,20449,49,20498,9.7
+202,Rajpur,3,Vishwanath Ram,Indian National Congress,71213,352,71565,33.86
+202,Rajpur,4,Santosh Kumar Nirala,Janata Dal (United),80368,333,80701,38.19
+202,Rajpur,5,Anil Kumar Ram,Aazad Samaj Party (Kanshi Ram),4548,9,4557,2.16
+202,Rajpur,6,Dhananjay Kumar,Jan Suraaj Party,12406,85,12491,5.91
+202,Rajpur,7,Baleshwar Ram,Rashtriya Jansambhavna Party,1017,0,1017,0.48
+202,Rajpur,8,Bhim Ram,Sarvjan Sanatan Party,971,0,971,0.46
+202,Rajpur,9,Shiv Kumar Ram,Suheldev Bharatiya Samaj Party,6746,3,6749,3.19
+202,Rajpur,10,Shivji Kumar,Janshakti Vikas Party (Democratic),1608,1,1609,0.76
+202,Rajpur,11,Subhash Ram,Bhartiya Sarthak Party,2514,3,2517,1.19
+202,Rajpur,12,Suraj Prakash Ram,Sanyukt Kisan Vikas Party,2753,0,2753,1.3
+202,Rajpur,13,Ram Lal Ram,Independent,1386,1,1387,0.66
+202,Rajpur,14,Nota,None of the Above,2769,9,2778,1.31
+203,Ramgarh,1,Ajit Kumar,Rashtriya Janata Dal,41287,193,41480,21.29
+203,Ramgarh,2,Ashok Kumar Singh,Bharatiya Janata Party,72338,321,72659,37.29
+203,Ramgarh,3,Satish Kumar Singh Yadav,Bahujan Samaj Party,72382,307,72689,37.31
+203,Ramgarh,4,Anand Kumar Singh,Jan Suraaj Party,4389,37,4426,2.27
+203,Ramgarh,5,Ghurelal Rajbhar,Suheldev Bharatiya Samaj Party,1777,2,1779,0.91
+203,Ramgarh,6,Rampravesh Singh,Independent,657,0,657,0.34
+203,Ramgarh,7,Nota,None of the Above,1152,2,1154,0.59
+204,Mohania,1,Omprakash Narayan,Bahujan Samaj Party,32123,140,32263,16.91
+204,Mohania,2,Ranjit Dom,Aam Aadmi Party,1059,1,1060,0.56
+204,Mohania,3,Sangita Kumari,Bharatiya Janata Party,75998,292,76290,39.98
+204,Mohania,4,Kanhaiya Ram,Jantantra Awaj Party,1102,4,1106,0.58
+204,Mohania,5,Gita Devi,Jan Suraaj Party,14015,113,14128,7.4
+204,Mohania,6,Nitish Kumar,Asankhya Samaj Party,843,0,843,0.44
+204,Mohania,7,Babudhan Pasi,Rashtriya Jansambhavna Party,404,2,406,0.21
+204,Mohania,8,Munna Kumar,Nationalist Congress Party,309,9,318,0.17
+204,Mohania,9,Ajay Kumar,Independent,1135,3,1138,0.6
+204,Mohania,10,Indrajit Ram,Independent,565,3,568,0.3
+204,Mohania,11,Nitu Kumari,Independent,2202,3,2205,1.16
+204,Mohania,12,Ravi Shankar Paswan,Independent,57251,287,57538,30.15
+204,Mohania,13,Nota,None of the Above,2946,6,2952,1.55
+205,Bhabua,1,Bharat Bind,Bharatiya Janata Party,79696,343,80039,41.48
+205,Bhabua,2,Mohammad Amiruddin Ansari,Aam Aadmi Party,1122,16,1138,0.59
+205,Bhabua,3,Vikash Singh,Bahujan Samaj Party,39452,259,39711,20.58
+205,Bhabua,4,Vikash Kumar Tiwari,Rashtriya Lok Janshakti Party,6161,83,6244,3.24
+205,Bhabua,5,Birendra Kumar Singh,Rashtriya Janata Dal,55032,592,55624,28.83
+205,Bhabua,6,Jainendra Kumar Arya,Jan Suraaj Party,6665,110,6775,3.51
+205,Bhabua,7,Ajeet Kumar Patel,Independent,720,2,722,0.37
+205,Bhabua,8,Shishupal Singh,Independent,777,1,778,0.4
+205,Bhabua,9,Nota,None of the Above,1919,8,1927,1
+206,Chainpur,1,Md. Zama Khan,Janata Dal (United),70597,279,70876,30.94
+206,Chainpur,2,Dhiraj Kumar Singh,Bahujan Samaj Party,50987,213,51200,22.35
+206,Chainpur,3,Ram Raj Sharma,Aam Aadmi Party,1974,6,1980,0.86
+206,Chainpur,4,Brij Kishor Bind,Rashtriya Janata Dal,62177,337,62514,27.29
+206,Chainpur,5,Anil Kumar Singh,Jansatta Party of India,1154,1,1155,0.5
+206,Chainpur,6,Anuj Kumar Dubey,Uday Bharatam Party,627,0,627,0.27
+206,Chainpur,7,Govind Vind,Vikassheel Insaan Party,5128,16,5144,2.25
+206,Chainpur,8,Dindayal Singh Kushawaha,Samata Party,444,1,445,0.19
+206,Chainpur,9,Majnu Gond,Aazad Samaj Party (Kanshi Ram),3244,8,3252,1.42
+206,Chainpur,10,Raja Lal Singh,Bhagidari Party(P),5334,4,5338,2.33
+206,Chainpur,11,Sunil Kumar,Sarvlokhit Samaj Party,664,2,666,0.29
+206,Chainpur,12,Sunil Sharma,Jagrook Janta Party,933,0,933,0.41
+206,Chainpur,13,Sushank Kumar Singh,Suheldev Bharatiya Samaj Party,4898,2,4900,2.14
+206,Chainpur,14,Hemant Kumar Choubey,Jan Suraaj Party,6820,57,6877,3
+206,Chainpur,15,Akash Ranjan,Independent,1218,1,1219,0.53
+206,Chainpur,16,Uttam Patel,Independent,5279,23,5302,2.31
+206,Chainpur,17,Gopal Vinda,Independent,1747,0,1747,0.76
+206,Chainpur,18,Priyanka,Independent,789,1,790,0.34
+206,Chainpur,19,Mahendra Prasad,Independent,779,0,779,0.34
+206,Chainpur,20,Madhaw Singh,Independent,1150,2,1152,0.5
+206,Chainpur,21,Ram Ekabal Prasad,Independent,422,0,422,0.18
+206,Chainpur,22,Shravan Bind,Independent,440,1,441,0.19
+206,Chainpur,23,Nota,None of the Above,1314,7,1321,0.58
+207,Chenari,1,Asha Paswan,Rashtriya Lok Janshakti Party,1591,9,1600,0.78
+207,Chenari,2,Mangal Ram,Indian National Congress,73182,409,73591,35.76
+207,Chenari,3,Murari Prasad Gautam,Lok Janshakti Party (Ram Vilas),95310,269,95579,46.44
+207,Chenari,4,Sweta Devi,Bahujan Samaj Party,3500,11,3511,1.71
+207,Chenari,5,Amit Paswan,Aazad Samaj Party (Kanshi Ram),7492,44,7536,3.66
+207,Chenari,6,Neha Kumari,Jan Suraaj Party,9311,93,9404,4.57
+207,Chenari,7,Bhjuram,Rashtriya Samanta Dal,432,1,433,0.21
+207,Chenari,8,Ravishankar Parasad,Lohiya Janta Dal,318,0,318,0.15
+207,Chenari,9,Saloni Devi Omprakash Ram,Republican Party of India (A),814,0,814,0.4
+207,Chenari,10,Sunil Ram,Rashtriya Jansambhavna Party,623,0,623,0.3
+207,Chenari,11,Neha Kumari,Independent,1260,8,1268,0.62
+207,Chenari,12,Pankaj Kumar,Independent,1064,0,1064,0.52
+207,Chenari,13,Pramhansh Kumar,Independent,1452,0,1452,0.71
+207,Chenari,14,Sukhari Ram,Independent,4265,1,4266,2.07
+207,Chenari,15,Hare Ram Ram,Independent,2006,0,2006,0.97
+207,Chenari,16,Nota,None of the Above,2324,4,2328,1.13
+208,Sasaram,1,Arman Ahmad Khan,Aam Aadmi Party,1063,4,1067,0.48
+208,Sasaram,2,Ashok Kumar,Bahujan Samaj Party,10177,84,10261,4.64
+208,Sasaram,3,Satendra Sah,Rashtriya Janata Dal,79046,517,79563,35.99
+208,Sasaram,4,Ashutosh Singh,Nationalist Congress Party,695,13,708,0.32
+208,Sasaram,5,Dhanjit Sharma,Jagrook Janta Party,1016,1,1017,0.46
+208,Sasaram,6,Binay Kumar Singh,Jan Suraaj Party,6400,95,6495,2.94
+208,Sasaram,7,Md Shahzad Hussain,Aazad Samaj Party (Kanshi Ram),3500,17,3517,1.59
+208,Sasaram,8,Yash Raj Singh,Jai Hind Force,598,2,600,0.27
+208,Sasaram,9,Rekha Devi,Suheldev Bharatiya Samaj Party,2909,9,2918,1.32
+208,Sasaram,10,Snehlata,Rashtriya Lok Morcha,104701,305,105006,47.49
+208,Sasaram,11,Anand Kumar Gupta,Independent,602,1,603,0.27
+208,Sasaram,12,Arif Isain Hussain,Independent,251,3,254,0.11
+208,Sasaram,13,Omjeet Kumar,Independent,517,4,521,0.24
+208,Sasaram,14,Kumari Archana Gupta,Independent,1024,3,1027,0.46
+208,Sasaram,15,Krishna Kumar Singh,Independent,346,0,346,0.16
+208,Sasaram,16,Geeta Devi,Independent,876,0,876,0.4
+208,Sasaram,17,Jakir Husain,Independent,658,0,658,0.3
+208,Sasaram,18,Niranjan Kumar,Independent,371,0,371,0.17
+208,Sasaram,19,Bimal Kant Dubey,Independent,860,0,860,0.39
+208,Sasaram,20,Ramayan Paswan,Independent,326,1,327,0.15
+208,Sasaram,21,Lal Mati Devi,Independent,345,2,347,0.16
+208,Sasaram,22,Vivek Kumar,Independent,2775,13,2788,1.26
+208,Sasaram,23,Nota,None of the Above,953,8,961,0.43
+209,Kargahar,1,Uday Pratap Singh,Bahujan Samaj Party,56551,258,56809,25.87
+209,Kargahar,2,Bashisth Singh,Janata Dal (United),92082,403,92485,42.12
+209,Kargahar,3,Santosh Kumar Mishra,Indian National Congress,39135,198,39333,17.91
+209,Kargahar,4,Amit Kumar,Rashtriya Sanatan Party,759,1,760,0.35
+209,Kargahar,5,Mantu Kumar,Lok Shakti Party (Loktantrik),791,1,792,0.36
+209,Kargahar,6,Mahendra Prasad Gupta,Communist Party of India,2352,10,2362,1.08
+209,Kargahar,7,Ramesar Noniya,Rashtriya Jansambhavna Party,457,1,458,0.21
+209,Kargahar,8,Ritesh Ranjan,Jan Suraaj Party,16208,90,16298,7.42
+209,Kargahar,9,Govardhan Singh,Independent,2495,4,2499,1.14
+209,Kargahar,10,Deepak Kumar,Independent,468,0,468,0.21
+209,Kargahar,11,Ramsundar Pal,Independent,1189,1,1190,0.54
+209,Kargahar,12,Shiv Kumar Singh,Independent,3097,0,3097,1.41
+209,Kargahar,13,Nota,None of the Above,3012,1,3013,1.37
+210,Dinara,1,Bhupesh Singh,Rashtriya Lok Janshakti Party,872,27,899,0.48
+210,Dinara,2,Malti Devi,Bahujan Samaj Party,8361,21,8382,4.48
+210,Dinara,3,Shashi Shankar Kumar Alias Rajesh Yadav,Rashtriya Janata Dal,67225,279,67504,36.09
+210,Dinara,4,Anil Kumar Singh,Lohiya Janta Dal,1138,2,1140,0.61
+210,Dinara,5,Alok Kumar Singh,Rashtriya Lok Morcha,78151,187,78338,41.88
+210,Dinara,6,Manoj Kumar Singh,Nationalist Congress Party,777,4,781,0.42
+210,Dinara,7,Sanjay Kumar,Jan Suraaj Party,6356,50,6406,3.42
+210,Dinara,8,Abhishek Ranjan,Independent,623,1,624,0.33
+210,Dinara,9,Jai Kumar Singh,Independent,17756,83,17839,9.54
+210,Dinara,10,Niranjan Kumar Ray,Independent,680,1,681,0.36
+210,Dinara,11,Munna Singh,Independent,1416,1,1417,0.76
+210,Dinara,12,Rama Kant Ram,Independent,1422,0,1422,0.76
+210,Dinara,13,Nota,None of the Above,1630,1,1631,0.87
+211,Nokha,1,Anita Devi,Rashtriya Janata Dal,68688,451,69139,37.92
+211,Nokha,2,Nagendra Chandravanshi,Janata Dal (United),92815,378,93193,51.12
+211,Nokha,3,Sunita Kumari,Bahujan Samaj Party,4359,14,4373,2.4
+211,Nokha,4,Ajeet Kumar Singh,Peoples Party of India (Democratic),364,4,368,0.2
+211,Nokha,5,Arvind Kumar,Bhartiya Lok Chetna Party,1301,6,1307,0.72
+211,Nokha,6,Ashok Kumar Singh,Lohiya Janta Dal,341,0,341,0.19
+211,Nokha,7,Dhananjay Paswan,Suheldev Bharatiya Samaj Party,1377,4,1381,0.76
+211,Nokha,8,Nasrullah Khan,Jan Suraaj Party,4766,65,4831,2.65
+211,Nokha,9,Ranjan Kumar Chaudhary,Bharateeya Manavadhikar party,430,0,430,0.24
+211,Nokha,10,Santosh Kumar Singh,Rashtriya Jansambhavna Party,798,1,799,0.44
+211,Nokha,11,Sarveshwar Tiwary,Independent,2752,1,2753,1.51
+211,Nokha,12,Nota,None of the Above,3396,4,3400,1.86
+212,Dehri,1,Guddu Kumar Chandrawansi,Rashtriya Janata Dal,67622,432,68054,35.52
+212,Dehri,2,Rajeev Ranjan Singh,Lok Janshakti Party (Ram Vilas),103684,338,104022,54.29
+212,Dehri,3,Pradip Kumar Joshi,Rashtra Sewa Dal,1749,13,1762,0.92
+212,Dehri,4,Pradeep Lallan Singh,Jan Suraaj Party,4289,34,4323,2.26
+212,Dehri,5,Phate Bahadur Singh,Aazad Samaj Party (Kanshi Ram),6961,42,7003,3.66
+212,Dehri,6,Indra Raj Roushan,Independent,356,2,358,0.19
+212,Dehri,7,Md. Ekram Ansari,Independent,570,0,570,0.3
+212,Dehri,8,Ranjan Kumar,Independent,721,3,724,0.38
+212,Dehri,9,Sameer Kumar,Independent,564,1,565,0.29
+212,Dehri,10,Saroj Kumar Singh,Independent,1804,2,1806,0.94
+212,Dehri,11,Nota,None of the Above,2400,5,2405,1.26
+213,Karakat,1,Arun Singh (Vill-Ajnap Tola),Communist Party of India (Marxist-Leninist) (Liberation),73748,409,74157,37.51
+213,Karakat,2,Bandana Raj,Bahujan Samaj Party,7310,67,7377,3.73
+213,Karakat,3,Mahabali Singh,Janata Dal (United),71046,275,71321,36.07
+213,Karakat,4,Md. Irshad Khan,Lohiya Janta Dal,992,3,995,0.5
+213,Karakat,5,Nirmal Sharma,Jagrook Janta Party,549,4,553,0.28
+213,Karakat,6,Yogendra Singh,Jan Suraaj Party,7403,100,7503,3.79
+213,Karakat,7,Amit Upadhayay,Independent,495,1,496,0.25
+213,Karakat,8,Amit Kumar Mishra,Independent,662,5,667,0.34
+213,Karakat,9,Ayodhya Ram,Independent,585,2,587,0.3
+213,Karakat,10,Arun Singh (Vill-Kurur),Independent,592,8,600,0.3
+213,Karakat,11,Jyoti Singh,Independent,23351,118,23469,11.87
+213,Karakat,12,Banshidhar Singh,Independent,3019,0,3019,1.53
+213,Karakat,13,Mantu Choudhary,Independent,1206,0,1206,0.61
+213,Karakat,14,Nota,None of the Above,5760,5,5765,2.92
+214,Arwal,1,Divya Bharti,Rashtriya Lok Janshakti Party,1700,24,1724,1.01
+214,Arwal,2,Manoj Kumar,Bharatiya Janata Party,79400,454,79854,46.66
+214,Arwal,3,Mahanand Singh,Communist Party of India (Marxist-Leninist) (Liberation),65247,514,65761,38.43
+214,Arwal,4,Shekhar Ram,Bahujan Samaj Party,3706,13,3719,2.17
+214,Arwal,5,Arun Kumar,Janshakti Janta Dal,794,10,804,0.47
+214,Arwal,6,Kunti Devi,Jan Suraaj Party,3311,65,3376,1.97
+214,Arwal,7,Pancham Kumar,Suheldev Bharatiya Samaj Party,3173,3,3176,1.86
+214,Arwal,8,Mansur Alam,Aam Janta Pragati Party,261,3,264,0.15
+214,Arwal,9,Vikash Kumar,Desh Janhit Party,343,0,343,0.2
+214,Arwal,10,Amitesh Kumar,Independent,1608,9,1617,0.94
+214,Arwal,11,Kajal Devi,Independent,433,3,436,0.25
+214,Arwal,12,Chandra Shekhar Yadav,Independent,563,3,566,0.33
+214,Arwal,13,Manoj Kumar Santosh,Independent,1434,5,1439,0.84
+214,Arwal,14,Veerendra Prasad,Independent,3879,0,3879,2.27
+214,Arwal,15,Satyendra Prasad Sharma,Independent,2722,4,2726,1.59
+214,Arwal,16,Nota,None of the Above,1442,9,1451,0.85
+215,Kurtha,1,Arun Kumar Alias Arun Kushwaha,Rashtriya Lok Samta Party,1420,8,1428,0.86
+215,Kurtha,2,Ashok Kumar,Bahujan Samaj Party,3321,17,3338,2.01
+215,Kurtha,3,Uma Shankar Sharan,Aam Aadmi Party,1441,3,1444,0.87
+215,Kurtha,4,Kumar Krishna Mohan Urf Suday Yadav,Rashtriya Janata Dal,68577,408,68985,41.59
+215,Kurtha,5,Pappu Kumar Verma,Janata Dal (United),74089,377,74466,44.9
+215,Kurtha,6,Rambali Singh,Jan Suraaj Party,4996,34,5030,3.03
+215,Kurtha,7,Rupesh Kumar,Socialist Unity Centre Of India (COMMUNIST),929,1,930,0.56
+215,Kurtha,8,Avinash Kumar,Independent,474,2,476,0.29
+215,Kurtha,9,Niraj Kumar,Independent,1200,1,1201,0.72
+215,Kurtha,10,Buddhadev Sav,Independent,2326,1,2327,1.4
+215,Kurtha,11,Raushan Kumar,Independent,1639,3,1642,0.99
+215,Kurtha,12,Vikash Kumar,Independent,1353,0,1353,0.82
+215,Kurtha,13,Vinod Kumar,Independent,1460,4,1464,0.88
+215,Kurtha,14,Nota,None of the Above,1778,5,1783,1.07
+216,Jehanabad,1,Chandeshwar Prasad,Janata Dal (United),85168,441,85609,44.23
+216,Jehanabad,2,Pramod Yadav,Rashtriya Lok Janshakti Party,921,6,927,0.48
+216,Jehanabad,3,Baleshwar Singh,Aam Aadmi Party,1172,3,1175,0.61
+216,Jehanabad,4,Rahul Kumar,Rashtriya Janata Dal,85706,696,86402,44.64
+216,Jehanabad,5,Abhiram Singh,Jan Suraaj Party,5674,86,5760,2.98
+216,Jehanabad,6,Nitish Kumar,Bhagidari Party(P),899,6,905,0.47
+216,Jehanabad,7,Rambha Kumari,Samajwadi Lok Parishad,498,1,499,0.26
+216,Jehanabad,8,Raju Kumar,Socialist Unity Centre Of India (COMMUNIST),931,1,932,0.48
+216,Jehanabad,9,Siddhanath Kumar,Kisan Sangharsh Samiti,1151,0,1151,0.59
+216,Jehanabad,10,Bablu Kumar,Independent,1262,12,1274,0.66
+216,Jehanabad,11,Ritesh Kumar,Independent,4316,14,4330,2.24
+216,Jehanabad,12,Nota,None of the Above,4561,16,4577,2.36
+217,Ghosi,1,Anuradha Sinha,Bahujan Samaj Party,3688,27,3715,2.17
+217,Ghosi,2,Rambali Singh Yadav,Communist Party of India (Marxist-Leninist) (Liberation),68408,403,68811,40.1
+217,Ghosi,3,Rituraj Kumar,Janata Dal (United),80203,537,80740,47.05
+217,Ghosi,4,Indu Kumari,Socialist Unity Centre Of India (COMMUNIST),1835,7,1842,1.07
+217,Ghosi,5,Prabhat Kumar,Jan Suraaj Party,3013,57,3070,1.79
+217,Ghosi,6,Rakesh Roushan,Aam Janta Party Rashtriya,830,6,836,0.49
+217,Ghosi,7,Vijay Sharma,Bhartiya Sarthak Party,565,2,567,0.33
+217,Ghosi,8,Saryu Prasad Singh,Kisan Sangharsh Samiti,440,1,441,0.26
+217,Ghosi,9,Rajesh Ranjan,Independent,1926,5,1931,1.13
+217,Ghosi,10,Wasif Husnain,Independent,3493,0,3493,2.04
+217,Ghosi,11,Satyendra Prasad Yadav,Independent,3071,2,3073,1.79
+217,Ghosi,12,Nota,None of the Above,3063,10,3073,1.79
+218,Makhdumpur,1,Chhotelal Paswan,Rashtriya Lok Janshakti Party,1723,10,1733,1.04
+218,Makhdumpur,2,Rani Kumari,Lok Janshakti Party (Ram Vilas),72535,404,72939,43.83
+218,Makhdumpur,3,Sudhir Choudhary,Bahujan Samaj Party,3503,14,3517,2.11
+218,Makhdumpur,4,Subedar Das,Rashtriya Janata Dal,74389,380,74769,44.93
+218,Makhdumpur,5,Dinesh Paswan,Kisan Sangharsh Samiti,1143,2,1145,0.69
+218,Makhdumpur,6,Prem Kishor Paswan,Bhartiya Lok Chetna Party,790,2,792,0.48
+218,Makhdumpur,7,Shankar Swarup,Jan Suraaj Party,4740,63,4803,2.89
+218,Makhdumpur,8,Minta Devi,Independent,1180,4,1184,0.71
+218,Makhdumpur,9,Shailendra Chaudhari,Independent,2756,1,2757,1.66
+218,Makhdumpur,10,Nota,None of the Above,2756,4,2760,1.66
+219,Goh,1,Amrendra Kumar,Rashtriya Janata Dal,93243,381,93624,44.23
+219,Goh,2,Dr. Ranvijay Kumar,Bharatiya Janata Party,89282,301,89583,42.32
+219,Goh,3,Sanjay Prasad Alias Er. Sanjay Prasad Kushwaha,Bahujan Samaj Party,1938,8,1946,0.92
+219,Goh,4,Arun Kumar Amar,Socialist Party (India),486,1,487,0.23
+219,Goh,5,Md Eklakha,Aazad Samaj Party (Kanshi Ram),6613,18,6631,3.13
+219,Goh,6,Sitaram Dukhari,Jan Suraaj Party,7949,47,7996,3.78
+219,Goh,7,Sonu Kumar,Jagrook Janta Party,1369,2,1371,0.65
+219,Goh,8,Amit Kumar,Independent,890,3,893,0.42
+219,Goh,9,Mundrika Prasad,Independent,452,0,452,0.21
+219,Goh,10,Rajeev Ranjan,Independent,922,0,922,0.44
+219,Goh,11,Shiv Shanker Singh,Independent,3114,1,3115,1.47
+219,Goh,12,Nota,None of the Above,4646,3,4649,2.2
+220,Obra,1,Rishi Kumar,Rashtriya Janata Dal,79025,600,79625,38.95
+220,Obra,2,Prakash Chandra,Lok Janshakti Party (Ram Vilas),91177,461,91638,44.83
+220,Obra,3,Pratima Kumari,Rashtriya Lok Janshakti Party,1089,7,1096,0.54
+220,Obra,4,Sanjay Kumar,Bahujan Samaj Party,7873,23,7896,3.86
+220,Obra,5,Ajit Kumar,Aam Janta Party Rashtriya,369,4,373,0.18
+220,Obra,6,Uday Narayan Rajbhar,Suheldev Bharatiya Samaj Party,3968,0,3968,1.94
+220,Obra,7,Jaynand Ram,New India United Party,300,1,301,0.15
+220,Obra,8,Jitendra Dubey,Akhil Bharatiya Jan Sangh,484,1,485,0.24
+220,Obra,9,Dharmendra Kumar,Jagrook Janta Party,610,3,613,0.3
+220,Obra,10,Dr. Dharmendra Kumar,Akhil Hind Forward Bloc (Krantikari),369,2,371,0.18
+220,Obra,11,Sudhir Kumar Sharma,Jan Suraaj Party,3707,72,3779,1.85
+220,Obra,12,Som Prakash,Swaraj Party (Loktantrik),1674,12,1686,0.82
+220,Obra,13,Dhiraj Kumar,Independent,480,2,482,0.24
+220,Obra,14,Braj Kishor Singh,Independent,829,0,829,0.41
+220,Obra,15,Md Taufique Alam,Independent,4564,2,4566,2.23
+220,Obra,16,Ram Raj Yadav,Independent,2820,0,2820,1.38
+220,Obra,17,Shiv Nath Sav,Independent,1398,0,1398,0.68
+220,Obra,18,Harisant Kumar,Independent,1574,3,1577,0.77
+220,Obra,19,Nota,None of the Above,912,7,919,0.45
+221,Nabinagar,1,Amod Kumar Singh,Rashtriya Janata Dal,79977,291,80268,42.23
+221,Nabinagar,2,Chetan Anand,Janata Dal (United),80115,265,80380,42.29
+221,Nabinagar,3,Vinod Kumar,Bahujan Samaj Party,6578,17,6595,3.47
+221,Nabinagar,4,Ajay Bhuiyan,Swaraj Party (Loktantrik),707,2,709,0.37
+221,Nabinagar,5,Anil Ram,Socialist Unity Centre Of India (COMMUNIST),904,2,906,0.48
+221,Nabinagar,6,Archana Chandra,Jan Suraaj Party,4033,52,4085,2.15
+221,Nabinagar,7,Dharmendra Rajwar,Suheldev Bharatiya Samaj Party,2333,3,2336,1.23
+221,Nabinagar,8,Mritunjay Kumar,Independent,3652,18,3670,1.93
+221,Nabinagar,9,Lav Kumar Singh,Independent,7050,25,7075,3.72
+221,Nabinagar,10,Nota,None of the Above,4037,5,4042,2.13
+222,Kutumba,1,Prakash Kumar,Bahujan Samaj Party,2538,11,2549,1.47
+222,Kutumba,2,Rajesh Kumar,Indian National Congress,62922,280,63202,36.4
+222,Kutumba,3,Angad Kumar,Gana Suraksha Party,1411,1,1412,0.81
+222,Kutumba,4,Ram Janam Ram,Aazad Samaj Party (Kanshi Ram),6014,8,6022,3.47
+222,Kutumba,5,Rima Kumari,Rashtrawadi Janlok Party (Satya),1019,0,1019,0.59
+222,Kutumba,6,Lalan Ram,Hindustani Awam Morcha (Secular),84465,262,84727,48.79
+222,Kutumba,7,Shyambali Ram,Jan Suraaj Party,6029,36,6065,3.49
+222,Kutumba,8,Narendra Kumar Ram,Independent,860,4,864,0.5
+222,Kutumba,9,Pushp Lata Devi,Independent,1424,3,1427,0.82
+222,Kutumba,10,Rakesh Ram,Independent,1165,0,1165,0.67
+222,Kutumba,11,Viramanu Kumar Bhushan,Independent,2575,3,2578,1.48
+222,Kutumba,12,Nota,None of the Above,2610,4,2614,1.51
+223,Aurangabad,1,Anand Shankar Singh,Indian National Congress,79761,645,80406,40
+223,Aurangabad,2,Trivikram Narayan Singh,Bharatiya Janata Party,86837,363,87200,43.38
+223,Aurangabad,3,Shakti Kumar Mishra,Bahujan Samaj Party,19682,94,19776,9.84
+223,Aurangabad,4,Nand Kishor Yadav,Jan Suraaj Party,2723,32,2755,1.37
+223,Aurangabad,5,Prayag Paswan,Socialist Unity Centre Of India (COMMUNIST),293,4,297,0.15
+223,Aurangabad,6,Vinay Kumar Singh,Akhil Hind Forward Bloc (Krantikari),302,0,302,0.15
+223,Aurangabad,7,Ajit Kumar,Independent,198,0,198,0.1
+223,Aurangabad,8,Ashish Kumar Soni,Independent,258,0,258,0.13
+223,Aurangabad,9,Dhirendra Kumar Singh,Independent,273,0,273,0.14
+223,Aurangabad,10,Neha Kumari,Independent,370,2,372,0.19
+223,Aurangabad,11,Binod Prasad Chaudhari,Independent,339,1,340,0.17
+223,Aurangabad,12,Ram Swarup Paswan,Independent,654,4,658,0.33
+223,Aurangabad,13,Rambahadur Singh,Independent,618,0,618,0.31
+223,Aurangabad,14,Loknath Singh,Independent,1335,0,1335,0.66
+223,Aurangabad,15,Surendra Prasad,Independent,2854,0,2854,1.42
+223,Aurangabad,16,Nota,None of the Above,3346,6,3352,1.67
+224,Rafiganj,1,Ghulam Shahid,Rashtriya Janata Dal,95198,361,95559,42.61
+224,Rafiganj,2,Pramod Kumar Singh,Janata Dal (United),107120,395,107515,47.95
+224,Rafiganj,3,Suman Kumari,Bahujan Samaj Party,4410,22,4432,1.98
+224,Rafiganj,4,Maheshwar Paswan,Akhil Hind Forward Bloc (Krantikari),430,4,434,0.19
+224,Rafiganj,5,Rajesh Kumar,Sampoorna Bharat Kranti Party,247,0,247,0.11
+224,Rafiganj,6,Rahul Kumar,Jagrook Janta Party,437,1,438,0.2
+224,Rafiganj,7,Vikash Kumar Singh,Jan Suraaj Party,3008,21,3029,1.35
+224,Rafiganj,8,Upendra Kumar,Independent,555,0,555,0.25
+224,Rafiganj,9,Nandlal Suman,Independent,1051,0,1051,0.47
+224,Rafiganj,10,Ritesh Kumar,Independent,773,1,774,0.35
+224,Rafiganj,11,Sat Narain,Independent,1031,1,1032,0.46
+224,Rafiganj,12,Suryadeep Singh,Independent,4214,1,4215,1.88
+224,Rafiganj,13,Nota,None of the Above,4954,4,4958,2.21
+225,Gurua,1,Upendra Prasad,Bharatiya Janata Party,99423,335,99758,49.02
+225,Gurua,2,Nitish Kumar,Rashtriya Lok Janshakti Party,1143,5,1148,0.56
+225,Gurua,3,Raghvendra Narayan Yadav,Bahujan Samaj Party,8211,31,8242,4.05
+225,Gurua,4,Vinay Kumar,Rashtriya Janata Dal,75235,329,75564,37.13
+225,Gurua,5,Anil Singh,Yuva Samriddhi Dal,1170,1,1171,0.58
+225,Gurua,6,Gautam Kumar,Swaraj Party (Loktantrik),520,3,523,0.26
+225,Gurua,7,Dharmendra Narayan,Rashtriya Jantantrik Morcha,600,0,600,0.29
+225,Gurua,8,Sanjeeva Shyam Singh,Jan Suraaj Party,4348,52,4400,2.16
+225,Gurua,9,Samta Kumar,Akhil Hind Forward Bloc (Krantikari),575,0,575,0.28
+225,Gurua,10,Syed Imran Nabi,Aazad Samaj Party (Kanshi Ram),3509,5,3514,1.73
+225,Gurua,11,Nagdev Paswan,Independent,1890,2,1892,0.93
+225,Gurua,12,Mahendra Kumar,Independent,1034,1,1035,0.51
+225,Gurua,13,Rajendra Kumar,Independent,1140,0,1140,0.56
+225,Gurua,14,Nota,None of the Above,3942,4,3946,1.94
+226,Sherghati,1,Uday Kumar Singh,Lok Janshakti Party (Ram Vilas),77118,152,77270,38.13
+226,Sherghati,2,Pramod Kumar Verma,Rashtriya Janata Dal,63468,278,63746,31.46
+226,Sherghati,3,Shailesh Kumar Mishra,Bahujan Samaj Party,2725,20,2745,1.35
+226,Sherghati,4,Karan Raj,Moulik Adhikar Party,1534,1,1535,0.76
+226,Sherghati,5,Pankaj Kumar Mishra,Samajwadi Lok Parishad,695,0,695,0.34
+226,Sherghati,6,Pawan Kishore,Jan Suraaj Party,18859,123,18982,9.37
+226,Sherghati,7,Shane Ali Khan,All India Majlis-E-Ittehadul Muslimeen,14722,32,14754,7.28
+226,Sherghati,8,Santosh Thakur,Swaraj Party (Loktantrik),771,3,774,0.38
+226,Sherghati,9,Chandradev Kumar Yadav,Independent,671,1,672,0.33
+226,Sherghati,10,Mukesh Kumar Yadav,Independent,2695,12,2707,1.34
+226,Sherghati,11,Rajiv Kumar,Independent,938,2,940,0.46
+226,Sherghati,12,Shavina Pravin,Independent,1309,0,1309,0.65
+226,Sherghati,13,Sarju Das Jee Maharaj,Independent,1258,1,1259,0.62
+226,Sherghati,14,Surendra Kumar Suman,Independent,8253,31,8284,4.09
+226,Sherghati,15,Nota,None of the Above,6967,1,6968,3.44
+227,Imamganj,1,Ritu Priya Chaudhary,Rashtriya Janata Dal,78758,247,79005,38.3
+227,Imamganj,2,Dr. Ajeet Kumar,Jan Suraaj Party,11834,78,11912,5.77
+227,Imamganj,3,Deepa Kumari,Hindustani Awam Morcha (Secular),104650,211,104861,50.83
+227,Imamganj,4,Banarsi Das,Peoples Party of India (Democratic),2048,1,2049,0.99
+227,Imamganj,5,Vigan Paswan,New India United Party,1123,2,1125,0.55
+227,Imamganj,6,Tengar Paswan,Independent,2312,1,2313,1.12
+227,Imamganj,7,Rambali Rishiashan,Independent,1419,1,1420,0.69
+227,Imamganj,8,Nota,None of the Above,3596,0,3596,1.74
+228,Barachatti,1,Tanushree Kumari,Rashtriya Janata Dal,99047,331,99378,43.54
+228,Barachatti,2,G S Ramchandra Das,Bahujan Samaj Party,3138,12,3150,1.38
+228,Barachatti,3,Shivnath Kumar Nirala,Rashtriya Lok Janshakti Party,1184,8,1192,0.52
+228,Barachatti,4,Arjun Bhuiyan,Vikas Vanchit Insan Party,865,1,866,0.38
+228,Barachatti,5,Indradev Paswan,Rashtriya Jansambhavna Party,1495,1,1496,0.66
+228,Barachatti,6,Jyoti Devi,Hindustani Awam Morcha (Secular),108059,212,108271,47.44
+228,Barachatti,7,Manoj Paswan,Peoples Party of India (Democratic),2658,3,2661,1.17
+228,Barachatti,8,Sanjay Mandal,Socialist Party (India),718,2,720,0.32
+228,Barachatti,9,Hemant Kumar,Jan Suraaj Party,3944,23,3967,1.74
+228,Barachatti,10,Rahul Kumar,Independent,859,0,859,0.38
+228,Barachatti,11,Vinay Paswan,Independent,1346,0,1346,0.59
+228,Barachatti,12,Nota,None of the Above,4322,7,4329,1.9
+229,Bodh Gaya,1,Kumar Sarvjeet,Rashtriya Janata Dal,99717,519,100236,43.38
+229,Bodh Gaya,2,Shyamdeo Paswan,Lok Janshakti Party (Ram Vilas),99089,266,99355,43
+229,Bodh Gaya,3,Ashok Kumar Paswan,Vikas Vanchit Insan Party,3674,1,3675,1.59
+229,Bodh Gaya,4,Uday Das,Peoples Party of India (Democratic),1536,7,1543,0.67
+229,Bodh Gaya,5,Lakshman Manjhi,Jan Suraaj Party,3983,41,4024,1.74
+229,Bodh Gaya,6,Virendra Rajvanshi Alias Bigendra Kumar,Suheldev Bharatiya Samaj Party,1002,3,1005,0.43
+229,Bodh Gaya,7,Sugiya Devi,Moolniwasi Samaj Party,653,0,653,0.28
+229,Bodh Gaya,8,Kumar Pardeep,Independent,1110,4,1114,0.48
+229,Bodh Gaya,9,Nandlal Kumar,Independent,10147,34,10181,4.41
+229,Bodh Gaya,10,Ramswrup Rishiyasan,Independent,3327,0,3327,1.44
+229,Bodh Gaya,11,Nota,None of the Above,5956,4,5960,2.58
+230,Gaya Town,1,Akhaury Onkar Nath,Indian National Congress,64143,312,64455,38.61
+230,Gaya Town,2,Anil Kumar,Aam Aadmi Party,568,2,570,0.34
+230,Gaya Town,3,Prem Kumar,Bharatiya Janata Party,90529,349,90878,54.43
+230,Gaya Town,4,Rafatali Khan,Bahujan Samaj Party,722,2,724,0.43
+230,Gaya Town,5,Amrendra Kumar,Rashtriya Sanatan Party,187,0,187,0.11
+230,Gaya Town,6,Dhirendra Agarwal,Jan Suraaj Party,4413,66,4479,2.68
+230,Gaya Town,7,Purushottam Kumar Sinha,Samaj Satta Dal,101,1,102,0.06
+230,Gaya Town,8,Md. Mansur Ansari,Peace Party,135,1,136,0.08
+230,Gaya Town,9,Munna Kumar,Samajwadi Lok Parishad,98,0,98,0.06
+230,Gaya Town,10,Mohan Kumar,Gantantrik Samaj Party,335,1,336,0.2
+230,Gaya Town,11,Raj Kishor Singh,Peoples Party of India (Democratic),272,2,274,0.16
+230,Gaya Town,12,Kashi Prasad,Independent,240,2,242,0.14
+230,Gaya Town,13,Naresh Parsad,Independent,242,1,243,0.15
+230,Gaya Town,14,Prem Kumar S/O-Ayodhya Saw,Independent,738,1,739,0.44
+230,Gaya Town,15,Prem Kumar S/O-Vishnahari Upadhyay,Independent,284,1,285,0.17
+230,Gaya Town,16,Mukesh Kumar Sinha,Independent,1115,0,1115,0.67
+230,Gaya Town,17,Ravi Ranjan,Independent,631,5,636,0.38
+230,Gaya Town,18,Shiwam Kumar Sinha,Independent,90,0,90,0.05
+230,Gaya Town,19,Shish Mani Kumar,Independent,347,0,347,0.21
+230,Gaya Town,20,Sanjeet Kumar,Independent,97,2,99,0.06
+230,Gaya Town,21,Md Samim,Independent,187,0,187,0.11
+230,Gaya Town,22,Hasab Akhtar,Independent,100,0,100,0.06
+230,Gaya Town,23,Nota,None of the Above,626,10,636,0.38
+231,Tikari,1,Ajay Kumar,Rashtriya Janata Dal,97017,533,97550,45.79
+231,Tikari,2,Uday Paswan,Bahujan Samaj Party,2783,24,2807,1.32
+231,Tikari,3,Anil Kumar,Hindustani Awam Morcha (Secular),94957,535,95492,44.83
+231,Tikari,4,Dharmendra Paswan,Samata Party,1136,6,1142,0.54
+231,Tikari,5,Ramjeet Singh,Rashtriya Jansambhavna Party,666,3,669,0.31
+231,Tikari,6,Shaktiman Stutya,Vocal India Party,281,0,281,0.13
+231,Tikari,7,Shashi Kumar,Jan Suraaj Party,2490,62,2552,1.2
+231,Tikari,8,Ashok Kumar,Independent,466,2,468,0.22
+231,Tikari,9,Kundan Kumar,Independent,467,4,471,0.22
+231,Tikari,10,Manoj Kumar Bharti,Independent,1420,5,1425,0.67
+231,Tikari,11,Munna Kumar,Independent,2166,4,2170,1.02
+231,Tikari,12,Subodh Kumar Singh,Independent,3704,26,3730,1.75
+231,Tikari,13,Nota,None of the Above,4264,4,4268,2
+232,Belaganj,1,Madhumala Kumari,Aam Aadmi Party,2202,2,2204,1.08
+232,Belaganj,2,Manorma Devi,Janata Dal (United),95218,467,95685,46.67
+232,Belaganj,3,Vishvanath Kumar Singh,Rashtriya Janata Dal,92345,458,92803,45.27
+232,Belaganj,4,Md. Abdullah,Bharatiya Sampuran Krantikari Party,962,5,967,0.47
+232,Belaganj,5,Richa Jha,Samajwadi Lok Parishad,621,3,624,0.3
+232,Belaganj,6,Krishna Prasad Singh,Peoples Party of India (Democratic),344,3,347,0.17
+232,Belaganj,7,Taravej Alam,The National Road Map Party of India,258,0,258,0.13
+232,Belaganj,8,Md. Shahabuddin,Jan Suraaj Party,1598,23,1621,0.79
+232,Belaganj,9,Md. Istiyaque Ahmad,Independent,835,2,837,0.41
+232,Belaganj,10,Rahul Ranjan,Independent,1267,1,1268,0.62
+232,Belaganj,11,Lalu Yadav,Independent,2767,2,2769,1.35
+232,Belaganj,12,Vibhuti Narayan Singh,Independent,2562,0,2562,1.25
+232,Belaganj,13,Nota,None of the Above,3065,9,3074,1.5
+233,Atri,1,Baijayanti Devi,Rashtriya Janata Dal,75973,352,76325,38.62
+233,Atri,2,Md. Vakil Varish,Bahujan Samaj Party,2802,15,2817,1.43
+233,Atri,3,Avinash Kumar Sonu,Janshakti Janta Dal,1013,13,1026,0.52
+233,Atri,4,Akash Kumar,Jagrook Janta Party,1134,3,1137,0.58
+233,Atri,5,Romit Kumar,Hindustani Awam Morcha (Secular),101838,264,102102,51.66
+233,Atri,6,Shailendra Kumar,Jan Suraaj Party,3136,41,3177,1.61
+233,Atri,7,Sahil Kumar,Peoples Party of India (Democratic),1118,2,1120,0.57
+233,Atri,8,Anju Devi,Independent,810,4,814,0.41
+233,Atri,9,Chandan,Independent,2110,2,2112,1.07
+233,Atri,10,Vidyabhushan Kumar,Independent,1337,6,1343,0.68
+233,Atri,11,Sudhir Kumar,Independent,932,1,933,0.47
+233,Atri,12,Subhash Kumar Sinha,Independent,1223,0,1223,0.62
+233,Atri,13,Nota,None of the Above,3511,5,3516,1.78
+234,Wazirganj,1,Awadhesh Kumar Singh,Indian National Congress,81359,482,81841,38.93
+234,Wazirganj,2,Chitranjan Kumar,Bahujan Samaj Party,14233,70,14303,6.8
+234,Wazirganj,3,Mohammad Julkar Nain,Rashtriya Lok Janshakti Party,990,4,994,0.47
+234,Wazirganj,4,Birendra Singh,Bharatiya Janata Party,94184,390,94574,44.99
+234,Wazirganj,5,Prem Kumar,Janshakti Janta Dal,1315,1,1316,0.63
+234,Wazirganj,6,Shambhu Sharan Sheromani,Jagrook Janta Party,664,2,666,0.32
+234,Wazirganj,7,Santosh Kumar,Jan Suraaj Party,4950,67,5017,2.39
+234,Wazirganj,8,Sunil Kumar,Peoples Party of India (Democratic),904,4,908,0.43
+234,Wazirganj,9,Suresh Rajvanshi,Moolniwasi Samaj Party,1979,1,1980,0.94
+234,Wazirganj,10,Chandan Kumar,Independent,2251,0,2251,1.07
+234,Wazirganj,11,Pikan Manjhi,Independent,758,2,760,0.36
+234,Wazirganj,12,Sanjay Kumar,Independent,1142,0,1142,0.54
+234,Wazirganj,13,Nota,None of the Above,4452,8,4460,2.12
+235,Rajauli,1,Akhlesh Kumar,Bahujan Samaj Party,3824,8,3832,1.91
+235,Rajauli,2,Pinki Bharti,Rashtriya Janata Dal,85906,413,86319,43.01
+235,Rajauli,3,Pratima Kumari,Rashtriya Lok Janshakti Party,2255,7,2262,1.13
+235,Rajauli,4,Ranjit Kumar,Aam Aadmi Party,1201,5,1206,0.6
+235,Rajauli,5,Vimal Rajbanshi,Lok Janshakti Party (Ram Vilas),90097,175,90272,44.98
+235,Rajauli,6,Chandan Kumar,Suheldev Bharatiya Samaj Party,2159,1,2160,1.08
+235,Rajauli,7,Naresh Chaudhari,Jan Suraaj Party,3296,25,3321,1.65
+235,Rajauli,8,Prakash Vir,Janshakti Janta Dal,2842,14,2856,1.42
+235,Rajauli,9,Gorelal Chaudhary,Independent,1011,2,1013,0.5
+235,Rajauli,10,Ramanand Chaudhary,Independent,1053,1,1054,0.53
+235,Rajauli,11,Vijay Kameshwar Paswan,Independent,2119,1,2120,1.06
+235,Rajauli,12,Nota,None of the Above,4284,2,4286,2.14
+236,Hisua,1,Anil Singh,Bharatiya Janata Party,95490,395,95885,44.4
+236,Hisua,2,Dinanath Thakur,Rashtriya Lok Janshakti Party,1530,2,1532,0.71
+236,Hisua,3,Nitu Kumari,Indian National Congress,67689,347,68036,31.51
+236,Hisua,4,Sunil Kumar,Bahujan Samaj Party,1499,4,1503,0.7
+236,Hisua,5,Anil Kumar,Indian National Socialistic Action Forces,1298,1,1299,0.6
+236,Hisua,6,Daya Nand Prasad,Vikas Vanchit Insan Party,604,1,605,0.28
+236,Hisua,7,Pawan Kumar,Peoples Party of India (Democratic),569,3,572,0.26
+236,Hisua,8,Ramanandan Rajavanshi,Suheldev Bharatiya Samaj Party,595,1,596,0.28
+236,Hisua,9,Rambalak Sharma,Jagrook Janta Party,839,3,842,0.39
+236,Hisua,10,Sury Dev Prasad,Jan Suraaj Party,5012,51,5063,2.34
+236,Hisua,11,Ajad Geeta Prasad Sharma,Independent,1381,0,1381,0.64
+236,Hisua,12,Dharmendra Kumar,Independent,27821,50,27871,12.91
+236,Hisua,13,Sunil Kumar Nirala,Independent,3869,1,3870,1.79
+236,Hisua,14,Sonali Kumari,Independent,1945,4,1949,0.9
+236,Hisua,15,Nota,None of the Above,4938,3,4941,2.29
+237,Nawada,1,Ashok Kumar,Bahujan Samaj Party,2282,3,2285,1.13
+237,Nawada,2,Kaushal Yadav,Rashtriya Janata Dal,59482,347,59829,29.69
+237,Nawada,3,Vibha Devi,Janata Dal (United),86985,438,87423,43.39
+237,Nawada,4,Anita Kumari,Bhartiya Lok Chetna Party,3087,24,3111,1.54
+237,Nawada,5,Anuj Singh,Jan Suraaj Party,19185,164,19349,9.6
+237,Nawada,6,Nasima Khatoon,All India Majlis-E-Ittehadul Muslimeen,12778,57,12835,6.37
+237,Nawada,7,Subhash Singh,Indian National Socialistic Action Forces,658,1,659,0.33
+237,Nawada,8,Jitendra Prasad,Independent,1983,12,1995,0.99
+237,Nawada,9,Prem Kumar,Independent,1702,2,1704,0.85
+237,Nawada,10,Manoj Kumar,Independent,1862,0,1862,0.92
+237,Nawada,11,Ravish Kumar,Independent,4316,1,4317,2.14
+237,Nawada,12,Bibha Kumari,Independent,2855,2,2857,1.42
+237,Nawada,13,Nota,None of the Above,3264,4,3268,1.62
+238,Gobindpur,1,Purnima Yadav,Rashtriya Janata Dal,49461,214,49675,27.46
+238,Gobindpur,2,Binita Mehta,Lok Janshakti Party (Ram Vilas),72360,221,72581,40.12
+238,Gobindpur,3,Poonam Kumari,Jan Suraaj Party,3901,16,3917,2.17
+238,Gobindpur,4,Mukesh Ram,Suheldev Bharatiya Samaj Party,2961,4,2965,1.64
+238,Gobindpur,5,Sanjay Yadav,Indian National Socialistic Action Forces,698,0,698,0.39
+238,Gobindpur,6,Subhash Kumar,Jagrook Janta Party,1574,5,1579,0.87
+238,Gobindpur,7,Mohammed Kamran,Independent,39621,192,39813,22.01
+238,Gobindpur,8,Rahul Kumar,Independent,1656,1,1657,0.92
+238,Gobindpur,9,Surjeet Kumar,Independent,3611,0,3611,2
+238,Gobindpur,10,Nota,None of the Above,4402,2,4404,2.43
+239,Warsaliganj,1,Anita,Rashtriya Janata Dal,97493,340,97833,48.72
+239,Warsaliganj,2,Aruna Devi,Bharatiya Janata Party,89877,413,90290,44.96
+239,Warsaliganj,3,Akhlaqur Rahman Mallick,Rashtriya Secular Majlis Party,1455,7,1462,0.73
+239,Warsaliganj,4,Umesh Prasad,Jan Suraaj Party,1609,17,1626,0.81
+239,Warsaliganj,5,Nandlal Sharma,Jagrook Janta Party,461,1,462,0.23
+239,Warsaliganj,6,Surendra Paswan,Indian National Socialistic Action Forces,345,3,348,0.17
+239,Warsaliganj,7,Umakant,Independent,387,0,387,0.19
+239,Warsaliganj,8,Nayan Kumar,Independent,1436,7,1443,0.72
+239,Warsaliganj,9,Rakesh Kumar,Independent,2861,0,2861,1.42
+239,Warsaliganj,10,Nota,None of the Above,4101,1,4102,2.04
+240,Sikandra,1,Uday Narain Choudhary,Rashtriya Janata Dal,67577,119,67696,34.85
+240,Sikandra,2,Ramadhin Paswan,Rashtriya Lok Janshakti Party,1537,14,1551,0.8
+240,Sikandra,3,Vinod Kumar Chaudhary,Indian National Congress,1792,11,1803,0.93
+240,Sikandra,4,Santosh Kumar Das,Bahujan Samaj Party,1156,4,1160,0.6
+240,Sikandra,5,Praphull Kumar Manjhi,Hindustani Awam Morcha (Secular),91480,123,91603,47.16
+240,Sikandra,6,Manoj Kumar Das,All India Majlis-E-Ittehadul Muslimeen,10694,7,10701,5.51
+240,Sikandra,7,Subhash Chandra Bosh,Jan Suraaj Party,12233,65,12298,6.33
+240,Sikandra,8,Uday Ravidas,Independent,1348,1,1349,0.69
+240,Sikandra,9,Priyanka Kumari,Independent,982,4,986,0.51
+240,Sikandra,10,Sangeeta Paswan,Independent,1251,0,1251,0.64
+240,Sikandra,11,Nota,None of the Above,3824,1,3825,1.97
+241,Jamui,1,Mahavir Yadav,Bahujan Samaj Party,1389,3,1392,0.64
+241,Jamui,2,Mohammad Shamsad Alam,Rashtriya Janata Dal,69196,174,69370,31.93
+241,Jamui,3,Ramashish Yadav,Aam Aadmi Party,1393,3,1396,0.64
+241,Jamui,4,Shreyasi Singh,Bharatiya Janata Party,123654,214,123868,57.02
+241,Jamui,5,Anil Prasad Sah,Jan Suraaj Party,5868,37,5905,2.72
+241,Jamui,6,Pramod Mishra,Samaj Satta Dal,422,0,422,0.19
+241,Jamui,7,Amrendra Alias Khokhan Singh,Independent,4969,13,4982,2.29
+241,Jamui,8,Om Prakash Yadav,Independent,422,0,422,0.19
+241,Jamui,9,Rupesh Singh,Independent,1250,1,1251,0.58
+241,Jamui,10,Santosh Kumar Yadav,Independent,2528,0,2528,1.16
+241,Jamui,11,Md. Samir,Independent,1151,0,1151,0.53
+241,Jamui,12,Sushant Kumar Singh,Independent,1873,0,1873,0.86
+241,Jamui,13,Nota,None of the Above,2683,4,2687,1.24
+242,Jhajha,1,Amarjeet Kumar Singh,National People's Party,3276,2,3278,1.34
+242,Jhajha,2,Jay Prakash Narayan Yadav,Rashtriya Janata Dal,103934,121,104055,42.67
+242,Jhajha,3,Damodar Rawat,Janata Dal (United),108158,159,108317,44.42
+242,Jhajha,4,Shivaraj Yadav,Bahujan Samaj Party,2005,2,2007,0.82
+242,Jhajha,5,Kedar Kumar Mandal,Apni Janta Party,964,0,964,0.4
+242,Jhajha,6,Nilendu Dutta Mishara,Jan Suraaj Party,6125,23,6148,2.52
+242,Jhajha,7,Nemo Devi,Independent,1758,1,1759,0.72
+242,Jhajha,8,Mohammad Irfan,Independent,9577,1,9578,3.93
+242,Jhajha,9,Ravindra Yadav,Independent,3139,2,3141,1.29
+242,Jhajha,10,Nota,None of the Above,4614,5,4619,1.89
+243,Chakai,1,Allaudin Ansari,Rashtriya Lok Janshakti Party,3665,2,3667,1.57
+243,Chakai,2,Savitri Devi,Rashtriya Janata Dal,80275,82,80357,34.51
+243,Chakai,3,Sumit Kumar Singh,Janata Dal (United),67310,75,67385,28.94
+243,Chakai,4,Naresh Kumar Sharma,Jagrook Janta Party,1265,0,1265,0.54
+243,Chakai,5,Rahul Kumar,Jan Suraaj Party,1894,4,1898,0.82
+243,Chakai,6,Alijaveth Soren,Independent,6815,13,6828,2.93
+243,Chakai,7,Chandan Kumar Singh,Independent,12484,18,12502,5.37
+243,Chakai,8,Ranjit Kumar Verma,Independent,2394,0,2394,1.03
+243,Chakai,9,Sanjay Prasad,Independent,48026,39,48065,20.64
+243,Chakai,10,Sosana Murmu,Independent,3980,0,3980,1.71
+243,Chakai,11,Nota,None of the Above,4519,3,4522,1.94
