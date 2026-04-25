@@ -8,24 +8,33 @@ from datetime import datetime
 import os
 import requests
 from dotenv import load_dotenv
-load_dotenv()
+load_dotenv(override=True)
 
+base_url = "https://results.eci.gov.in/ResultAcGenNov2025/ConstituencywiseS04"
 
-def source_url(seq_no) -> str:
-    base_url = "https://results.eci.gov.in/ResultAcGenNov2025/ConstituencywiseS04"
+def source_url(base_url: str, seq_no: int) -> str:
     return base_url + str(seq_no) + ".htm"
 
-def state_data(state_name: str) -> dict:
-    df = pd.read_csv("states.csv")
-    state_row = df[df["state_name"].str.lower() == state_name.lower()].iloc[0]
+def get_state_details(state: str) -> dict:
+    """Returns state name, state code, and number of constituencies."""
 
+    state_df = pd.read_csv("data/ind-state-constituency-details.csv")
+    state_details = state_df[state_df["state_name"].str.lower() == state.lower()].iloc[0]
     return {
-        "state_name": state_row["state_name"],
-        "state_code": state_row["state_code"],
-        "total_constituencies": state_row["assembly_seats"].item(),
+        "state_name": state_details["state_name"],
+        "state_code": state_details["state_code"],
+        "assembly_seats": state_details["assembly_seats"].item(),
     }
 
-def get_voting_tally(total_constituency: int) -> pd.DataFrame:
+def get_coalition_parties() -> pd.DataFrame:
+    return pd.read_csv("data/bihar_coalitions.csv")
+
+def get_base_url(state: str, year: int) -> str:
+    base_url_df = pd.read_csv("data/ind-state-ec-url.csv")
+    base_url = base_url_df[(base_url_df["state"] == state) & (base_url_df["year"] == year)].iloc[0]["base_url"]
+    return base_url
+
+def get_voting_tally(base_url: str, total_constituency: int) -> pd.DataFrame:
     seq_no = 1
 
     # Initialize empty results dataframe
@@ -43,7 +52,8 @@ def get_voting_tally(total_constituency: int) -> pd.DataFrame:
     driver = webdriver.Chrome(options=options)
 
     while seq_no <= total_constituency:
-        driver.get(source_url(seq_no))
+        print(f"Scraping data for constituency number {seq_no}...")
+        driver.get(source_url(base_url, seq_no))
         WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.TAG_NAME, "tbody")))
 
         h1 = driver.find_element(By.TAG_NAME, "h1").text
@@ -55,7 +65,6 @@ def get_voting_tally(total_constituency: int) -> pd.DataFrame:
         election_year = h1.split("-")[-1].strip()
         election_type = h2.split()[0]
 
-        total_constituencies = state_data(state)["total_constituencies"]
 
         fieldnames = ["serial_num", "candidate_name", "party", "evmvotes", "postalvotes", "totalvotes", "vote_percent"]
 
@@ -78,12 +87,14 @@ def get_voting_tally(total_constituency: int) -> pd.DataFrame:
 def load_to_databricks(remote_file: str, local_file: str):
     DATABRICKS_HOST = os.environ["DATABRICKS_HOST"]
     DATABRICKS_TOKEN = os.environ["DATABRICKS_TOKEN"]
-    LOOKUP_PATH = os.environ["LOOKUP_PATH"]
+    CATALOG_NAME = os.environ["CATALOG_NAME"]
+    SCHEMA_NAME = os.environ["SCHEMA_NAME"]
+    VOLUME_PATH = f"/Volumes/{CATALOG_NAME}/{SCHEMA_NAME}/{os.environ['VOLUME_NAME']}"
 
-    api_endpoint = f"{DATABRICKS_HOST}/api/2.0/fs/files{LOOKUP_PATH}{remote_file}"
+    api_endpoint = f"{DATABRICKS_HOST}/api/2.0/fs/files{VOLUME_PATH}/{remote_file}"
 
     headers = {
-    'Authorization': f'Bearer {DATABRICKS_TOKEN}',
+        'Authorization': f'Bearer {DATABRICKS_TOKEN}',
     }
 
     with open(local_file, "rb") as f:
@@ -91,21 +102,32 @@ def load_to_databricks(remote_file: str, local_file: str):
 
     print(response.status_code, response.text)
 
-def main():
-    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    print(f"{current_time}: Starting Bihar Election Data Scrapper for 2025 Elections...")
-    total_constituencies = state_data("Bihar")["total_constituencies"]
+def get_state_result(state: str, voting_year: int) -> pd.DataFrame:
+    total_constituencies = get_state_details(state)["assembly_seats"]
+    url = get_base_url(state, voting_year)
 
-    df = get_voting_tally(total_constituencies) 
-    df.to_csv("bihar_election_results_2025.csv", index=False, header=True)
+    df = get_voting_tally(url, total_constituencies)
+    coal_df = get_coalition_parties()
+    return df.join(coal_df.set_index("party"), on="party", how="left")
+
+def load_results_to_db(state: str, voting_year: int):
+
+    start_time = datetime.now().strftime("%Y%m%d%H%M")
+    print(f"{start_time}: Starting {state} Election Data Scrapper for {voting_year} Elections...")
     
-    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    print(f"{current_time}: Bihar Election Data Scrapper completed successfully. Data saved to 'bihar_election_results_2025.csv'.") 
+    df = get_state_result(state, voting_year)
+
+    df.to_csv(f"data/{state.lower()}_election_results_{start_time}.csv", index=False, header=True)
+    
+    end_time = datetime.now().strftime("%Y%m%d%H%M")
+    print(f"{end_time}: {state} Election Data Scrapper completed successfully. Data saved to '{state.lower()}_election_results_{start_time}.csv'.") 
+
 
     load_to_databricks(
-        remote_file="bihar_election_results_2025.csv",
-        local_file="bihar_election_results_2025.csv"
+        remote_file=f"{state.lower()}_election_results_{start_time}.csv",
+        local_file=f"data/{state.lower()}_election_results_{start_time}.csv"
     )
 
+
 if __name__ == "__main__":
-    main()
+    load_results_to_db("Bihar", 2025)

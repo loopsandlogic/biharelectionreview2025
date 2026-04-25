@@ -2,3 +2,6 @@ selenium
 reportlab
 pandas
 numpy
+ipykernel
+requests
+dotenv
