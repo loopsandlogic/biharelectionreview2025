@@ -1,0 +1,244 @@
+State,District,Constituency_Num,Constituency_Name,Constituency_Category
+Bihar,Paschim Champaran,1,Valmiki Nagar,General
+Bihar,Paschim Champaran,2,Ramnagar,SC
+Bihar,Paschim Champaran,3,Narkatiaganj,General
+Bihar,Paschim Champaran,4,Bagaha,General
+Bihar,Paschim Champaran,5,Lauriya,General
+Bihar,Paschim Champaran,6,Nautan,General
+Bihar,Paschim Champaran,7,Chanpatia,General
+Bihar,Paschim Champaran,8,Bettiah,General
+Bihar,Paschim Champaran,9,Sikta,General
+Bihar,Paschim Champaran,10,Raxaul,General
+Bihar,Purvi Champaran,11,Sugauli,General
+Bihar,Purvi Champaran,12,Narkatia,General
+Bihar,Purvi Champaran,13,Harsidhi,SC
+Bihar,Purvi Champaran,14,Govindganj,General
+Bihar,Purvi Champaran,15,Kesaria,General
+Bihar,Purvi Champaran,16,Kalyanpur,General
+Bihar,Purvi Champaran,17,Pipra,General
+Bihar,Purvi Champaran,18,Madhuban,General
+Bihar,Purvi Champaran,19,Motihari,General
+Bihar,Purvi Champaran,20,Chiraia,General
+Bihar,Purvi Champaran,21,Dhaka,General
+Bihar,Sheohar,22,Sheohar,General
+Bihar,Sitamarhi,23,Riga,General
+Bihar,Sitamarhi,24,Bathnaha,SC
+Bihar,Sitamarhi,25,Parihar,General
+Bihar,Sitamarhi,26,Sursand,General
+Bihar,Sitamarhi,27,Bajpatti,General
+Bihar,Sitamarhi,28,Sitamarhi,General
+Bihar,Sitamarhi,29,Runnisaidpur,General
+Bihar,Sitamarhi,30,Belsand,General
+Bihar,Madhubani,31,Harlakhi,General
+Bihar,Madhubani,32,Piprahi,General
+Bihar,Madhubani,33,Benipatti,General
+Bihar,Madhubani,34,Khajauli,General
+Bihar,Madhubani,35,Babubarhi,General
+Bihar,Madhubani,36,Madhubani,General
+Bihar,Madhubani,37,Rajnagar,SC
+Bihar,Madhubani,38,Jhanjharpur,General
+Bihar,Madhubani,39,Phulparas,General
+Bihar,Madhubani,40,Laukaha,General
+Bihar,Supaul,41,Nirmali,General
+Bihar,Supaul,42,Pipra,General
+Bihar,Supaul,43,Supaul,General
+Bihar,Supaul,44,Triveniganj,SC
+Bihar,Supaul,45,Chhatapur,General
+Bihar,Araria,46,Narpatganj,General
+Bihar,Araria,47,Raniganj,SC
+Bihar,Araria,48,Forbesganj,General
+Bihar,Araria,49,Araria,General
+Bihar,Araria,50,Jokihat,General
+Bihar,Araria,51,Sikti,General
+Bihar,Kishanganj,52,Bahadurganj,General
+Bihar,Kishanganj,53,Thakurganj,General
+Bihar,Kishanganj,54,Kishanganj,General
+Bihar,Kishanganj,55,Kochadhaman,General
+Bihar,Purnia,56,Amour,General
+Bihar,Purnia,57,Baisi,General
+Bihar,Purnia,58,Kasba,General
+Bihar,Purnia,59,Banmankhi,SC
+Bihar,Purnia,60,Rupauli,General
+Bihar,Purnia,61,Dhamdaha,General
+Bihar,Purnia,62,Purnia,General
+Bihar,Katihar,63,Katihar,General
+Bihar,Katihar,64,Kadwa,General
+Bihar,Katihar,65,Balrampur,General
+Bihar,Katihar,66,Pranpur,General
+Bihar,Katihar,67,Manihari,ST
+Bihar,Katihar,68,Barari,General
+Bihar,Katihar,69,Korha,SC
+Bihar,Madhepura,70,Alamnagar,General
+Bihar,Madhepura,71,Bihariganj,General
+Bihar,Madhepura,72,Singheshwar,SC
+Bihar,Madhepura,73,Madhepura,General
+Bihar,Saharsa,74,Sonbarsha,SC
+Bihar,Saharsa,75,Saharsa,General
+Bihar,Saharsa,76,Simri Bakhtiarpur,General
+Bihar,Saharsa,77,Mahishi,General
+Bihar,Darbhanga,78,Kusheshwar Asthan,SC
+Bihar,Darbhanga,79,Gaura Bauram,General
+Bihar,Darbhanga,80,Benipur,General
+Bihar,Darbhanga,81,Alinagar,General
+Bihar,Darbhanga,82,Darbhanga Rural,General
+Bihar,Darbhanga,83,Darbhanga,General
+Bihar,Darbhanga,84,Hayaghat,General
+Bihar,Darbhanga,85,Bahadurpur,General
+Bihar,Darbhanga,86,Keoti,General
+Bihar,Darbhanga,87,Jale,General
+Bihar,Muzaffarpur,88,Gaighat,General
+Bihar,Muzaffarpur,89,Aurai,General
+Bihar,Muzaffarpur,90,Minapur,General
+Bihar,Muzaffarpur,91,Bochaha,SC
+Bihar,Muzaffarpur,92,Sakra,SC
+Bihar,Muzaffarpur,93,Kurhani,General
+Bihar,Muzaffarpur,94,Muzaffarpur,General
+Bihar,Muzaffarpur,95,Kanti,General
+Bihar,Muzaffarpur,96,Baruraj,General
+Bihar,Muzaffarpur,97,Paroo,General
+Bihar,Muzaffarpur,98,Sahebganj,General
+Bihar,Gopalganj,99,Baikunthpur,General
+Bihar,Gopalganj,100,Barauli,General
+Bihar,Gopalganj,101,Gopalganj,General
+Bihar,Gopalganj,102,Kuchaikote,General
+Bihar,Gopalganj,103,Bhorey,SC
+Bihar,Gopalganj,104,Hathua,General
+Bihar,Siwan,105,Siwan,General
+Bihar,Siwan,106,Ziradei,General
+Bihar,Siwan,107,Darauli (SC),SC
+Bihar,Siwan,108,Raghunathpur,General
+Bihar,Siwan,109,Daraundha,General
+Bihar,Siwan,110,Barharia,General
+Bihar,Siwan,111,Goriakothi,General
+Bihar,Siwan,112,Maharajganj,General
+Bihar,Saran,113,Ekma,General
+Bihar,Saran,114,Manjhi,General
+Bihar,Saran,115,Baniapur,General
+Bihar,Saran,116,Taraiya,General
+Bihar,Saran,117,Marhaura,General
+Bihar,Saran,118,Chapra,General
+Bihar,Saran,119,Garkha,SC
+Bihar,Saran,120,Amnour,General
+Bihar,Saran,121,Parsa,General
+Bihar,Saran,122,Sonepur,General
+Bihar,Vaishali,123,Hajipur,General
+Bihar,Vaishali,124,Lalganj,General
+Bihar,Vaishali,125,Vaishali,General
+Bihar,Vaishali,126,Mahua,General
+Bihar,Vaishali,127,Raja Pakar,SC
+Bihar,Vaishali,128,Raghopur,General
+Bihar,Vaishali,129,Mahnar,General
+Bihar,Vaishali,130,Patepur,SC
+Bihar,Samastipur,131,Kalyanpur,SC
+Bihar,Samastipur,132,Warisnagar,General
+Bihar,Samastipur,133,Samastipur,General
+Bihar,Samastipur,134,Ujiarpur,General
+Bihar,Samastipur,135,Morwa,General
+Bihar,Samastipur,136,Sarairanjan,General
+Bihar,Samastipur,137,Mohiuddinnagar,General
+Bihar,Samastipur,138,Bibhutipur,General
+Bihar,Samastipur,139,Rosera,SC
+Bihar,Samastipur,140,Hasanpur,General
+Bihar,Begusarai,141,Cheria Bariarpur,General
+Bihar,Begusarai,142,Bachhwara,General
+Bihar,Begusarai,143,Teghra,General
+Bihar,Begusarai,144,Matihani,General
+Bihar,Begusarai,145,Sahebpur Kamal,General
+Bihar,Begusarai,146,Begusarai,General
+Bihar,Begusarai,147,Bakhri,SC
+Bihar,Begusarai,148,Alauli,SC
+Bihar,Khagaria,149,Khagaria,General
+Bihar,Khagaria,150,Beldaur,General
+Bihar,Khagaria,151,Parbatta,General
+Bihar,Bhagalpur,152,Bihpur,General
+Bihar,Bhagalpur,153,Gopalpur,General
+Bihar,Bhagalpur,154,Pirpainti,SC
+Bihar,Bhagalpur,155,Kahalgaon,General
+Bihar,Bhagalpur,156,Bhagalpur,General
+Bihar,Bhagalpur,157,Sultanganj,General
+Bihar,Bhagalpur,158,Nathnagar,General
+Bihar,Banka,159,Amarpur,General
+Bihar,Banka,160,Dhauraiya,SC
+Bihar,Banka,161,Banka,General
+Bihar,Banka,162,Katoria,ST
+Bihar,Banka,163,Belhar,General
+Bihar,Munger,164,Tarapur,General
+Bihar,Munger,165,Munger,General
+Bihar,Munger,166,Jamalpur,General
+Bihar,Lakhisarai,167,Suryagarha,General
+Bihar,Lakhisarai,168,Lakhisarai,General
+Bihar,Sheikhpura,169,Sheikhpura,General
+Bihar,Sheikhpura,170,Barbigha,General
+Bihar,Nalanda,171,Asthawan,General
+Bihar,Nalanda,172,Biharsharif,General
+Bihar,Nalanda,173,Rajgir,SC
+Bihar,Nalanda,174,Islampur,General
+Bihar,Nalanda,175,Hilsa,General
+Bihar,Nalanda,176,Nalanda,General
+Bihar,Nalanda,177,Harnaut,General
+Bihar,Patna,178,Mokama,General
+Bihar,Patna,179,Barh,General
+Bihar,Patna,180,Bakhtiarpur,General
+Bihar,Patna,181,Digha,General
+Bihar,Patna,182,Bankipur,General
+Bihar,Patna,183,Kumhrar,General
+Bihar,Patna,184,Patna Sahib,General
+Bihar,Patna,185,Fatuha,General
+Bihar,Patna,186,Danapur,General
+Bihar,Patna,187,Maner,General
+Bihar,Patna,188,Phulwari,SC
+Bihar,Patna,189,Masaurhi,SC
+Bihar,Patna,190,Paliganj,General
+Bihar,Patna,191,Bikram,General
+Bihar,Bhojpur,192,Sandesh,General
+Bihar,Bhojpur,193,Barhara,General
+Bihar,Bhojpur,194,Arrah,General
+Bihar,Bhojpur,195,Agiaon,SC
+Bihar,Bhojpur,196,Tarari,General
+Bihar,Bhojpur,197,Jagdishpur,General
+Bihar,Bhojpur,198,Shahpur,General
+Bihar,Buxar,199,Brahampur,General
+Bihar,Buxar,200,Buxar,General
+Bihar,Buxar,201,Dumraon,General
+Bihar,Buxar,202,Rajpur,SC
+Bihar,Kaimur (Bhabua),203,Ramgarh,General
+Bihar,Kaimur (Bhabua),204,Mohania,SC
+Bihar,Kaimur (Bhabua),205,Bhabua,General
+Bihar,Kaimur (Bhabua),206,Chainpur,General
+Bihar,Rohtas,207,Chenari,SC
+Bihar,Rohtas,208,Sasaram,General
+Bihar,Rohtas,209,Kargahar,General
+Bihar,Rohtas,210,Dinara,General
+Bihar,Rohtas,211,Nokha,General
+Bihar,Rohtas,212,Dehri,General
+Bihar,Rohtas,213,Karakat,General
+Bihar,Arwal,214,Arwal,General
+Bihar,Arwal,215,Kurtha,General
+Bihar,Jehanabad,216,Jehanabad,General
+Bihar,Jehanabad,217,Ghosi,General
+Bihar,Jehanabad,218,Makhdumpur,SC
+Bihar,Aurangabad,219,Goh,General
+Bihar,Aurangabad,220,Obra,General
+Bihar,Aurangabad,221,Nabinagar,General
+Bihar,Aurangabad,222,Kutumba,SC
+Bihar,Aurangabad,223,Aurangabad,General
+Bihar,Aurangabad,224,Rafiganj,General
+Bihar,Gaya,225,Gurua,General
+Bihar,Gaya,226,Sherghati,General
+Bihar,Gaya,227,Imamganj,SC
+Bihar,Gaya,228,Barachatti,SC
+Bihar,Gaya,229,Bodh Gaya,SC
+Bihar,Gaya,230,Gaya Town,General
+Bihar,Gaya,231,Tikari,General
+Bihar,Gaya,232,Belaganj,General
+Bihar,Gaya,233,Atri,General
+Bihar,Gaya,234,Wazirganj,General
+Bihar,Nawada,235,Rajauli,SC
+Bihar,Nawada,236,Hisua,General
+Bihar,Nawada,237,Nawada,General
+Bihar,Nawada,238,Gobindpur,General
+Bihar,Nawada,239,Warsaliganj,General
+Bihar,Jamui,240,Sikandra,SC
+Bihar,Jamui,241,Jamui,General
+Bihar,Jamui,242,Jhajha,General
+Bihar,Jamui,243,Chakai,General

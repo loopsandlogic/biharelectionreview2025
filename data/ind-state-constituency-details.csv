@@ -1,4 +1,4 @@
-state_code,state_name,state_status,population,region,districts,assembly_seats,parliamentary_seats
+State_Code,State,State_Status,Population,Region,Num_of_Districts,Assembly_Seats,Parliamentary_Seats
 AN,Andaman and Nicobar Islands,UT,380581,South,3,0,1
 AP,Andhra Pradesh,State,49577103,South,26,175,25
 AR,Arunachal Pradesh,State,1383727,Northeast,25,60,2
