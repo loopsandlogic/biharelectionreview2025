@@ -42,7 +42,7 @@ def get_base_url(state: str, year: int) -> str:
 def get_state_constituency_details(state: str) -> pd.DataFrame:
     state = state.title()
     df = pd.read_csv("data/constituency_details.csv")
-    df = df[["Constituency_Num", "District", "Constituency_Category"]]
+    df = df[df["State"] == state][["Constituency_Num", "District", "Constituency_Category"]]
 
     return df
 

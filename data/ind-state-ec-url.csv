@@ -1,6 +1,7 @@
 year,state,base_url
 2025,Bihar,https://results.eci.gov.in/ResultAcGenNov2025/ConstituencywiseS04
 2026,Kerala,https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS11
-2026,West Bengal,https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS23
-2026,Assam,https://results.eci.gov.in/ResultAcGenMay2027/ConstituencywiseS03
-2026,Tamil Nadu,https://results.eci.gov.in/ResultAcGenMay2027/ConstituencywiseS33
+2026,West Bengal,https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS25
+2026,Assam,https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS03
+2026,Tamil Nadu,https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseS22
+2026,Puducherry,https://results.eci.gov.in/ResultAcGenMay2026/ConstituencywiseU07
