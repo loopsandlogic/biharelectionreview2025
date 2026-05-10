@@ -72,8 +72,8 @@ def get_voting_tally(base_url: str, total_constituency: int) -> pd.DataFrame:
         h2 = driver.find_element(By.TAG_NAME, "h2").text
         candidates = driver.find_element(By.TAG_NAME, "tbody")
 
-        state = h2.split("(")[1].replace(")", "").strip()
-        Constituency_Name = h2.split("(")[0].split("-")[1].strip()
+        state = h2.split("(")[-1].replace(")", "").strip()
+        Constituency_Name = "(".join(h2.split("(")[0:-1]).split("-")[1].strip()
 
         elem = driver.find_element(By.CSS_SELECTOR, "div.round-status")
         total_round = elem.text.split("/")[-1]
@@ -150,15 +150,15 @@ def load_results_to_db(state: str, voting_year: int):
     
     df = get_state_result(state, voting_year)
 
-    df.to_csv(f"data/{state.lower()}_election_results_{voting_year}.csv", index=False, header=True)
+    df.to_csv(f"data/{state.lower()}_election_results_{voting_year}_{start_time}.csv", index=False, header=True)
     
     end_time = datetime.now().strftime("%Y%m%d%H%M")
     print(f"{end_time}: {state} Election Data Scrapper completed successfully. Data saved to '{state.lower()}_election_results_{start_time}.csv'.") 
 
 
     load_to_databricks(
-        remote_file=f"{state.lower()}_election_results_{voting_year}.csv",
-        local_file=f"data/{state.lower()}_election_results_{voting_year}.csv"
+        remote_file=f"{state.lower()}_election_results_{voting_year}_{start_time}.csv",
+        local_file=f"data/{state.lower()}_election_results_{voting_year}_{start_time}.csv"
     )
 
 
